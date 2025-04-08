@@ -4,12 +4,16 @@
       "id": "1",
       "name": "フシギダネ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 70,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "つるのムチ",
@@ -20,18 +24,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "17",
       "name": "フシギソウ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 70,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "はっぱカッター",
@@ -42,20 +53,25 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 70,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "18",
       "name": "フシギバナ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "回復"
-      ],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 160,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "メガドレイン",
@@ -66,20 +82,27 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "回復"
+      ],
+      "imageKey": ""
     },
     {
       "id": "19",
       "name": "フシギバナEX",
       "cardType": "EX",
-      "imageKey": "",
-      "tags": [
-        "回復"
-      ],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 190,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "はっぱカッター",
@@ -99,20 +122,27 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 100,
+      "tags": [
+        "回復"
+      ],
+      "imageKey": ""
     },
     {
       "id": "20",
       "name": "キャタピー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "サーチ"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 50,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ともだちをさがす",
@@ -122,18 +152,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "サーチ"
+      ],
+      "imageKey": ""
     },
     {
       "id": "21",
       "name": "トランセル",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "むしくい",
@@ -143,20 +182,25 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "22",
       "name": "バタフリー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "回復"
-      ],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 120,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
+      "ability": {
+        "name": "パウダーヒール",
+        "effect": "自分の番に1回使える。自分のポケモン全員のHPを20回復。"
+      },
       "moves": [
         {
           "name": "かぜおこし",
@@ -167,18 +211,27 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "回復"
+      ],
+      "imageKey": ""
     },
     {
       "id": "23",
       "name": "ビードル",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 50,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "チクチクさす",
@@ -188,18 +241,25 @@
             "草": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "24",
       "name": "コクーン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "むしくい",
@@ -209,18 +269,25 @@
             "草": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "25",
       "name": "スピアー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 120,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "するどいはり",
@@ -230,18 +297,25 @@
             "草": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 70,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "26",
       "name": "ナゾノクサ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ぶつかる",
@@ -251,18 +325,25 @@
             "草": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "27",
       "name": "クサイハナ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "よだれ",
@@ -273,20 +354,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "28",
       "name": "ラフレシア",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "ねむり"
-      ],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 140,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "アロマスリープ",
@@ -297,18 +383,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "ねむり"
+      ],
+      "imageKey": ""
     },
     {
       "id": "29",
       "name": "パラス",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 70,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ひっかく",
@@ -319,18 +414,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "30",
       "name": "パラセクト",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 120,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "きりさく",
@@ -341,18 +443,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 80,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "31",
       "name": "コンパン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "たいあたり",
@@ -362,20 +471,25 @@
             "草": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "32",
       "name": "モルフォン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "どく"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "どくのこな",
@@ -385,18 +499,27 @@
             "草": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [
+        "どく"
+      ],
+      "imageKey": ""
     },
     {
       "id": "33",
       "name": "マダツボミ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "つるのムチ",
@@ -406,18 +529,25 @@
             "草": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "34",
       "name": "ウツドン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 90,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "はっぱカッター",
@@ -428,20 +558,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "35",
       "name": "ウツボット",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "敵ポケ入れ替え"
-      ],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 140,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 2,
+      "ability": {
+        "name": "かおりのわな",
+        "effect": "このポケモンがバトル場にいるなら、自分の番に一回使える。相手のベンチのたねポケモンを1匹選び、バトルポケモンと入れ替える。"
+      },
       "moves": [
         {
           "name": "つるのムチ",
@@ -452,18 +587,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "敵ポケ入れ替え"
+      ],
+      "imageKey": ""
     },
     {
       "id": "36",
       "name": "タマタマ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 50,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "タネばくだん",
@@ -473,20 +617,25 @@
             "草": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "37",
       "name": "ナッシー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "コイン"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 130,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ふみつけ",
@@ -496,20 +645,27 @@
             "草": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": ""
     },
     {
       "id": "38",
       "name": "ナッシーEX",
       "cardType": "EX",
-      "imageKey": "",
-      "tags": [
-        "コイン"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 160,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "トロピカルスイング",
@@ -519,20 +675,27 @@
             "草": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": ""
     },
     {
       "id": "39",
       "name": "モンジャラ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "回復"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "すいとる",
@@ -543,18 +706,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [
+        "回復"
+      ],
+      "imageKey": ""
     },
     {
       "id": "40",
       "name": "ストライク",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 70,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "するどいカマ",
@@ -564,20 +736,25 @@
             "草": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "41",
       "name": "カイロス",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "コイン"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 90,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ダブルホーン",
@@ -587,18 +764,27 @@
             "草": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 100,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": ""
     },
     {
       "id": "42",
       "name": "モンメン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 50,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "くっつく",
@@ -608,18 +794,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 10,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "43",
       "name": "エルフーン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ころがりタックル",
@@ -629,20 +822,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "44",
       "name": "チュリネ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "回復"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ちょっとすいとる",
@@ -652,20 +850,27 @@
             "草": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 10,
+      "tags": [
+        "回復"
+      ],
+      "imageKey": ""
     },
     {
       "id": "45",
       "name": "ドレディア",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "エネルギー加速"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 100,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "リーフサプライ",
@@ -675,20 +880,27 @@
             "草": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 50,
+      "tags": [
+        "エネルギー加速"
+      ],
+      "imageKey": ""
     },
     {
       "id": "46",
       "name": "メェークル",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "コイン"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 70,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ふいをつく",
@@ -698,18 +910,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": ""
     },
     {
       "id": "47",
       "name": "ゴーゴート",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 120,
       "type": "草",
       "weakness": "炎",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "はっぱカッター",
@@ -720,18 +941,25 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 70,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "48",
       "name": "ヒトカゲ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "炎",
       "weakness": "水",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ひのこ",
@@ -741,18 +969,25 @@
             "炎": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "49",
       "name": "リザード",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 90,
       "type": "炎",
       "weakness": "水",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ほのおのツメ",
@@ -763,18 +998,25 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 60,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "50",
       "name": "リザードン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 150,
       "type": "炎",
       "weakness": "水",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ほのおのうず",
@@ -785,18 +1027,25 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 150,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "51",
       "name": "リザードンEX",
       "cardType": "EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 180,
       "type": "炎",
       "weakness": "水",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "きりさく",
@@ -816,20 +1065,25 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 200,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "52",
       "name": "ロコン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "コイン"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 50,
       "type": "炎",
       "weakness": "水",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "しっぽをふる",
@@ -839,18 +1093,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": ""
     },
     {
       "id": "53",
       "name": "キュウコン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 90,
       "type": "炎",
       "weakness": "水",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "かえんほうしゃ",
@@ -860,18 +1123,25 @@
             "炎": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 90,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "54",
       "name": "ガーディ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 70,
       "type": "炎",
       "weakness": "水",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "かみつく",
@@ -881,18 +1151,25 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "55",
       "name": "ウィンディ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 130,
       "type": "炎",
       "weakness": "水",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ヒートタックル",
@@ -903,18 +1180,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 100,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "56",
       "name": "ウィンディEX",
       "cardType": "EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 150,
       "type": "炎",
       "weakness": "水",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "もうかのとっしん",
@@ -925,18 +1209,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 120,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "57",
       "name": "ポニータ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "炎",
       "weakness": "水",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ほのお",
@@ -946,18 +1237,25 @@
             "炎": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "58",
       "name": "ギャロップ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 100,
       "type": "炎",
       "weakness": "水",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ほのおのたてがみ",
@@ -967,18 +1265,25 @@
             "炎": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "59",
       "name": "ブーバー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "炎",
       "weakness": "水",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "マグマパンチ",
@@ -988,18 +1293,25 @@
             "炎": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 50,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "60",
       "name": "ブースター",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 120,
       "type": "炎",
       "weakness": "水",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "かえんほうしゃ",
@@ -1010,20 +1322,25 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 110,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "61",
       "name": "ファイヤー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "コイン"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 100,
       "type": "炎",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ゴッドバード",
@@ -1034,21 +1351,27 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 130,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": ""
     },
     {
       "id": "62",
       "name": "ファイヤーEX",
       "cardType": "EX",
-      "imageKey": "",
-      "tags": [
-        "エネルギー加速",
-        " コイン"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 140,
       "type": "炎",
       "weakness": "雷",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "れっかのまい",
@@ -1067,18 +1390,28 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 70,
+      "tags": [
+        "エネルギー加速",
+        " コイン"
+      ],
+      "imageKey": ""
     },
     {
       "id": "63",
       "name": "クイタラン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "炎",
       "weakness": "水",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "かえん",
@@ -1088,18 +1421,25 @@
             "炎": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "64",
       "name": "ヤトウモリ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "炎",
       "weakness": "水",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ひっかく",
@@ -1109,18 +1449,25 @@
             "炎": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "65",
       "name": "エンニュート",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 90,
       "type": "炎",
       "weakness": "水",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ほのおのツメ",
@@ -1131,18 +1478,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 60,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "66",
       "name": "ヤクデ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "炎",
       "weakness": "水",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "かじる",
@@ -1152,18 +1506,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 10,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "67",
       "name": "マルヤクデ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 130,
       "type": "炎",
       "weakness": "水",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "だいもんじ",
@@ -1174,18 +1535,25 @@
             "無色": 3
           }
         }
-      ]
+      ],
+      "maxDamage": 130,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "68",
       "name": "ゼニガメ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "みずでっぽう",
@@ -1195,18 +1563,25 @@
             "水": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "69",
       "name": "カメール",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "スプラッシュ",
@@ -1217,20 +1592,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "70",
       "name": "カメックス",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "自身のエネルギーの数に応じてダメージアップ"
-      ],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 150,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ハイドロポンプ",
@@ -1241,20 +1621,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 140,
+      "tags": [
+        "自身のエネルギーの数に応じてダメージアップ"
+      ],
+      "imageKey": ""
     },
     {
       "id": "71",
       "name": "カメックスEX",
       "cardType": "EX",
-      "imageKey": "",
-      "tags": [
-        "自身のエネルギーの数に応じてダメージアップ"
-      ],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 180,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "なみのり",
@@ -1274,20 +1661,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 160,
+      "tags": [
+        "自身のエネルギーの数に応じてダメージアップ"
+      ],
+      "imageKey": ""
     },
     {
       "id": "72",
       "name": "コダック",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "サポート封じ"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ずつう",
@@ -1297,18 +1691,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 10,
+      "tags": [
+        "サポート封じ"
+      ],
+      "imageKey": ""
     },
     {
       "id": "73",
       "name": "ゴルダック",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 90,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "アクアエッジ",
@@ -1318,18 +1721,25 @@
             "水": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 70,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "74",
       "name": "ニョロモ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ひれカッター",
@@ -1339,18 +1749,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 10,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "75",
       "name": "ニョロゾ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 90,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "げんこつ",
@@ -1360,20 +1777,25 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "76",
       "name": "ニョロボン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "ダメージ反撃"
-      ],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 150,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 2,
+      "ability": {
+        "name": "はんげき",
+        "effect": "このポケモンが、バトル場で相手のポケモンからのワザのダメージを受けた時、ワザを使ったポケモンに20ダメージ。"
+      },
       "moves": [
         {
           "name": "メガトンパンチ",
@@ -1384,18 +1806,27 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "ダメージ反撃"
+      ],
+      "imageKey": ""
     },
     {
       "id": "77",
       "name": "メノクラゲ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ひっぱたく",
@@ -1405,20 +1836,25 @@
             "水": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "78",
       "name": "ドククラゲ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "どく"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 110,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "どくのしょくしゅ",
@@ -1429,18 +1865,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 50,
+      "tags": [
+        "どく"
+      ],
+      "imageKey": ""
     },
     {
       "id": "79",
       "name": "パウワウ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ずつき",
@@ -1450,18 +1895,25 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "80",
       "name": "ジュゴン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 120,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "なみのり",
@@ -1471,18 +1923,25 @@
             "水": 3
           }
         }
-      ]
+      ],
+      "maxDamage": 90,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "81",
       "name": "シェルダー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ベロではたく",
@@ -1492,20 +1951,25 @@
             "水": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "82",
       "name": "パルシェン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "ダメージ減少"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 120,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 3,
+      "ability": {
+        "name": "シェルアーマー",
+        "effect": "このポケモンが受けるワザのダメージを-10する。"
+      },
       "moves": [
         {
           "name": "なみのり",
@@ -1516,18 +1980,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 70,
+      "tags": [
+        "ダメージ減少"
+      ],
+      "imageKey": ""
     },
     {
       "id": "83",
       "name": "クラブ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 70,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "はさむ",
@@ -1538,20 +2011,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "84",
       "name": "キングラー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "コイン"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 120,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ひっさつクラブ",
@@ -1562,18 +2040,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 160,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": ""
     },
     {
       "id": "85",
       "name": "タッツー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 0,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "みずでっぽう",
@@ -1583,20 +2070,25 @@
             "水": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "86",
       "name": "シードラ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "ベンチ狙撃"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 70,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ウォーターアロー",
@@ -1606,18 +2098,27 @@
             "水": 3
           }
         }
-      ]
+      ],
+      "maxDamage": 50,
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "imageKey": ""
     },
     {
       "id": "87",
       "name": "トサキント",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "はねまわる",
@@ -1627,20 +2128,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 10,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "88",
       "name": "アズマオウ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "コイン"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 100,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "つのでつつく",
@@ -1650,18 +2156,27 @@
             "水": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": ""
     },
     {
       "id": "89",
       "name": "ヒトデマン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 50,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ひらてうち",
@@ -1671,18 +2186,25 @@
             "水": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "90",
       "name": "スターミー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 90,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 0,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "スプラッシュ",
@@ -1692,18 +2214,25 @@
             "水": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "91",
       "name": "スターミーEX",
       "cardType": "EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 130,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 0,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ハイドロスプラッシュ",
@@ -1713,18 +2242,25 @@
             "水": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 90,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "92",
       "name": "コイキング",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 30,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "はねる",
@@ -1734,20 +2270,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 10,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "93",
       "name": "ギャラドス",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "敵エネルギートラッシュ"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 150,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 4,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "はかいこうせん",
@@ -1757,20 +2298,27 @@
             "水": 4
           }
         }
-      ]
+      ],
+      "maxDamage": 100,
+      "tags": [
+        "敵エネルギートラッシュ"
+      ],
+      "imageKey": ""
     },
     {
       "id": "94",
       "name": "ラプラス",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "自身のエネルギーの数に応じてダメージアップ"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 100,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ハイドロポンプ",
@@ -1780,20 +2328,27 @@
             "水": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 90,
+      "tags": [
+        "自身のエネルギーの数に応じてダメージアップ"
+      ],
+      "imageKey": ""
     },
     {
       "id": "95",
       "name": "シャワーズ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "回復"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 130,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "バブルドレイン",
@@ -1804,18 +2359,27 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "回復"
+      ],
+      "imageKey": ""
     },
     {
       "id": "96",
       "name": "オムナイト",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 90,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "みずでっぽう",
@@ -1825,20 +2389,25 @@
             "水": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "97",
       "name": "オムスター",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "ワザ封じ"
-      ],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 140,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "こだいのうずしお",
@@ -1849,21 +2418,27 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 70,
+      "tags": [
+        "ワザ封じ"
+      ],
+      "imageKey": ""
     },
     {
       "id": "98",
       "name": "フリーザー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "まひ",
-        " コイン"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 100,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "れいとうビーム",
@@ -1874,20 +2449,28 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "まひ",
+        " コイン"
+      ],
+      "imageKey": ""
     },
     {
       "id": "99",
       "name": "フリーザーEX",
       "cardType": "EX",
-      "imageKey": "",
-      "tags": [
-        "ベンチ狙撃"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 140,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "アイスウィング",
@@ -1906,18 +2489,27 @@
             "水": 3
           }
         }
-      ]
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "imageKey": ""
     },
     {
       "id": "100",
       "name": "コアルヒー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 50,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "はばたく",
@@ -1927,18 +2519,25 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "101",
       "name": "スワンナ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 90,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "つばさでうつ",
@@ -1948,18 +2547,25 @@
             "無色": 3
           }
         }
-      ]
+      ],
+      "maxDamage": 70,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "102",
       "name": "ケロマツ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "はねまわる",
@@ -1969,18 +2575,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 10,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "103",
       "name": "ゲコガシラ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "みずきり",
@@ -1990,20 +2603,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "104",
       "name": "ゲッコウガ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "ベンチ狙撃"
-      ],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 120,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "みずしゅりけん",
+        "effect": "自分の番に1回使える。相手のポケモン1匹に20ダメージ。"
+      },
       "moves": [
         {
           "name": "かすみぎり",
@@ -2014,18 +2632,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "imageKey": ""
     },
     {
       "id": "105",
       "name": "ナマコブシ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 70,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "みずかけ",
@@ -2035,20 +2662,25 @@
             "水": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "106",
       "name": "ハギギシリ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "相手がダメージを受けているならダメージアップ"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 90,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "きずをえぐる",
@@ -2059,18 +2691,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 70,
+      "tags": [
+        "相手がダメージを受けているならダメージアップ"
+      ],
+      "imageKey": ""
     },
     {
       "id": "107",
       "name": "ユキハミ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 50,
       "type": "水",
       "weakness": "鋼",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ぶつかる",
@@ -2080,20 +2721,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 10,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "108",
       "name": "モスノウ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "ねむり"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 90,
       "type": "水",
       "weakness": "鋼",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "こなゆき",
@@ -2104,18 +2750,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [
+        "ねむり"
+      ],
+      "imageKey": ""
     },
     {
       "id": "109",
       "name": "ピカチュウ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "かじる",
@@ -2125,18 +2780,25 @@
             "雷": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "110",
       "name": "ライチュウ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 100,
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "10まんボルト",
@@ -2146,18 +2808,25 @@
             "雷": 3
           }
         }
-      ]
+      ],
+      "maxDamage": 140,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "111",
       "name": "ピカチュウEX",
       "cardType": "EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 120,
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "エレキサークル",
@@ -2167,18 +2836,25 @@
             "雷": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 90,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "112",
       "name": "コイル",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ビッカリだま",
@@ -2188,20 +2864,25 @@
             "雷": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "113",
       "name": "レアコイル",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "エネルギー加速"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 2,
+      "ability": {
+        "name": "ボルトチャージ",
+        "effect": "自分の番に1回使える。自分のエネルギーゾーンから雷エネルギーを1個取り出し、このポケモンにつける。"
+      },
       "moves": [
         {
           "name": "かいてんアタック",
@@ -2212,18 +2893,27 @@
             "無色": 3
           }
         }
-      ]
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "エネルギー加速"
+      ],
+      "imageKey": ""
     },
     {
       "id": "114",
       "name": "ビリリダマ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "たいあたり",
@@ -2233,18 +2923,25 @@
             "雷": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "115",
       "name": "マルマイン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 0,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "エレキボール",
@@ -2254,20 +2951,25 @@
             "雷": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 70,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "116",
       "name": "エレブー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "コイン"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 70,
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "かみなりパンチ",
@@ -2277,20 +2979,27 @@
             "雷": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": ""
     },
     {
       "id": "117",
       "name": "サンダース",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "コイン"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 90,
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ミサイルばり",
@@ -2301,18 +3010,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 160,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": ""
     },
     {
       "id": "118",
       "name": "サンダー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 100,
       "type": "雷",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "らくらい",
@@ -2323,20 +3041,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 100,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "119",
       "name": "サンダーEX",
       "cardType": "EX",
-      "imageKey": "",
-      "tags": [
-        "コイン"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 130,
       "type": "雷",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "つつく",
@@ -2354,18 +3077,27 @@
             "雷": 3
           }
         }
-      ]
+      ],
+      "maxDamage": 200,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": ""
     },
     {
       "id": "120",
       "name": "シママ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "エレキック",
@@ -2375,20 +3107,25 @@
             "雷": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "121",
       "name": "ゼブライカ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "ベンチ狙撃"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 90,
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "サンダーアロー",
@@ -2398,18 +3135,27 @@
             "雷": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "imageKey": ""
     },
     {
       "id": "122",
       "name": "シビシラス",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 30,
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "プチでんき",
@@ -2419,18 +3165,25 @@
             "雷": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "123",
       "name": "シビビール",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ヘッドボルト",
@@ -2440,21 +3193,25 @@
             "雷": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "124",
       "name": "シビルドン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "まひ",
-        " コイン"
-      ],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 140,
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "80",
@@ -2465,18 +3222,28 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "まひ",
+        " コイン"
+      ],
+      "imageKey": ""
     },
     {
       "id": "125",
       "name": "エレキテル",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "しっぽではたく",
@@ -2486,20 +3253,25 @@
             "雷": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "126",
       "name": "エレザード",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "コイン"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 90,
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "でんこうせっか",
@@ -2509,21 +3281,27 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": ""
     },
     {
       "id": "127",
       "name": "バチンウニ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "まひ",
-        " コイン"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 70,
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "でんきショック",
@@ -2533,18 +3311,28 @@
             "雷": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [
+        "まひ",
+        " コイン"
+      ],
+      "imageKey": ""
     },
     {
       "id": "128",
       "name": "ピッピ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "超",
       "weakness": "鋼",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ビンタ",
@@ -2554,18 +3342,25 @@
             "超": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "129",
       "name": "ピクシー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 100,
       "type": "超",
       "weakness": "鋼",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "マジカルショット",
@@ -2575,20 +3370,25 @@
             "超": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "130",
       "name": "ケーシィ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "ベンチに逃げる"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "超",
       "weakness": "悪",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "テレポート",
@@ -2598,18 +3398,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "ベンチに逃げる"
+      ],
+      "imageKey": ""
     },
     {
       "id": "131",
       "name": "ユンゲラー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "超",
       "weakness": "悪",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ちょうねんりき",
@@ -2620,20 +3429,25 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 60,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "132",
       "name": "フーディン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "相手エネルギーの数だけダメージアップ"
-      ],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 130,
       "type": "超",
       "weakness": "悪",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "サイコキネシス",
@@ -2644,18 +3458,27 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 210,
+      "tags": [
+        "相手エネルギーの数だけダメージアップ"
+      ],
+      "imageKey": ""
     },
     {
       "id": "133",
       "name": "ヤドン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 70,
       "type": "超",
       "weakness": "悪",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "しっぽではたく",
@@ -2666,18 +3489,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "134",
       "name": "ヤドラン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 130,
       "type": "超",
       "weakness": "悪",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ちょうねんりき",
@@ -2688,18 +3518,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 80,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "135",
       "name": "ゴース",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "超",
       "weakness": "悪",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ガスでつつむ",
@@ -2709,18 +3546,25 @@
             "超": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "136",
       "name": "ゴースト",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "超",
       "weakness": "悪",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "おにび",
@@ -2730,20 +3574,25 @@
             "超": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "137",
       "name": "ゲンガー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "サポート封じ"
-      ],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 130,
       "type": "超",
       "weakness": "悪",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "いやがらせ",
@@ -2753,20 +3602,27 @@
             "超": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 50,
+      "tags": [
+        "サポート封じ"
+      ],
+      "imageKey": ""
     },
     {
       "id": "138",
       "name": "ゲンガーEX",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "サポート封じ"
-      ],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 170,
       "type": "超",
       "weakness": "悪",
       "retreatCost": 2,
+      "ability": {
+        "name": "かげのじゅばく",
+        "effect": "このポケモンがバトル場にいるかぎり、相手は手札からサポートを出して使えない。"
+      },
       "moves": [
         {
           "name": "ホロウショット",
@@ -2776,18 +3632,27 @@
             "超": 3
           }
         }
-      ]
+      ],
+      "maxDamage": 100,
+      "tags": [
+        "サポート封じ"
+      ],
+      "imageKey": ""
     },
     {
       "id": "139",
       "name": "スリープ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 70,
       "type": "超",
       "weakness": "悪",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "つぶやく",
@@ -2798,21 +3663,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "140",
       "name": "スリーパー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "ねむり",
-        " コイン"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 100,
       "type": "超",
       "weakness": "悪",
       "retreatCost": 2,
+      "ability": {
+        "name": "ねむりのふりこ",
+        "effect": "自分の番に1個使える。コインを1回投げオモテなら、相手のバトルポケモンをねむりにする。"
+      },
       "moves": [
         {
           "name": "サイコパンチ",
@@ -2823,20 +3692,28 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 50,
+      "tags": [
+        "ねむり",
+        " コイン"
+      ],
+      "imageKey": ""
     },
     {
       "id": "141",
       "name": "バリヤード",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "ダメージ減少"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "超",
       "weakness": "悪",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "バリアアタック",
@@ -2847,20 +3724,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [
+        "ダメージ減少"
+      ],
+      "imageKey": ""
     },
     {
       "id": "142",
       "name": "ルージュラ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "相手エネルギーの数だけダメージアップ"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "超",
       "weakness": "悪",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "サイコキネシス",
@@ -2871,18 +3755,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 130,
+      "tags": [
+        "相手エネルギーの数だけダメージアップ"
+      ],
+      "imageKey": ""
     },
     {
       "id": "143",
       "name": "ミュウツー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 120,
       "type": "超",
       "weakness": "悪",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "パワーブラスト",
@@ -2893,18 +3786,25 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 120,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "144",
       "name": "ミュウツーEX",
       "cardType": "EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 150,
       "type": "超",
       "weakness": "悪",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ねんどうだん",
@@ -2924,18 +3824,25 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 150,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "145",
       "name": "ラルトス",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "超",
       "weakness": "悪",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ぶつかる",
@@ -2945,18 +3852,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 10,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "146",
       "name": "キルリア",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "超",
       "weakness": "悪",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ひらてうち",
@@ -2967,20 +3881,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "147",
       "name": "サーナイト",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "エネルギー加速"
-      ],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 110,
       "type": "超",
       "weakness": "悪",
       "retreatCost": 2,
+      "ability": {
+        "name": "トランスシェイド",
+        "effect": "自分の場に1回使える。自分のエネルギーゾーンから超エネルギーを1個出し、バトル場の超ポケモンにつける。"
+      },
       "moves": [
         {
           "name": "サイコショット",
@@ -2991,18 +3910,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "エネルギー加速"
+      ],
+      "imageKey": ""
     },
     {
       "id": "148",
       "name": "コロモリ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "超",
       "weakness": "悪",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "かじる",
@@ -3012,18 +3940,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 10,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "149",
       "name": "ココロモリ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 90,
       "type": "超",
       "weakness": "悪",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ハートスタンプ",
@@ -3034,18 +3969,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 60,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "150",
       "name": "ゴビット",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 90,
       "type": "超",
       "weakness": "悪",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "メガトンパンチ",
@@ -3056,20 +3998,25 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 50,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "151",
       "name": "ゴルーグ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "コイン"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 140,
       "type": "超",
       "weakness": "悪",
       "retreatCost": 4,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ダブルラリアット",
@@ -3080,18 +4027,27 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 200,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": ""
     },
     {
       "id": "152",
       "name": "サンド",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 70,
       "type": "闘",
       "weakness": "草",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ひっかく",
@@ -3101,18 +4057,25 @@
             "闘": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 10,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "153",
       "name": "サンドパン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 100,
       "type": "闘",
       "weakness": "草",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "きりさく",
@@ -3122,18 +4085,25 @@
             "闘": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 70,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "154",
       "name": "ディグダ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 50,
       "type": "闘",
       "weakness": "草",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "どろかけ",
@@ -3143,22 +4113,25 @@
             "闘": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "155",
       "name": "ダグトリオ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "コイン",
-        " ダメージ減少",
-        " ダメージ無効化"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 70,
       "type": "闘",
       "weakness": "草",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "あなをほる",
@@ -3168,18 +4141,29 @@
             "闘": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [
+        "コイン",
+        " ダメージ減少",
+        " ダメージ無効化"
+      ],
+      "imageKey": ""
     },
     {
       "id": "156",
       "name": "マンキー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "闘",
       "weakness": "超",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "けたぐり",
@@ -3189,20 +4173,25 @@
             "闘": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "157",
       "name": "オコリザル",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "リベンジ"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 90,
       "type": "闘",
       "weakness": "超",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "やりかえす",
@@ -3212,18 +4201,27 @@
             "闘": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 100,
+      "tags": [
+        "リベンジ"
+      ],
+      "imageKey": ""
     },
     {
       "id": "158",
       "name": "ワンリキー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 70,
       "type": "闘",
       "weakness": "超",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "げんこつ",
@@ -3233,18 +4231,25 @@
             "闘": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "159",
       "name": "ゴーリキー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 100,
       "type": "闘",
       "weakness": "超",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "かいりき",
@@ -3254,18 +4259,25 @@
             "闘": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 50,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "160",
       "name": "カイリキー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 150,
       "type": "闘",
       "weakness": "超",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ちきゅうなげ",
@@ -3275,18 +4287,25 @@
             "闘": 3
           }
         }
-      ]
+      ],
+      "maxDamage": 100,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "161",
       "name": "カイリキーEX",
       "cardType": "EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 180,
       "type": "闘",
       "weakness": "超",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "メガトンパンチ",
@@ -3296,18 +4315,25 @@
             "闘": 3
           }
         }
-      ]
+      ],
+      "maxDamage": 120,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "162",
       "name": "イシツブテ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 70,
       "type": "闘",
       "weakness": "草",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "たいあたり",
@@ -3317,18 +4343,25 @@
             "闘": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "163",
       "name": "ゴローン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 100,
       "type": "闘",
       "weakness": "草",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ころがる",
@@ -3339,18 +4372,25 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 70,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "164",
       "name": "ゴローニャ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 160,
       "type": "闘",
       "weakness": "草",
       "retreatCost": 4,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "すてみタックル",
@@ -3361,18 +4401,25 @@
             "無色": 3
           }
         }
-      ]
+      ],
+      "maxDamage": 150,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "165",
       "name": "イワーク",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 110,
       "type": "闘",
       "weakness": "草",
       "retreatCost": 4,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ランドクラッシュ",
@@ -3382,20 +4429,25 @@
             "闘": 3
           }
         }
-      ]
+      ],
+      "maxDamage": 70,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "166",
       "name": "カラカラ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "ダメージ減少"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "闘",
       "weakness": "草",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "なきごえ",
@@ -3405,18 +4457,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "ダメージ減少"
+      ],
+      "imageKey": ""
     },
     {
       "id": "167",
       "name": "ガラガラ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 100,
       "type": "闘",
       "weakness": "草",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ホネなぐり",
@@ -3426,20 +4487,25 @@
             "闘": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "168",
       "name": "ガラガラEX",
       "cardType": "EX",
-      "imageKey": "",
-      "tags": [
-        "コイン"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 140,
       "type": "闘",
       "weakness": "草",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "骨ブーメラン",
@@ -3449,20 +4515,27 @@
             "闘": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 160,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": ""
     },
     {
       "id": "169",
       "name": "サワムラー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "ベンチ狙撃"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "闘",
       "weakness": "超",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "のびるキック",
@@ -3472,18 +4545,27 @@
             "闘": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "imageKey": ""
     },
     {
       "id": "170",
       "name": "エビワラー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "闘",
       "weakness": "超",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ジャブ",
@@ -3493,18 +4575,25 @@
             "闘": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "171",
       "name": "サイホーン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "闘",
       "weakness": "草",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "たいあたり",
@@ -3515,18 +4604,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 60,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "172",
       "name": "サイドン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 120,
       "type": "闘",
       "weakness": "草",
       "retreatCost": 4,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "つのドリル",
@@ -3537,18 +4633,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 100,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "173",
       "name": "カブト",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 90,
       "type": "闘",
       "weakness": "草",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "こうらアタック",
@@ -3558,20 +4661,25 @@
             "闘": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "174",
       "name": "カブトプス",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "回復"
-      ],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 140,
       "type": "闘",
       "weakness": "超",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "きゅうけつ",
@@ -3581,18 +4689,27 @@
             "闘": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 50,
+      "tags": [
+        "回復"
+      ],
+      "imageKey": ""
     },
     {
       "id": "175",
       "name": "コジョフー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "闘",
       "weakness": "超",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "はたく",
@@ -3602,18 +4719,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "176",
       "name": "コジョンド",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "闘",
       "weakness": "超",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "かいてんげり",
@@ -3623,18 +4747,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "177",
       "name": "タタッコ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "闘",
       "weakness": "超",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "げんこつ",
@@ -3645,20 +4776,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "178",
       "name": "オストパス",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "敵ポケ入れ替え"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 130,
       "type": "闘",
       "weakness": "超",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "なぐりとばす",
@@ -3669,18 +4805,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 70,
+      "tags": [
+        "敵ポケ入れ替え"
+      ],
+      "imageKey": ""
     },
     {
       "id": "179",
       "name": "アーボ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "かみつく",
@@ -3690,20 +4835,25 @@
             "悪": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "180",
       "name": "アーボック",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "かげふみ"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 100,
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "おいつめる",
@@ -3713,20 +4863,27 @@
             "悪": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "かげふみ"
+      ],
+      "imageKey": ""
     },
     {
       "id": "181",
       "name": "ニドラン♀",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "サーチ"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "なかまをよぶ",
@@ -3734,18 +4891,27 @@
           "effect": "自分の山札から「ニドラン♂」をランダムに1枚、ベンチに出す。",
           "cost": {}
         }
-      ]
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "サーチ"
+      ],
+      "imageKey": ""
     },
     {
       "id": "182",
       "name": "ニドリーナ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "かみつく",
@@ -3755,18 +4921,25 @@
             "悪": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "183",
       "name": "ニドクイン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 140,
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ラブラブアタック",
@@ -3777,18 +4950,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 180,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "184",
       "name": "ニドラン♂",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "つつく",
@@ -3798,18 +4978,25 @@
             "悪": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "185",
       "name": "ニドリーノ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 90,
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "つのでつく",
@@ -3820,20 +5007,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "186",
       "name": "ニドキング",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "どく"
-      ],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 150,
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "どくのつの",
@@ -3844,18 +5036,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 90,
+      "tags": [
+        "どく"
+      ],
+      "imageKey": ""
     },
     {
       "id": "187",
       "name": "ズバット",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 50,
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "かっくう",
@@ -3865,18 +5066,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 10,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "188",
       "name": "ゴルバット",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 70,
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "つばさでうつ",
@@ -3886,20 +5094,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "189",
       "name": "ベトベター",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "どく"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 70,
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "どくガス",
@@ -3909,20 +5122,27 @@
             "悪": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 10,
+      "tags": [
+        "どく"
+      ],
+      "imageKey": ""
     },
     {
       "id": "190",
       "name": "ベトベトン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "相手がどくならダメージアップ"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 130,
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ベノムショック",
@@ -3933,18 +5153,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 120,
+      "tags": [
+        "相手がどくならダメージアップ"
+      ],
+      "imageKey": ""
     },
     {
       "id": "191",
       "name": "ドガース",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 70,
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ガスでつつむ",
@@ -3954,20 +5183,25 @@
             "悪": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "192",
       "name": "マタドガス",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "どく"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 110,
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 3,
+      "ability": {
+        "name": "もれだすガス",
+        "effect": "このポケモンがバトル場にいるなら、自分の場に一回使える。相手のバトルポケモンをどくにする。"
+      },
       "moves": [
         {
           "name": "たいあたり",
@@ -3977,21 +5211,27 @@
             "悪": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [
+        "どく"
+      ],
+      "imageKey": ""
     },
     {
       "id": "193",
       "name": "クチート",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "コイン",
-        " 敵エネルギートラッシュ"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 70,
       "type": "鋼",
       "weakness": "炎",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "かみくだく",
@@ -4001,18 +5241,28 @@
             "鋼": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [
+        "コイン",
+        " 敵エネルギートラッシュ"
+      ],
+      "imageKey": ""
     },
     {
       "id": "194",
       "name": "コマタナ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 50,
       "type": "鋼",
       "weakness": "炎",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "つきさす",
@@ -4022,18 +5272,25 @@
             "鋼": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "195",
       "name": "キリキザン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 90,
       "type": "鋼",
       "weakness": "炎",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "メタルクロー",
@@ -4043,20 +5300,25 @@
             "鋼": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 70,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "196",
       "name": "メルタン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "エネルギー加速"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "鋼",
       "weakness": "炎",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ためる",
@@ -4066,20 +5328,27 @@
             "鋼": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "エネルギー加速"
+      ],
+      "imageKey": ""
     },
     {
       "id": "197",
       "name": "メルメタル",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "ダメージ減少"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 130,
       "type": "鋼",
       "weakness": "炎",
       "retreatCost": 3,
+      "ability": {
+        "name": "ハードコート",
+        "effect": "このポケモンが受けるワザのダメージを-20する。"
+      },
       "moves": [
         {
           "name": "ヘビーインパクト",
@@ -4090,18 +5359,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 120,
+      "tags": [
+        "ダメージ減少"
+      ],
+      "imageKey": ""
     },
     {
       "id": "198",
       "name": "ミニリュウ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 70,
       "type": "ドラゴン",
       "weakness": "",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ぶつかる",
@@ -4112,18 +5390,25 @@
             "雷": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "199",
       "name": "ハクリュー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 100,
       "type": "ドラゴン",
       "weakness": "",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "しっぽでたたく",
@@ -4135,20 +5420,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 80,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "200",
       "name": "カイリュー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "ランダム攻撃"
-      ],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 160,
       "type": "ドラゴン",
       "weakness": "",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "りゅうせいぐん",
@@ -4160,18 +5450,27 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 200,
+      "tags": [
+        "ランダム攻撃"
+      ],
+      "imageKey": ""
     },
     {
       "id": "201",
       "name": "ポッポ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "無色",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "かぜおこし",
@@ -4181,18 +5480,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 10,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "202",
       "name": "ピジョン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "無色",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "かぜおこし",
@@ -4202,20 +5508,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "203",
       "name": "ピジョット",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "敵ポケ入れ替え"
-      ],
+      "evolutionStage": "2進化",
+      "pack": "最強の遺伝子",
       "hp": 130,
       "type": "無色",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "おいはらう",
+        "effect": "自分の番に一回使える。相手のバトルポケモンをベンチポケモンと入れ替える。(バトル場にだすポケモンは相手が選ぶ。)"
+      },
       "moves": [
         {
           "name": "つばさでうつ",
@@ -4225,18 +5536,27 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 70,
+      "tags": [
+        "敵ポケ入れ替え"
+      ],
+      "imageKey": ""
     },
     {
       "id": "204",
       "name": "コラッタ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 40,
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "かじる",
@@ -4246,18 +5566,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "205",
       "name": "コラッタ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "かみつく",
@@ -4267,18 +5594,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "206",
       "name": "オニスズメ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "無色",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "つつく",
@@ -4288,20 +5622,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "207",
       "name": "オニドリル",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "敵エネルギートラッシュ"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 100,
       "type": "無色",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ドリルライナー",
@@ -4311,18 +5650,27 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 50,
+      "tags": [
+        "敵エネルギートラッシュ"
+      ],
+      "imageKey": ""
     },
     {
       "id": "208",
       "name": "プリン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "はたく",
@@ -4332,18 +5680,25 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "209",
       "name": "プクリン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 100,
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ハイパーボイス",
@@ -4353,20 +5708,25 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 60,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "210",
       "name": "プクリンEX",
       "cardType": "EX",
-      "imageKey": "",
-      "tags": [
-        "ねむり"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 140,
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "スリーピーソング",
@@ -4376,20 +5736,27 @@
             "無色": 3
           }
         }
-      ]
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "ねむり"
+      ],
+      "imageKey": ""
     },
     {
       "id": "211",
       "name": "ニャース",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "ドロー"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ネコにこばん",
@@ -4399,21 +5766,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 10,
+      "tags": [
+        "ドロー"
+      ],
+      "imageKey": ""
     },
     {
       "id": "212",
       "name": "ペルシアン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "コイン",
-        " 相手手札干渉"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 90,
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "シャドークロー",
@@ -4423,18 +5796,28 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [
+        "コイン",
+        " 相手手札干渉"
+      ],
+      "imageKey": ""
     },
     {
       "id": "213",
       "name": "カモネギ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "無色",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ネギでたたく",
@@ -4444,18 +5827,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "214",
       "name": "ドードー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "無色",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "つつく",
@@ -4465,18 +5855,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "215",
       "name": "ドードリオ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 80,
       "type": "無色",
       "weakness": "雷",
       "retreatCost": 0,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ドリルくちばし",
@@ -4486,20 +5883,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "216",
       "name": "ベロリンガ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "コイン"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 90,
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "れんぞくベロベロ",
@@ -4509,18 +5911,27 @@
             "無色": 3
           }
         }
-      ]
+      ],
+      "maxDamage": 300,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": ""
     },
     {
       "id": "217",
       "name": "ラッキー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 120,
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ひっぱたく",
@@ -4530,20 +5941,25 @@
             "無色": 3
           }
         }
-      ]
+      ],
+      "maxDamage": 60,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "218",
       "name": "ガルーラ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "コイン"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 100,
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ピヨピヨパンチ",
@@ -4553,18 +5969,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": ""
     },
     {
       "id": "219",
       "name": "ケンタロス",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 100,
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "つのでつく",
@@ -4574,20 +5999,25 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 50,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "220",
       "name": "メタモン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "技コピー"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 70,
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "どこでもコピー",
@@ -4597,18 +6027,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "技コピー"
+      ],
+      "imageKey": ""
     },
     {
       "id": "221",
       "name": "イーブイ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "たいあたり",
@@ -4618,20 +6057,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "222",
       "name": "ポリゴン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "山札チェック"
-      ],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 50,
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "データスキャン",
+        "effect": "自分の番に一回使える。自分の山札から1枚見て、もとにもどす。"
+      },
       "moves": [
         {
           "name": "かくばる",
@@ -4641,20 +6085,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [
+        "山札チェック"
+      ],
+      "imageKey": ""
     },
     {
       "id": "223",
       "name": "プテラ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [
-        "敵のバトルポケモン除去"
-      ],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 100,
       "type": "無色",
       "weakness": "雷",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "げんしのはばたき",
@@ -4664,18 +6115,27 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "敵のバトルポケモン除去"
+      ],
+      "imageKey": ""
     },
     {
       "id": "224",
       "name": "カビゴン",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 150,
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 4,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ころがる",
@@ -4685,18 +6145,25 @@
             "無色": 4
           }
         }
-      ]
+      ],
+      "maxDamage": 70,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "225",
       "name": "チラーミィ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 60,
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "しっぽでたたく",
@@ -4706,18 +6173,25 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "226",
       "name": "チラチーノ",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 90,
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ともだちのわ",
@@ -4727,18 +6201,25 @@
             "無色": 3
           }
         }
-      ]
+      ],
+      "maxDamage": 90,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "227",
       "name": "ウールー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "最強の遺伝子",
       "hp": 70,
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "たいあたり",
@@ -4748,18 +6229,25 @@
             "無色": 2
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "228",
       "name": "パイウールー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "1進化",
+      "pack": "最強の遺伝子",
       "hp": 120,
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 2,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "ころがりタックル",
@@ -4769,266 +6257,397 @@
             "無色": 3
           }
         }
-      ]
+      ],
+      "maxDamage": 80,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "229",
       "name": "かいの化石",
       "cardType": "グッズ(化石)",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "",
+      "pack": "最強の遺伝子",
       "hp": 40,
       "type": "",
       "weakness": "",
       "retreatCost": 0,
-      "moves": []
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
+      "moves": [],
+      "maxDamage": 0,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "230",
       "name": "こうらの化石",
       "cardType": "グッズ(化石)",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "",
+      "pack": "最強の遺伝子",
       "hp": 40,
       "type": "",
       "weakness": "",
       "retreatCost": 0,
-      "moves": []
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
+      "moves": [],
+      "maxDamage": 0,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "231",
       "name": "ひみつのコハク",
       "cardType": "グッズ(化石)",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "",
+      "pack": "最強の遺伝子",
       "hp": 40,
       "type": "",
       "weakness": "",
       "retreatCost": 0,
-      "moves": []
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
+      "moves": [],
+      "maxDamage": 0,
+      "tags": [],
+      "imageKey": ""
     },
     {
       "id": "232",
       "name": "エリカ",
       "cardType": "サポート",
-      "imageKey": "",
-      "tags": [
-        "回復"
-      ],
+      "evolutionStage": "",
+      "pack": "最強の遺伝子",
       "hp": 0,
       "type": "草",
       "weakness": "",
       "retreatCost": 0,
-      "moves": []
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
+      "moves": [],
+      "maxDamage": 0,
+      "tags": [
+        "回復"
+      ],
+      "imageKey": ""
     },
     {
       "id": "233",
       "name": "カスミ",
       "cardType": "サポート",
-      "imageKey": "",
-      "tags": [
-        "エネルギー加速"
-      ],
+      "evolutionStage": "",
+      "pack": "最強の遺伝子",
       "hp": 0,
       "type": "水",
       "weakness": "",
       "retreatCost": 0,
-      "moves": []
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
+      "moves": [],
+      "maxDamage": 0,
+      "tags": [
+        "エネルギー加速"
+      ],
+      "imageKey": ""
     },
     {
       "id": "234",
       "name": "カツラ",
       "cardType": "サポート",
-      "imageKey": "",
-      "tags": [
-        "ダメージアップ"
-      ],
+      "evolutionStage": "",
+      "pack": "最強の遺伝子",
       "hp": 0,
       "type": "炎",
       "weakness": "",
       "retreatCost": 0,
-      "moves": []
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
+      "moves": [],
+      "maxDamage": 0,
+      "tags": [
+        "ダメージアップ"
+      ],
+      "imageKey": ""
     },
     {
       "id": "235",
       "name": "キョウ",
       "cardType": "サポート",
-      "imageKey": "",
-      "tags": [
-        "味方を手札に戻す"
-      ],
+      "evolutionStage": "",
+      "pack": "最強の遺伝子",
       "hp": 0,
       "type": "悪",
       "weakness": "",
       "retreatCost": 0,
-      "moves": []
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
+      "moves": [],
+      "maxDamage": 0,
+      "tags": [
+        "味方を手札に戻す"
+      ],
+      "imageKey": ""
     },
     {
       "id": "236",
       "name": "サカキ",
       "cardType": "サポート",
-      "imageKey": "",
-      "tags": [
-        "ダメージアップ"
-      ],
+      "evolutionStage": "",
+      "pack": "最強の遺伝子",
       "hp": 0,
       "type": "",
       "weakness": "",
       "retreatCost": 0,
-      "moves": []
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
+      "moves": [],
+      "maxDamage": 0,
+      "tags": [
+        "ダメージアップ"
+      ],
+      "imageKey": ""
     },
     {
       "id": "237",
       "name": "タケシ",
       "cardType": "サポート",
-      "imageKey": "",
-      "tags": [
-        "エネルギー加速"
-      ],
+      "evolutionStage": "",
+      "pack": "最強の遺伝子",
       "hp": 0,
       "type": "闘",
       "weakness": "",
       "retreatCost": 0,
-      "moves": []
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
+      "moves": [],
+      "maxDamage": 0,
+      "tags": [
+        "エネルギー加速"
+      ],
+      "imageKey": ""
     },
     {
       "id": "238",
       "name": "ナツメ",
       "cardType": "サポート",
-      "imageKey": "",
-      "tags": [
-        "敵ポケ入れ替え"
-      ],
+      "evolutionStage": "",
+      "pack": "最強の遺伝子",
       "hp": 0,
       "type": "",
       "weakness": "",
       "retreatCost": 0,
-      "moves": []
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
+      "moves": [],
+      "maxDamage": 0,
+      "tags": [
+        "敵ポケ入れ替え"
+      ],
+      "imageKey": ""
     },
     {
       "id": "239",
       "name": "マチス",
       "cardType": "サポート",
-      "imageKey": "",
-      "tags": [
-        "エネルギー付け替え"
-      ],
+      "evolutionStage": "",
+      "pack": "最強の遺伝子",
       "hp": 0,
       "type": "雷",
       "weakness": "",
       "retreatCost": 0,
-      "moves": []
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
+      "moves": [],
+      "maxDamage": 0,
+      "tags": [
+        "エネルギー付け替え"
+      ],
+      "imageKey": ""
     },
     {
       "id": "240",
       "name": "きずぐすり",
       "cardType": "グッズ",
-      "imageKey": "",
-      "tags": [
-        "回復"
-      ],
+      "evolutionStage": "",
+      "pack": "PROMO",
       "hp": 0,
       "type": "",
       "weakness": "",
       "retreatCost": 0,
-      "moves": []
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
+      "moves": [],
+      "maxDamage": 0,
+      "tags": [
+        "回復"
+      ],
+      "imageKey": ""
     },
     {
       "id": "241",
       "name": "スピーダー",
       "cardType": "グッズ",
-      "imageKey": "",
-      "tags": [
-        "逃げエネ減少"
-      ],
+      "evolutionStage": "",
+      "pack": "PROMO",
       "hp": 0,
       "type": "",
       "weakness": "",
       "retreatCost": 0,
-      "moves": []
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
+      "moves": [],
+      "maxDamage": 0,
+      "tags": [
+        "逃げエネ減少"
+      ],
+      "imageKey": ""
     },
     {
       "id": "242",
       "name": "ハンドスコープ",
       "cardType": "グッズ",
-      "imageKey": "",
-      "tags": [
-        "相手手札干渉"
-      ],
+      "evolutionStage": "",
+      "pack": "PROMO",
       "hp": 0,
       "type": "",
       "weakness": "",
       "retreatCost": 0,
-      "moves": []
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
+      "moves": [],
+      "maxDamage": 0,
+      "tags": [
+        "相手手札干渉"
+      ],
+      "imageKey": ""
     },
     {
       "id": "243",
       "name": "ポケモン図鑑",
       "cardType": "グッズ",
-      "imageKey": "",
-      "tags": [
-        "山札チェック"
-      ],
+      "evolutionStage": "",
+      "pack": "PROMO",
       "hp": 0,
       "type": "",
       "weakness": "",
       "retreatCost": 0,
-      "moves": []
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
+      "moves": [],
+      "maxDamage": 0,
+      "tags": [
+        "山札チェック"
+      ],
+      "imageKey": ""
     },
     {
       "id": "244",
       "name": "モンスターボール",
       "cardType": "グッズ",
-      "imageKey": "",
-      "tags": [
-        "サーチ"
-      ],
+      "evolutionStage": "",
+      "pack": "PROMO",
       "hp": 0,
       "type": "",
       "weakness": "",
       "retreatCost": 0,
-      "moves": []
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
+      "moves": [],
+      "maxDamage": 0,
+      "tags": [
+        "サーチ"
+      ],
+      "imageKey": ""
     },
     {
       "id": "245",
       "name": "レッドカード",
       "cardType": "グッズ",
-      "imageKey": "",
-      "tags": [
-        "相手手札干渉"
-      ],
+      "evolutionStage": "",
+      "pack": "PROMO",
       "hp": 0,
       "type": "",
       "weakness": "",
       "retreatCost": 0,
-      "moves": []
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
+      "moves": [],
+      "maxDamage": 0,
+      "tags": [
+        "相手手札干渉"
+      ],
+      "imageKey": ""
     },
     {
       "id": "246",
       "name": "博士の研究",
       "cardType": "サポート",
-      "imageKey": "",
-      "tags": [
-        "ドロー"
-      ],
+      "evolutionStage": "",
+      "pack": "PROMO",
       "hp": 0,
       "type": "",
       "weakness": "",
       "retreatCost": 0,
-      "moves": []
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
+      "moves": [],
+      "maxDamage": 0,
+      "tags": [
+        "ドロー"
+      ],
+      "imageKey": ""
     },
     {
       "id": "247",
       "name": "ラプラスEX",
       "cardType": "EX",
-      "imageKey": "",
-      "tags": [
-        "回復"
-      ],
+      "evolutionStage": "たね",
+      "pack": "PROMO",
       "hp": 140,
       "type": "水",
       "weakness": "雷",
       "retreatCost": 3,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "バブルドレイン",
@@ -5039,18 +6658,27 @@
             "無色": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "回復"
+      ],
+      "imageKey": ""
     },
     {
       "id": "248",
       "name": "マンキー",
       "cardType": "非EX",
-      "imageKey": "",
-      "tags": [],
+      "evolutionStage": "たね",
+      "pack": "PROMO",
       "hp": 50,
       "type": "闘",
       "weakness": "超",
       "retreatCost": 1,
+      "ability": {
+        "name": "",
+        "effect": ""
+      },
       "moves": [
         {
           "name": "とつげき",
@@ -5060,7 +6688,10 @@
             "闘": 1
           }
         }
-      ]
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": ""
     }
   ]
 }
