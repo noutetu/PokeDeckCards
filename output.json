@@ -11,8 +11,8 @@
       "weakness": "炎",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -40,8 +40,8 @@
       "weakness": "炎",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -69,8 +69,8 @@
       "weakness": "炎",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -100,8 +100,8 @@
       "weakness": "炎",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -140,8 +140,8 @@
       "weakness": "炎",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -170,8 +170,8 @@
       "weakness": "炎",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -198,8 +198,8 @@
       "weakness": "炎",
       "retreatCost": 1,
       "ability": {
-        "name": "パウダーヒール",
-        "effect": "自分の番に1回使える。自分のポケモン全員のHPを20回復。"
+        "abilityName": "パウダーヒール",
+        "abilityEffect": "自分の番に1回使える。自分のポケモン全員のHPを20回復。"
       },
       "moves": [
         {
@@ -229,8 +229,8 @@
       "weakness": "炎",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -257,8 +257,8 @@
       "weakness": "炎",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -285,8 +285,8 @@
       "weakness": "炎",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -313,8 +313,8 @@
       "weakness": "炎",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -341,8 +341,8 @@
       "weakness": "炎",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -370,8 +370,8 @@
       "weakness": "炎",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -401,8 +401,8 @@
       "weakness": "炎",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -430,8 +430,8 @@
       "weakness": "炎",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -459,8 +459,8 @@
       "weakness": "炎",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -487,8 +487,8 @@
       "weakness": "炎",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -517,8 +517,8 @@
       "weakness": "炎",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -545,8 +545,8 @@
       "weakness": "炎",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -574,8 +574,8 @@
       "weakness": "炎",
       "retreatCost": 2,
       "ability": {
-        "name": "かおりのわな",
-        "effect": "このポケモンがバトル場にいるなら、自分の番に一回使える。相手のベンチのたねポケモンを1匹選び、バトルポケモンと入れ替える。"
+        "abilityName": "かおりのわな",
+        "abilityEffect": "このポケモンがバトル場にいるなら、自分の番に一回使える。相手のベンチのたねポケモンを1匹選び、バトルポケモンと入れ替える。"
       },
       "moves": [
         {
@@ -605,8 +605,8 @@
       "weakness": "炎",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -633,8 +633,8 @@
       "weakness": "炎",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -663,8 +663,8 @@
       "weakness": "炎",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -693,8 +693,8 @@
       "weakness": "炎",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -724,8 +724,8 @@
       "weakness": "炎",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -752,8 +752,8 @@
       "weakness": "炎",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -782,8 +782,8 @@
       "weakness": "炎",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -810,8 +810,8 @@
       "weakness": "炎",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -838,8 +838,8 @@
       "weakness": "炎",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -868,8 +868,8 @@
       "weakness": "炎",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -898,8 +898,8 @@
       "weakness": "炎",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -928,8 +928,8 @@
       "weakness": "炎",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -957,8 +957,8 @@
       "weakness": "水",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -985,8 +985,8 @@
       "weakness": "水",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1014,8 +1014,8 @@
       "weakness": "水",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1043,8 +1043,8 @@
       "weakness": "水",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1081,8 +1081,8 @@
       "weakness": "水",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1111,8 +1111,8 @@
       "weakness": "水",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1139,8 +1139,8 @@
       "weakness": "水",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1167,8 +1167,8 @@
       "weakness": "水",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1196,8 +1196,8 @@
       "weakness": "水",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1225,8 +1225,8 @@
       "weakness": "水",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1253,8 +1253,8 @@
       "weakness": "水",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1281,8 +1281,8 @@
       "weakness": "水",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1309,8 +1309,8 @@
       "weakness": "水",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1338,8 +1338,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1369,8 +1369,8 @@
       "weakness": "雷",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1409,8 +1409,8 @@
       "weakness": "水",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1437,8 +1437,8 @@
       "weakness": "水",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1465,8 +1465,8 @@
       "weakness": "水",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1494,8 +1494,8 @@
       "weakness": "水",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1522,8 +1522,8 @@
       "weakness": "水",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1551,8 +1551,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1579,8 +1579,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1608,8 +1608,8 @@
       "weakness": "雷",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1639,8 +1639,8 @@
       "weakness": "雷",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1679,8 +1679,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1709,8 +1709,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1737,8 +1737,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1765,8 +1765,8 @@
       "weakness": "雷",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1793,8 +1793,8 @@
       "weakness": "雷",
       "retreatCost": 2,
       "ability": {
-        "name": "はんげき",
-        "effect": "このポケモンが、バトル場で相手のポケモンからのワザのダメージを受けた時、ワザを使ったポケモンに20ダメージ。"
+        "abilityName": "はんげき",
+        "abilityEffect": "このポケモンが、バトル場で相手のポケモンからのワザのダメージを受けた時、ワザを使ったポケモンに20ダメージ。"
       },
       "moves": [
         {
@@ -1824,8 +1824,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1852,8 +1852,8 @@
       "weakness": "雷",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1883,8 +1883,8 @@
       "weakness": "雷",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1911,8 +1911,8 @@
       "weakness": "雷",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1939,8 +1939,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -1967,8 +1967,8 @@
       "weakness": "雷",
       "retreatCost": 3,
       "ability": {
-        "name": "シェルアーマー",
-        "effect": "このポケモンが受けるワザのダメージを-10する。"
+        "abilityName": "シェルアーマー",
+        "abilityEffect": "このポケモンが受けるワザのダメージを-10する。"
       },
       "moves": [
         {
@@ -1998,8 +1998,8 @@
       "weakness": "雷",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2027,8 +2027,8 @@
       "weakness": "雷",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2058,8 +2058,8 @@
       "weakness": "雷",
       "retreatCost": 0,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2086,8 +2086,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2116,8 +2116,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2144,8 +2144,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2174,8 +2174,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2202,8 +2202,8 @@
       "weakness": "雷",
       "retreatCost": 0,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2230,8 +2230,8 @@
       "weakness": "雷",
       "retreatCost": 0,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2258,8 +2258,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2286,8 +2286,8 @@
       "weakness": "雷",
       "retreatCost": 4,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2316,8 +2316,8 @@
       "weakness": "雷",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2346,8 +2346,8 @@
       "weakness": "雷",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2377,8 +2377,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2405,8 +2405,8 @@
       "weakness": "雷",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2436,8 +2436,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2468,8 +2468,8 @@
       "weakness": "雷",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2507,8 +2507,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2535,8 +2535,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2563,8 +2563,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2591,8 +2591,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2619,8 +2619,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "みずしゅりけん",
-        "effect": "自分の番に1回使える。相手のポケモン1匹に20ダメージ。"
+        "abilityName": "みずしゅりけん",
+        "abilityEffect": "自分の番に1回使える。相手のポケモン1匹に20ダメージ。"
       },
       "moves": [
         {
@@ -2650,8 +2650,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2678,8 +2678,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2709,8 +2709,8 @@
       "weakness": "鋼",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2737,8 +2737,8 @@
       "weakness": "鋼",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2768,8 +2768,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2796,8 +2796,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2824,8 +2824,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2852,8 +2852,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2880,8 +2880,8 @@
       "weakness": "闘",
       "retreatCost": 2,
       "ability": {
-        "name": "ボルトチャージ",
-        "effect": "自分の番に1回使える。自分のエネルギーゾーンから雷エネルギーを1個取り出し、このポケモンにつける。"
+        "abilityName": "ボルトチャージ",
+        "abilityEffect": "自分の番に1回使える。自分のエネルギーゾーンから雷エネルギーを1個取り出し、このポケモンにつける。"
       },
       "moves": [
         {
@@ -2911,8 +2911,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2939,8 +2939,8 @@
       "weakness": "闘",
       "retreatCost": 0,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2967,8 +2967,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -2997,8 +2997,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3028,8 +3028,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3057,8 +3057,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3095,8 +3095,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3123,8 +3123,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3153,8 +3153,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3181,8 +3181,8 @@
       "weakness": "闘",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3209,8 +3209,8 @@
       "weakness": "闘",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3241,8 +3241,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3269,8 +3269,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3299,8 +3299,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3330,8 +3330,8 @@
       "weakness": "鋼",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3358,8 +3358,8 @@
       "weakness": "鋼",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3386,8 +3386,8 @@
       "weakness": "悪",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3416,8 +3416,8 @@
       "weakness": "悪",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3445,8 +3445,8 @@
       "weakness": "悪",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3476,8 +3476,8 @@
       "weakness": "悪",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3505,8 +3505,8 @@
       "weakness": "悪",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3534,8 +3534,8 @@
       "weakness": "悪",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3562,8 +3562,8 @@
       "weakness": "悪",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3590,8 +3590,8 @@
       "weakness": "悪",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3620,8 +3620,8 @@
       "weakness": "悪",
       "retreatCost": 2,
       "ability": {
-        "name": "かげのじゅばく",
-        "effect": "このポケモンがバトル場にいるかぎり、相手は手札からサポートを出して使えない。"
+        "abilityName": "かげのじゅばく",
+        "abilityEffect": "このポケモンがバトル場にいるかぎり、相手は手札からサポートを出して使えない。"
       },
       "moves": [
         {
@@ -3650,8 +3650,8 @@
       "weakness": "悪",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3679,8 +3679,8 @@
       "weakness": "悪",
       "retreatCost": 2,
       "ability": {
-        "name": "ねむりのふりこ",
-        "effect": "自分の番に1個使える。コインを1回投げオモテなら、相手のバトルポケモンをねむりにする。"
+        "abilityName": "ねむりのふりこ",
+        "abilityEffect": "自分の番に1個使える。コインを1回投げオモテなら、相手のバトルポケモンをねむりにする。"
       },
       "moves": [
         {
@@ -3711,8 +3711,8 @@
       "weakness": "悪",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3742,8 +3742,8 @@
       "weakness": "悪",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3773,8 +3773,8 @@
       "weakness": "悪",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3802,8 +3802,8 @@
       "weakness": "悪",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3840,8 +3840,8 @@
       "weakness": "悪",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3868,8 +3868,8 @@
       "weakness": "悪",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3897,8 +3897,8 @@
       "weakness": "悪",
       "retreatCost": 2,
       "ability": {
-        "name": "トランスシェイド",
-        "effect": "自分の場に1回使える。自分のエネルギーゾーンから超エネルギーを1個出し、バトル場の超ポケモンにつける。"
+        "abilityName": "トランスシェイド",
+        "abilityEffect": "自分の場に1回使える。自分のエネルギーゾーンから超エネルギーを1個出し、バトル場の超ポケモンにつける。"
       },
       "moves": [
         {
@@ -3928,8 +3928,8 @@
       "weakness": "悪",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3956,8 +3956,8 @@
       "weakness": "悪",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -3985,8 +3985,8 @@
       "weakness": "悪",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4014,8 +4014,8 @@
       "weakness": "悪",
       "retreatCost": 4,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4045,8 +4045,8 @@
       "weakness": "草",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4073,8 +4073,8 @@
       "weakness": "草",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4101,8 +4101,8 @@
       "weakness": "草",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4129,8 +4129,8 @@
       "weakness": "草",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4161,8 +4161,8 @@
       "weakness": "超",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4189,8 +4189,8 @@
       "weakness": "超",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4219,8 +4219,8 @@
       "weakness": "超",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4247,8 +4247,8 @@
       "weakness": "超",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4275,8 +4275,8 @@
       "weakness": "超",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4303,8 +4303,8 @@
       "weakness": "超",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4331,8 +4331,8 @@
       "weakness": "草",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4359,8 +4359,8 @@
       "weakness": "草",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4388,8 +4388,8 @@
       "weakness": "草",
       "retreatCost": 4,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4417,8 +4417,8 @@
       "weakness": "草",
       "retreatCost": 4,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4445,8 +4445,8 @@
       "weakness": "草",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4475,8 +4475,8 @@
       "weakness": "草",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4503,8 +4503,8 @@
       "weakness": "草",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4533,8 +4533,8 @@
       "weakness": "超",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4563,8 +4563,8 @@
       "weakness": "超",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4591,8 +4591,8 @@
       "weakness": "草",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4620,8 +4620,8 @@
       "weakness": "草",
       "retreatCost": 4,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4649,8 +4649,8 @@
       "weakness": "草",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4677,8 +4677,8 @@
       "weakness": "超",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4707,8 +4707,8 @@
       "weakness": "超",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4735,8 +4735,8 @@
       "weakness": "超",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4763,8 +4763,8 @@
       "weakness": "超",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4792,8 +4792,8 @@
       "weakness": "超",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4823,8 +4823,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4851,8 +4851,8 @@
       "weakness": "闘",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4881,8 +4881,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4909,8 +4909,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4937,8 +4937,8 @@
       "weakness": "闘",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4966,8 +4966,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -4994,8 +4994,8 @@
       "weakness": "闘",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5023,8 +5023,8 @@
       "weakness": "闘",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5054,8 +5054,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5082,8 +5082,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5110,8 +5110,8 @@
       "weakness": "闘",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5140,8 +5140,8 @@
       "weakness": "闘",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5171,8 +5171,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5199,8 +5199,8 @@
       "weakness": "闘",
       "retreatCost": 3,
       "ability": {
-        "name": "もれだすガス",
-        "effect": "このポケモンがバトル場にいるなら、自分の場に一回使える。相手のバトルポケモンをどくにする。"
+        "abilityName": "もれだすガス",
+        "abilityEffect": "このポケモンがバトル場にいるなら、自分の場に一回使える。相手のバトルポケモンをどくにする。"
       },
       "moves": [
         {
@@ -5229,8 +5229,8 @@
       "weakness": "炎",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5260,8 +5260,8 @@
       "weakness": "炎",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5288,8 +5288,8 @@
       "weakness": "炎",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5316,8 +5316,8 @@
       "weakness": "炎",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5346,8 +5346,8 @@
       "weakness": "炎",
       "retreatCost": 3,
       "ability": {
-        "name": "ハードコート",
-        "effect": "このポケモンが受けるワザのダメージを-20する。"
+        "abilityName": "ハードコート",
+        "abilityEffect": "このポケモンが受けるワザのダメージを-20する。"
       },
       "moves": [
         {
@@ -5377,8 +5377,8 @@
       "weakness": "",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5406,8 +5406,8 @@
       "weakness": "",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5436,8 +5436,8 @@
       "weakness": "",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5468,8 +5468,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5496,8 +5496,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5524,8 +5524,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "おいはらう",
-        "effect": "自分の番に一回使える。相手のバトルポケモンをベンチポケモンと入れ替える。(バトル場にだすポケモンは相手が選ぶ。)"
+        "abilityName": "おいはらう",
+        "abilityEffect": "自分の番に一回使える。相手のバトルポケモンをベンチポケモンと入れ替える。(バトル場にだすポケモンは相手が選ぶ。)"
       },
       "moves": [
         {
@@ -5554,8 +5554,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5582,8 +5582,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5610,8 +5610,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5638,8 +5638,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5668,8 +5668,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5696,8 +5696,8 @@
       "weakness": "闘",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5724,8 +5724,8 @@
       "weakness": "闘",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5754,8 +5754,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5784,8 +5784,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5815,8 +5815,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5843,8 +5843,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5871,8 +5871,8 @@
       "weakness": "雷",
       "retreatCost": 0,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5899,8 +5899,8 @@
       "weakness": "闘",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5929,8 +5929,8 @@
       "weakness": "闘",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5957,8 +5957,8 @@
       "weakness": "闘",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -5987,8 +5987,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -6015,8 +6015,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -6045,8 +6045,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -6073,8 +6073,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "データスキャン",
-        "effect": "自分の番に一回使える。自分の山札から1枚見て、もとにもどす。"
+        "abilityName": "データスキャン",
+        "abilityEffect": "自分の番に一回使える。自分の山札から1枚見て、もとにもどす。"
       },
       "moves": [
         {
@@ -6103,8 +6103,8 @@
       "weakness": "雷",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -6133,8 +6133,8 @@
       "weakness": "闘",
       "retreatCost": 4,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -6161,8 +6161,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -6189,8 +6189,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -6217,8 +6217,8 @@
       "weakness": "闘",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -6245,8 +6245,8 @@
       "weakness": "闘",
       "retreatCost": 2,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -6273,8 +6273,8 @@
       "weakness": "",
       "retreatCost": 0,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [],
       "maxDamage": 0,
@@ -6292,8 +6292,8 @@
       "weakness": "",
       "retreatCost": 0,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [],
       "maxDamage": 0,
@@ -6311,8 +6311,8 @@
       "weakness": "",
       "retreatCost": 0,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [],
       "maxDamage": 0,
@@ -6330,8 +6330,8 @@
       "weakness": "",
       "retreatCost": 0,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [],
       "maxDamage": 0,
@@ -6351,8 +6351,8 @@
       "weakness": "",
       "retreatCost": 0,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [],
       "maxDamage": 0,
@@ -6372,8 +6372,8 @@
       "weakness": "",
       "retreatCost": 0,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [],
       "maxDamage": 0,
@@ -6393,8 +6393,8 @@
       "weakness": "",
       "retreatCost": 0,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [],
       "maxDamage": 0,
@@ -6414,8 +6414,8 @@
       "weakness": "",
       "retreatCost": 0,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [],
       "maxDamage": 0,
@@ -6435,8 +6435,8 @@
       "weakness": "",
       "retreatCost": 0,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [],
       "maxDamage": 0,
@@ -6456,8 +6456,8 @@
       "weakness": "",
       "retreatCost": 0,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [],
       "maxDamage": 0,
@@ -6477,8 +6477,8 @@
       "weakness": "",
       "retreatCost": 0,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [],
       "maxDamage": 0,
@@ -6498,8 +6498,8 @@
       "weakness": "",
       "retreatCost": 0,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [],
       "maxDamage": 0,
@@ -6519,8 +6519,8 @@
       "weakness": "",
       "retreatCost": 0,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [],
       "maxDamage": 0,
@@ -6540,8 +6540,8 @@
       "weakness": "",
       "retreatCost": 0,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [],
       "maxDamage": 0,
@@ -6561,8 +6561,8 @@
       "weakness": "",
       "retreatCost": 0,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [],
       "maxDamage": 0,
@@ -6582,8 +6582,8 @@
       "weakness": "",
       "retreatCost": 0,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [],
       "maxDamage": 0,
@@ -6603,8 +6603,8 @@
       "weakness": "",
       "retreatCost": 0,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [],
       "maxDamage": 0,
@@ -6624,8 +6624,8 @@
       "weakness": "",
       "retreatCost": 0,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [],
       "maxDamage": 0,
@@ -6645,8 +6645,8 @@
       "weakness": "雷",
       "retreatCost": 3,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
@@ -6676,8 +6676,8 @@
       "weakness": "超",
       "retreatCost": 1,
       "ability": {
-        "name": "",
-        "effect": ""
+        "abilityName": "",
+        "abilityEffect": ""
       },
       "moves": [
         {
