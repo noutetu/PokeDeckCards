@@ -1,5064 +1,5066 @@
-[
-  {
-    "id": "1",
-    "name": "フシギダネ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 70,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "つるのムチ",
-        "damage": 40,
-        "effect": "",
-        "cost": {
-          "草": 1,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "17",
-    "name": "フシギソウ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 70,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "はっぱカッター",
-        "damage": 60,
-        "effect": "",
-        "cost": {
-          "草": 1,
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "18",
-    "name": "フシギバナ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "回復"
-    ],
-    "hp": 160,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "メガドレイン",
-        "damage": 80,
-        "effect": "このポケモンのHPを30回復",
-        "cost": {
-          "草": 2,
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "19",
-    "name": "フシギバナEX",
-    "cardType": "EX",
-    "imageKey": "",
-    "tags": [
-      "回復"
-    ],
-    "hp": 190,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "はっぱカッター",
-        "damage": 60,
-        "effect": "",
-        "cost": {
-          "草": 1,
-          "無色": 2
-        }
-      },
-      {
-        "name": "ジャイアントブルーム",
-        "damage": 100,
-        "effect": "このポケモンのHPを30回復",
-        "cost": {
-          "草": 2,
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "20",
-    "name": "キャタピー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "サーチ"
-    ],
-    "hp": 50,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ともだちをさがす",
-        "damage": 0,
-        "effect": "自分の山札から草ポケモンをランダムに1枚、手札に加える。",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "21",
-    "name": "トランセル",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 80,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "むしくい",
-        "damage": 30,
-        "effect": "",
-        "cost": {
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "22",
-    "name": "バタフリー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "回復"
-    ],
-    "hp": 120,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "かぜおこし",
-        "damage": 60,
-        "effect": "",
-        "cost": {
-          "草": 1,
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "23",
-    "name": "ビードル",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 50,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "チクチクさす",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "草": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "24",
-    "name": "コクーン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 80,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "むしくい",
-        "damage": 30,
-        "effect": "",
-        "cost": {
-          "草": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "25",
-    "name": "スピアー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 120,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "するどいはり",
-        "damage": 70,
-        "effect": "",
-        "cost": {
-          "草": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "26",
-    "name": "ナゾノクサ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ぶつかる",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "草": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "27",
-    "name": "クサイハナ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 80,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "よだれ",
-        "damage": 40,
-        "effect": "",
-        "cost": {
-          "草": 1,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "28",
-    "name": "ラフレシア",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "ねむり"
-    ],
-    "hp": 140,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "アロマスリープ",
-        "damage": 80,
-        "effect": "相手のバトルポケモンをねむりにする。",
-        "cost": {
-          "草": 2,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "29",
-    "name": "パラス",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 70,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ひっかく",
-        "damage": 30,
-        "effect": "",
-        "cost": {
-          "草": 1,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "30",
-    "name": "パラセクト",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 120,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "きりさく",
-        "damage": 80,
-        "effect": "",
-        "cost": {
-          "草": 2,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "31",
-    "name": "コンパン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "たいあたり",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "草": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "32",
-    "name": "モルフォン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "どく"
-    ],
-    "hp": 80,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "どくのこな",
-        "damage": 30,
-        "effect": "相手のバトルポケモンをどくにする。",
-        "cost": {
-          "草": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "33",
-    "name": "マダツボミ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "つるのムチ",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "草": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "34",
-    "name": "ウツドン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 90,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "はっぱカッター",
-        "damage": 40,
-        "effect": "",
-        "cost": {
-          "草": 1,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "35",
-    "name": "ウツボット",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "敵ポケ入れ替え"
-    ],
-    "hp": 140,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "つるのムチ",
-        "damage": 60,
-        "effect": "",
-        "cost": {
-          "草": 1,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "36",
-    "name": "タマタマ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 50,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "タネばくだん",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "草": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "37",
-    "name": "ナッシー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "コイン"
-    ],
-    "hp": 130,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "ふみつけ",
-        "damage": 30,
-        "effect": "コインを1回投げ、表なら、30ダメージ追加。",
-        "cost": {
-          "草": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "38",
-    "name": "ナッシーEX",
-    "cardType": "EX",
-    "imageKey": "",
-    "tags": [
-      "コイン"
-    ],
-    "hp": 160,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "トロピカルスイング",
-        "damage": 40,
-        "effect": "コインを1回投げオモテなら、40ダメージ追加。",
-        "cost": {
-          "草": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "39",
-    "name": "モンジャラ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "回復"
-    ],
-    "hp": 80,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "すいとる",
-        "damage": 40,
-        "effect": "このポケモンのHPを10回復",
-        "cost": {
-          "草": 1,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "40",
-    "name": "ストライク",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 70,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "するどいカマ",
-        "damage": 30,
-        "effect": "",
-        "cost": {
-          "草": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "41",
-    "name": "カイロス",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "コイン"
-    ],
-    "hp": 90,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "ダブルホーン",
-        "damage": 0,
-        "effect": "コインを2回投げ、オモテの数×50ダメージ。",
-        "cost": {
-          "草": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "42",
-    "name": "モンメン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 50,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "くっつく",
-        "damage": 10,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "43",
-    "name": "エルフーン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 80,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ころがりタックル",
-        "damage": 40,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "44",
-    "name": "チュリネ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "回復"
-    ],
-    "hp": 60,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ちょっとすいとる",
-        "damage": 10,
-        "effect": "このポケモンのHPを10回復",
-        "cost": {
-          "草": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "45",
-    "name": "ドレディア",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "エネルギー加速"
-    ],
-    "hp": 100,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "リーフサプライ",
-        "damage": 50,
-        "effect": "自分のエネルギーゾーンから草エネルギーを1個取り出し、ベンチの草ポケモンにつける。",
-        "cost": {
-          "草": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "46",
-    "name": "メェークル",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "コイン"
-    ],
-    "hp": 70,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ふいをつく",
-        "damage": 40,
-        "effect": "コインを1回投げウラなら、このワザは失敗。",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "47",
-    "name": "ゴーゴート",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 120,
-    "type": "草",
-    "weakness": "炎",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "はっぱカッター",
-        "damage": 70,
-        "effect": "",
-        "cost": {
-          "草": 1,
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "48",
-    "name": "ヒトカゲ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "炎",
-    "weakness": "水",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ひのこ",
-        "damage": 30,
-        "effect": "このポケモンから炎エネルギーを1個トラッシュ。",
-        "cost": {
-          "炎": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "49",
-    "name": "リザード",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 90,
-    "type": "炎",
-    "weakness": "水",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "ほのおのツメ",
-        "damage": 60,
-        "effect": "",
-        "cost": {
-          "炎": 1,
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "50",
-    "name": "リザードン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 150,
-    "type": "炎",
-    "weakness": "水",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "ほのおのうず",
-        "damage": 150,
-        "effect": "このポケモンから炎2個トラッシュ。",
-        "cost": {
-          "炎": 2,
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "51",
-    "name": "リザードンEX",
-    "cardType": "EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 180,
-    "type": "炎",
-    "weakness": "水",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "きりさく",
-        "damage": 60,
-        "effect": "",
-        "cost": {
-          "炎": 1,
-          "無色": 2
-        }
-      },
-      {
-        "name": "ぐれんのあらし",
-        "damage": 200,
-        "effect": "このポケモンから炎エネルギーを2個トラッシュ。",
-        "cost": {
-          "炎": 2,
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "52",
-    "name": "ロコン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "コイン"
-    ],
-    "hp": 50,
-    "type": "炎",
-    "weakness": "水",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "しっぽをふる",
-        "damage": 0,
-        "effect": "コインを1回投げオモテなら、次の相手の番、このワザを受けたポケモンはワザが使えない。",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "53",
-    "name": "キュウコン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 90,
-    "type": "炎",
-    "weakness": "水",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "かえんほうしゃ",
-        "damage": 90,
-        "effect": "このポケモンから炎エネルギーを1個トラッシュ。",
-        "cost": {
-          "炎": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "54",
-    "name": "ガーディ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 70,
-    "type": "炎",
-    "weakness": "水",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "かみつく",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "55",
-    "name": "ウィンディ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 130,
-    "type": "炎",
-    "weakness": "水",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "ヒートタックル",
-        "damage": 100,
-        "effect": "このポケモンにも20ダメージ。",
-        "cost": {
-          "炎": 2,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "56",
-    "name": "ウィンディEX",
-    "cardType": "EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 150,
-    "type": "炎",
-    "weakness": "水",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "もうかのとっしん",
-        "damage": 120,
-        "effect": "このポケモンにも20ダメージ。",
-        "cost": {
-          "炎": 2,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "57",
-    "name": "ポニータ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "炎",
-    "weakness": "水",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ほのお",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "炎": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "58",
-    "name": "ギャロップ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 100,
-    "type": "炎",
-    "weakness": "水",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ほのおのたてがみ",
-        "damage": 40,
-        "effect": "",
-        "cost": {
-          "炎": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "59",
-    "name": "ブーバー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 80,
-    "type": "炎",
-    "weakness": "水",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "マグマパンチ",
-        "damage": 50,
-        "effect": "",
-        "cost": {
-          "炎": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "60",
-    "name": "ブースター",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 120,
-    "type": "炎",
-    "weakness": "水",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "かえんほうしゃ",
-        "damage": 110,
-        "effect": "このポケモンから炎エネルギーを1個トラッシュ。",
-        "cost": {
-          "炎": 1,
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "61",
-    "name": "ファイヤー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "コイン"
-    ],
-    "hp": 100,
-    "type": "炎",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ゴッドバード",
-        "damage": 130,
-        "effect": "コインを1回投げウラなら、このワザは失敗。",
-        "cost": {
-          "炎": 1,
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "62",
-    "name": "ファイヤーEX",
-    "cardType": "EX",
-    "imageKey": "",
-    "tags": [
-      "エネルギー加速",
-      " コイン"
-    ],
-    "hp": 140,
-    "type": "炎",
-    "weakness": "雷",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "れっかのまい",
-        "damage": 0,
-        "effect": "コインを3回投げ、オモテの数ぶんの炎エネルギーを自分のエネルギーゾーンから出し、ベンチの炎ポケモンに好きなようにつける。",
-        "cost": {
-          "炎": 1
-        }
-      },
-      {
-        "name": "ヒートブラスト",
-        "damage": 70,
-        "effect": "",
-        "cost": {
-          "炎": 1,
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "63",
-    "name": "クイタラン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 80,
-    "type": "炎",
-    "weakness": "水",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "かえん",
-        "damage": 30,
-        "effect": "",
-        "cost": {
-          "炎": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "64",
-    "name": "ヤトウモリ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "炎",
-    "weakness": "水",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ひっかく",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "炎": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "65",
-    "name": "エンニュート",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 90,
-    "type": "炎",
-    "weakness": "水",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ほのおのツメ",
-        "damage": 60,
-        "effect": "",
-        "cost": {
-          "炎": 1,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "66",
-    "name": "ヤクデ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "炎",
-    "weakness": "水",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "かじる",
-        "damage": 10,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "67",
-    "name": "マルヤクデ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 130,
-    "type": "炎",
-    "weakness": "水",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "だいもんじ",
-        "damage": 130,
-        "effect": "このポケモンから炎エネルギーを1個トラッシュ。",
-        "cost": {
-          "炎": 1,
-          "無色": 3
-        }
-      }
-    ]
-  },
-  {
-    "id": "68",
-    "name": "ゼニガメ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "みずでっぽう",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "水": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "69",
-    "name": "カメール",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 80,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "スプラッシュ",
-        "damage": 40,
-        "effect": "",
-        "cost": {
-          "水": 1,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "70",
-    "name": "カメックス",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "自身のエネルギーの数に応じてダメージアップ"
-    ],
-    "hp": 150,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "ハイドロポンプ",
-        "damage": 80,
-        "effect": "追加で水エネルギーが2個ついているなら、60ダメージ追加。",
-        "cost": {
-          "水": 2,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "71",
-    "name": "カメックスEX",
-    "cardType": "EX",
-    "imageKey": "",
-    "tags": [
-      "自身のエネルギーの数に応じてダメージアップ"
-    ],
-    "hp": 180,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "なみのり",
-        "damage": 40,
-        "effect": "",
-        "cost": {
-          "水": 1,
-          "無色": 1
-        }
-      },
-      {
-        "name": "ハイドロバズーカ",
-        "damage": 100,
-        "effect": "追加で水エネルギーが2個ついてるなら、60ダメージ追加。",
-        "cost": {
-          "水": 2,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "72",
-    "name": "コダック",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "サポート封じ"
-    ],
-    "hp": 60,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ずつう",
-        "damage": 10,
-        "effect": "次の相手の番、相手は手札からサポートを出して使えない。",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "73",
-    "name": "ゴルダック",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 90,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "アクアエッジ",
-        "damage": 70,
-        "effect": "",
-        "cost": {
-          "水": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "74",
-    "name": "ニョロモ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ひれカッター",
-        "damage": 10,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "75",
-    "name": "ニョロゾ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 90,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "げんこつ",
-        "damage": 40,
-        "effect": "",
-        "cost": {
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "76",
-    "name": "ニョロボン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "ダメージ反撃"
-    ],
-    "hp": 150,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "メガトンパンチ",
-        "damage": 80,
-        "effect": "",
-        "cost": {
-          "水": 1,
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "77",
-    "name": "メノクラゲ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ひっぱたく",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "水": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "78",
-    "name": "ドククラゲ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "どく"
-    ],
-    "hp": 110,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "どくのしょくしゅ",
-        "damage": 50,
-        "effect": "相手のバトルポケモンをどくにする。",
-        "cost": {
-          "水": 1,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "79",
-    "name": "パウワウ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 80,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "ずつき",
-        "damage": 30,
-        "effect": "",
-        "cost": {
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "80",
-    "name": "ジュゴン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 120,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "なみのり",
-        "damage": 90,
-        "effect": "",
-        "cost": {
-          "水": 3
-        }
-      }
-    ]
-  },
-  {
-    "id": "81",
-    "name": "シェルダー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ベロではたく",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "水": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "82",
-    "name": "パルシェン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "ダメージ減少"
-    ],
-    "hp": 120,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "なみのり",
-        "damage": 70,
-        "effect": "",
-        "cost": {
-          "水": 2,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "83",
-    "name": "クラブ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 70,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "はさむ",
-        "damage": 40,
-        "effect": "",
-        "cost": {
-          "水": 1,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "84",
-    "name": "キングラー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "コイン"
-    ],
-    "hp": 120,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "ひっさつクラブ",
-        "damage": 80,
-        "effect": "コインを2回投げ、すべてオモテなら、80ダメージ追加。",
-        "cost": {
-          "水": 2,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "85",
-    "name": "タッツー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 0,
-    "moves": [
-      {
-        "name": "みずでっぽう",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "水": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "86",
-    "name": "シードラ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "ベンチ狙撃"
-    ],
-    "hp": 70,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ウォーターアロー",
-        "damage": 0,
-        "effect": "相手のポケモン1匹に50ダメージ。",
-        "cost": {
-          "水": 3
-        }
-      }
-    ]
-  },
-  {
-    "id": "87",
-    "name": "トサキント",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "はねまわる",
-        "damage": 10,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "88",
-    "name": "アズマオウ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "コイン"
-    ],
-    "hp": 100,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "つのでつつく",
-        "damage": 80,
-        "effect": "コインを1回投げウラなら、このワザは失敗。",
-        "cost": {
-          "水": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "89",
-    "name": "ヒトデマン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 50,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ひらてうち",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "水": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "90",
-    "name": "スターミー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 90,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 0,
-    "moves": [
-      {
-        "name": "スプラッシュ",
-        "damage": 40,
-        "effect": "",
-        "cost": {
-          "水": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "91",
-    "name": "スターミーEX",
-    "cardType": "EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 130,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 0,
-    "moves": [
-      {
-        "name": "ハイドロスプラッシュ",
-        "damage": 90,
-        "effect": "",
-        "cost": {
-          "水": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "92",
-    "name": "コイキング",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 30,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "はねる",
-        "damage": 10,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "93",
-    "name": "ギャラドス",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "敵エネルギートラッシュ"
-    ],
-    "hp": 150,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 4,
-    "moves": [
-      {
-        "name": "はかいこうせん",
-        "damage": 100,
-        "effect": "相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
-        "cost": {
-          "水": 4
-        }
-      }
-    ]
-  },
-  {
-    "id": "94",
-    "name": "ラプラス",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "自身のエネルギーの数に応じてダメージアップ"
-    ],
-    "hp": 100,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "ハイドロポンプ",
-        "damage": 20,
-        "effect": "追加で水エネルギーが3個ついているなら、70ダメージ追加。",
-        "cost": {
-          "水": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "95",
-    "name": "シャワーズ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "回復"
-    ],
-    "hp": 130,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "バブルドレイン",
-        "damage": 60,
-        "effect": "このポケモンのHPを30回復。",
-        "cost": {
-          "水": 1,
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "96",
-    "name": "オムナイト",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 90,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "みずでっぽう",
-        "damage": 40,
-        "effect": "",
-        "cost": {
-          "水": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "97",
-    "name": "オムスター",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "ワザ封じ"
-    ],
-    "hp": 140,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "こだいのうずしお",
-        "damage": 70,
-        "effect": "次の相手の番、このワザを受けたポケモンはワザが使えない。",
-        "cost": {
-          "水": 1,
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "98",
-    "name": "フリーザー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "まひ",
-      " コイン"
-    ],
-    "hp": 100,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "れいとうビーム",
-        "damage": 60,
-        "effect": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
-        "cost": {
-          "水": 2,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "99",
-    "name": "フリーザーEX",
-    "cardType": "EX",
-    "imageKey": "",
-    "tags": [
-      "ベンチ狙撃"
-    ],
-    "hp": 140,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "アイスウィング",
-        "damage": 0,
-        "effect": "",
-        "cost": {
-          "水": 1,
-          "無色": 1
-        }
-      },
-      {
-        "name": "ふぶき",
-        "damage": 80,
-        "effect": "相手のベンチポケモン全員にも10ダメージ。",
-        "cost": {
-          "水": 3
-        }
-      }
-    ]
-  },
-  {
-    "id": "100",
-    "name": "コアルヒー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 50,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "はばたく",
-        "damage": 30,
-        "effect": "",
-        "cost": {
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "101",
-    "name": "スワンナ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 90,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "つばさでうつ",
-        "damage": 70,
-        "effect": "",
-        "cost": {
-          "無色": 3
-        }
-      }
-    ]
-  },
-  {
-    "id": "102",
-    "name": "ケロマツ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "はねまわる",
-        "damage": 10,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "103",
-    "name": "ゲコガシラ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 80,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "みずきり",
-        "damage": 30,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "104",
-    "name": "ゲッコウガ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "ベンチ狙撃"
-    ],
-    "hp": 120,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "かすみぎり",
-        "damage": 60,
-        "effect": "",
-        "cost": {
-          "水": 1,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "105",
-    "name": "ナマコブシ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 70,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "みずかけ",
-        "damage": 30,
-        "effect": "",
-        "cost": {
-          "水": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "106",
-    "name": "ハギギシリ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "相手がダメージを受けているならダメージアップ"
-    ],
-    "hp": 90,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "きずをえぐる",
-        "damage": 10,
-        "effect": "相手のバトルポケモンがダメージを受けているなら、60ダメージ追加。",
-        "cost": {
-          "水": 1,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "107",
-    "name": "ユキハミ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 50,
-    "type": "水",
-    "weakness": "鋼",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ぶつかる",
-        "damage": 10,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "108",
-    "name": "モスノウ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "ねむり"
-    ],
-    "hp": 90,
-    "type": "水",
-    "weakness": "鋼",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "こなゆき",
-        "damage": 40,
-        "effect": "相手のバトルポケモンをねむりにする。",
-        "cost": {
-          "水": 1,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "109",
-    "name": "ピカチュウ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "雷",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "かじる",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "雷": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "110",
-    "name": "ライチュウ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 100,
-    "type": "雷",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "10まんボルト",
-        "damage": 140,
-        "effect": "このポケモンからエネルギーをすべてトラッシュ。",
-        "cost": {
-          "雷": 3
-        }
-      }
-    ]
-  },
-  {
-    "id": "111",
-    "name": "ピカチュウEX",
-    "cardType": "EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 120,
-    "type": "雷",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "エレキサークル",
-        "damage": 0,
-        "effect": "自分のベンチの雷ポケモンの数×30ダメージ。",
-        "cost": {
-          "雷": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "112",
-    "name": "コイル",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "雷",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ビッカリだま",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "雷": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "113",
-    "name": "レアコイル",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "エネルギー加速"
-    ],
-    "hp": 80,
-    "type": "雷",
-    "weakness": "闘",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "かいてんアタック",
-        "damage": 60,
-        "effect": "",
-        "cost": {
-          "雷": 1,
-          "無色": 3
-        }
-      }
-    ]
-  },
-  {
-    "id": "114",
-    "name": "ビリリダマ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "雷",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "たいあたり",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "雷": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "115",
-    "name": "マルマイン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 80,
-    "type": "雷",
-    "weakness": "闘",
-    "retreatCost": 0,
-    "moves": [
-      {
-        "name": "エレキボール",
-        "damage": 70,
-        "effect": "",
-        "cost": {
-          "雷": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "116",
-    "name": "エレブー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "コイン"
-    ],
-    "hp": 70,
-    "type": "雷",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "かみなりパンチ",
-        "damage": 40,
-        "effect": "コインを1回投げオモテなら、40ダメージ追加。ウラなら、このポケモンにも20ダメージ。",
-        "cost": {
-          "雷": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "117",
-    "name": "サンダース",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "コイン"
-    ],
-    "hp": 90,
-    "type": "雷",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ミサイルばり",
-        "damage": 0,
-        "effect": "コインを4回投げ、オモテの数×40ダメージ。",
-        "cost": {
-          "雷": 1,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "118",
-    "name": "サンダー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 100,
-    "type": "雷",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "らくらい",
-        "damage": 100,
-        "effect": "自分のベンチポケモン1匹にも30ダメージ。",
-        "cost": {
-          "雷": 2,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "119",
-    "name": "サンダーEX",
-    "cardType": "EX",
-    "imageKey": "",
-    "tags": [
-      "コイン"
-    ],
-    "hp": 130,
-    "type": "雷",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "つつく",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "雷": 1
-        }
-      },
-      {
-        "name": "ハリケーンサンダー",
-        "damage": 0,
-        "effect": "コインを4回投げ、オモテの数×50ダメージ。",
-        "cost": {
-          "雷": 3
-        }
-      }
-    ]
-  },
-  {
-    "id": "120",
-    "name": "シママ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "雷",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "エレキック",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "雷": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "121",
-    "name": "ゼブライカ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "ベンチ狙撃"
-    ],
-    "hp": 90,
-    "type": "雷",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "サンダーアロー",
-        "damage": 0,
-        "effect": "相手のポケモン1匹に30ダメージ。",
-        "cost": {
-          "雷": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "122",
-    "name": "シビシラス",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 30,
-    "type": "雷",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "プチでんき",
-        "damage": 30,
-        "effect": "",
-        "cost": {
-          "雷": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "123",
-    "name": "シビビール",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 80,
-    "type": "雷",
-    "weakness": "闘",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "ヘッドボルト",
-        "damage": 40,
-        "effect": "",
-        "cost": {
-          "雷": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "124",
-    "name": "シビルドン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "まひ",
-      " コイン"
-    ],
-    "hp": 140,
-    "type": "雷",
-    "weakness": "闘",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "80",
-        "damage": 0,
-        "effect": "",
-        "cost": {
-          "雷": 2,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "125",
-    "name": "エレキテル",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "雷",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "しっぽではたく",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "雷": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "126",
-    "name": "エレザード",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "コイン"
-    ],
-    "hp": 90,
-    "type": "雷",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "でんこうせっか",
-        "damage": 40,
-        "effect": "コインを1回投げオモテなら、40ダメージ追加。",
-        "cost": {
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "127",
-    "name": "バチンウニ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "まひ",
-      " コイン"
-    ],
-    "hp": 70,
-    "type": "雷",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "でんきショック",
-        "damage": 30,
-        "effect": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
-        "cost": {
-          "雷": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "128",
-    "name": "ピッピ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "超",
-    "weakness": "鋼",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ビンタ",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "超": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "129",
-    "name": "ピクシー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 100,
-    "type": "超",
-    "weakness": "鋼",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "マジカルショット",
-        "damage": 40,
-        "effect": "",
-        "cost": {
-          "超": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "130",
-    "name": "ケーシィ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "ベンチに逃げる"
-    ],
-    "hp": 60,
-    "type": "超",
-    "weakness": "悪",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "テレポート",
-        "damage": 0,
-        "effect": "このポケモンをベンチポケモンと入れ替える。",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "131",
-    "name": "ユンゲラー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 80,
-    "type": "超",
-    "weakness": "悪",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ちょうねんりき",
-        "damage": 60,
-        "effect": "",
-        "cost": {
-          "超": 1,
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "132",
-    "name": "フーディン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "相手エネルギーの数だけダメージアップ"
-    ],
-    "hp": 130,
-    "type": "超",
-    "weakness": "悪",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "サイコキネシス",
-        "damage": 60,
-        "effect": "相手のバトルポケモンのエネルギーの数×30ダメージ追加。",
-        "cost": {
-          "超": 1,
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "133",
-    "name": "ヤドン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 70,
-    "type": "超",
-    "weakness": "悪",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "しっぽではたく",
-        "damage": 30,
-        "effect": "",
-        "cost": {
-          "超": 1,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "134",
-    "name": "ヤドラン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 130,
-    "type": "超",
-    "weakness": "悪",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "ちょうねんりき",
-        "damage": 80,
-        "effect": "",
-        "cost": {
-          "超": 2,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "135",
-    "name": "ゴース",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "超",
-    "weakness": "悪",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ガスでつつむ",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "超": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "136",
-    "name": "ゴースト",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 80,
-    "type": "超",
-    "weakness": "悪",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "おにび",
-        "damage": 30,
-        "effect": "",
-        "cost": {
-          "超": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "137",
-    "name": "ゲンガー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "サポート封じ"
-    ],
-    "hp": 130,
-    "type": "超",
-    "weakness": "悪",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "いやがらせ",
-        "damage": 50,
-        "effect": "次の相手の番、相手は手札からサポートを出して使えない。",
-        "cost": {
-          "超": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "138",
-    "name": "ゲンガーEX",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "サポート封じ"
-    ],
-    "hp": 170,
-    "type": "超",
-    "weakness": "悪",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "ホロウショット",
-        "damage": 100,
-        "effect": "",
-        "cost": {
-          "超": 3
-        }
-      }
-    ]
-  },
-  {
-    "id": "139",
-    "name": "スリープ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 70,
-    "type": "超",
-    "weakness": "悪",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "つぶやく",
-        "damage": 30,
-        "effect": "",
-        "cost": {
-          "超": 1,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "140",
-    "name": "スリーパー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "ねむり",
-      " コイン"
-    ],
-    "hp": 100,
-    "type": "超",
-    "weakness": "悪",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "サイコパンチ",
-        "damage": 50,
-        "effect": "",
-        "cost": {
-          "超": 2,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "141",
-    "name": "バリヤード",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "ダメージ減少"
-    ],
-    "hp": 80,
-    "type": "超",
-    "weakness": "悪",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "バリアアタック",
-        "damage": 30,
-        "effect": "次の相手の番、このポケモンが受けるワザのダメージを-20する。",
-        "cost": {
-          "超": 1,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "142",
-    "name": "ルージュラ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "相手エネルギーの数だけダメージアップ"
-    ],
-    "hp": 80,
-    "type": "超",
-    "weakness": "悪",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "サイコキネシス",
-        "damage": 30,
-        "effect": "相手のバトルポケモンのエネルギーの数×20ダメージ追加。",
-        "cost": {
-          "超": 1,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "143",
-    "name": "ミュウツー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 120,
-    "type": "超",
-    "weakness": "悪",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "パワーブラスト",
-        "damage": 120,
-        "effect": "このポケモンから超エネルギーを2個トラッシュ。",
-        "cost": {
-          "超": 2,
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "144",
-    "name": "ミュウツーEX",
-    "cardType": "EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 150,
-    "type": "超",
-    "weakness": "悪",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "ねんどうだん",
-        "damage": 50,
-        "effect": "",
-        "cost": {
-          "超": 1,
-          "無色": 1
-        }
-      },
-      {
-        "name": "サイコドライブ",
-        "damage": 150,
-        "effect": "このポケモンから超エネルギーを2個トラッシュ。",
-        "cost": {
-          "超": 2,
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "145",
-    "name": "ラルトス",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "超",
-    "weakness": "悪",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ぶつかる",
-        "damage": 10,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "146",
-    "name": "キルリア",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 80,
-    "type": "超",
-    "weakness": "悪",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ひらてうち",
-        "damage": 30,
-        "effect": "",
-        "cost": {
-          "超": 1,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "147",
-    "name": "サーナイト",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "エネルギー加速"
-    ],
-    "hp": 110,
-    "type": "超",
-    "weakness": "悪",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "サイコショット",
-        "damage": 60,
-        "effect": "",
-        "cost": {
-          "超": 2,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "148",
-    "name": "コロモリ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "超",
-    "weakness": "悪",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "かじる",
-        "damage": 10,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "149",
-    "name": "ココロモリ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 90,
-    "type": "超",
-    "weakness": "悪",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ハートスタンプ",
-        "damage": 60,
-        "effect": "",
-        "cost": {
-          "超": 1,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "150",
-    "name": "ゴビット",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 90,
-    "type": "超",
-    "weakness": "悪",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "メガトンパンチ",
-        "damage": 50,
-        "effect": "",
-        "cost": {
-          "超": 1,
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "151",
-    "name": "ゴルーグ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "コイン"
-    ],
-    "hp": 140,
-    "type": "超",
-    "weakness": "悪",
-    "retreatCost": 4,
-    "moves": [
-      {
-        "name": "ダブルラリアット",
-        "damage": 0,
-        "effect": "コインを2回投げ、オモテの数×100ダメージ",
-        "cost": {
-          "超": 2,
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "152",
-    "name": "サンド",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 70,
-    "type": "闘",
-    "weakness": "草",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ひっかく",
-        "damage": 10,
-        "effect": "",
-        "cost": {
-          "闘": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "153",
-    "name": "サンドパン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 100,
-    "type": "闘",
-    "weakness": "草",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "きりさく",
-        "damage": 70,
-        "effect": "",
-        "cost": {
-          "闘": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "154",
-    "name": "ディグダ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 50,
-    "type": "闘",
-    "weakness": "草",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "どろかけ",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "闘": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "155",
-    "name": "ダグトリオ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "コイン",
-      " ダメージ減少",
-      " ダメージ無効化"
-    ],
-    "hp": 70,
-    "type": "闘",
-    "weakness": "草",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "あなをほる",
-        "damage": 40,
-        "effect": "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
-        "cost": {
-          "闘": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "156",
-    "name": "マンキー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "闘",
-    "weakness": "超",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "けたぐり",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "闘": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "157",
-    "name": "オコリザル",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "リベンジ"
-    ],
-    "hp": 90,
-    "type": "闘",
-    "weakness": "超",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "やりかえす",
-        "damage": 40,
-        "effect": "このポケモンがダメージを受けているなら、60ダメージ追加。",
-        "cost": {
-          "闘": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "158",
-    "name": "ワンリキー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 70,
-    "type": "闘",
-    "weakness": "超",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "げんこつ",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "闘": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "159",
-    "name": "ゴーリキー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 100,
-    "type": "闘",
-    "weakness": "超",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "かいりき",
-        "damage": 50,
-        "effect": "",
-        "cost": {
-          "闘": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "160",
-    "name": "カイリキー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 150,
-    "type": "闘",
-    "weakness": "超",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "ちきゅうなげ",
-        "damage": 100,
-        "effect": "",
-        "cost": {
-          "闘": 3
-        }
-      }
-    ]
-  },
-  {
-    "id": "161",
-    "name": "カイリキーEX",
-    "cardType": "EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 180,
-    "type": "闘",
-    "weakness": "超",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "メガトンパンチ",
-        "damage": 120,
-        "effect": "",
-        "cost": {
-          "闘": 3
-        }
-      }
-    ]
-  },
-  {
-    "id": "162",
-    "name": "イシツブテ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 70,
-    "type": "闘",
-    "weakness": "草",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "たいあたり",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "闘": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "163",
-    "name": "ゴローン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 100,
-    "type": "闘",
-    "weakness": "草",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "ころがる",
-        "damage": 70,
-        "effect": "",
-        "cost": {
-          "闘": 1,
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "164",
-    "name": "ゴローニャ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 160,
-    "type": "闘",
-    "weakness": "草",
-    "retreatCost": 4,
-    "moves": [
-      {
-        "name": "すてみタックル",
-        "damage": 150,
-        "effect": "このポケモンにも50ダメージ。",
-        "cost": {
-          "闘": 1,
-          "無色": 3
-        }
-      }
-    ]
-  },
-  {
-    "id": "165",
-    "name": "イワーク",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 110,
-    "type": "闘",
-    "weakness": "草",
-    "retreatCost": 4,
-    "moves": [
-      {
-        "name": "ランドクラッシュ",
-        "damage": 70,
-        "effect": "",
-        "cost": {
-          "闘": 3
-        }
-      }
-    ]
-  },
-  {
-    "id": "166",
-    "name": "カラカラ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "ダメージ減少"
-    ],
-    "hp": 60,
-    "type": "闘",
-    "weakness": "草",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "なきごえ",
-        "damage": 0,
-        "effect": "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-20する。",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "167",
-    "name": "ガラガラ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 100,
-    "type": "闘",
-    "weakness": "草",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ホネなぐり",
-        "damage": 40,
-        "effect": "",
-        "cost": {
-          "闘": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "168",
-    "name": "ガラガラEX",
-    "cardType": "EX",
-    "imageKey": "",
-    "tags": [
-      "コイン"
-    ],
-    "hp": 140,
-    "type": "闘",
-    "weakness": "草",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "骨ブーメラン",
-        "damage": 0,
-        "effect": "コインを2回投げ、オモテの数×80ダメージ。",
-        "cost": {
-          "闘": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "169",
-    "name": "サワムラー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "ベンチ狙撃"
-    ],
-    "hp": 80,
-    "type": "闘",
-    "weakness": "超",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "のびるキック",
-        "damage": 0,
-        "effect": "相手のベンチのポケモン1匹に30ダメージ。",
-        "cost": {
-          "闘": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "170",
-    "name": "エビワラー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 80,
-    "type": "闘",
-    "weakness": "超",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ジャブ",
-        "damage": 30,
-        "effect": "",
-        "cost": {
-          "闘": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "171",
-    "name": "サイホーン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 80,
-    "type": "闘",
-    "weakness": "草",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "たいあたり",
-        "damage": 60,
-        "effect": "",
-        "cost": {
-          "闘": 2,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "172",
-    "name": "サイドン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 120,
-    "type": "闘",
-    "weakness": "草",
-    "retreatCost": 4,
-    "moves": [
-      {
-        "name": "つのドリル",
-        "damage": 100,
-        "effect": "",
-        "cost": {
-          "闘": 3,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "173",
-    "name": "カブト",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 90,
-    "type": "闘",
-    "weakness": "草",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "こうらアタック",
-        "damage": 40,
-        "effect": "",
-        "cost": {
-          "闘": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "174",
-    "name": "カブトプス",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "回復"
-    ],
-    "hp": 140,
-    "type": "闘",
-    "weakness": "超",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "きゅうけつ",
-        "damage": 50,
-        "effect": "相手のバトルポケモンに与えたダメージぶん、このポケモン、HPを回復。",
-        "cost": {
-          "闘": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "175",
-    "name": "コジョフー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "闘",
-    "weakness": "超",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "はたく",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "176",
-    "name": "コジョンド",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 80,
-    "type": "闘",
-    "weakness": "超",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "かいてんげり",
-        "damage": 40,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "177",
-    "name": "タタッコ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 80,
-    "type": "闘",
-    "weakness": "超",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "げんこつ",
-        "damage": 30,
-        "effect": "",
-        "cost": {
-          "闘": 1,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "178",
-    "name": "オストパス",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "敵ポケ入れ替え"
-    ],
-    "hp": 130,
-    "type": "闘",
-    "weakness": "超",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "なぐりとばす",
-        "damage": 70,
-        "effect": "相手のバトルポケモンをベンチポケモンと入れ替える。(バトル場に出すポケモンは相手が選ぶ。)",
-        "cost": {
-          "闘": 2,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "179",
-    "name": "アーボ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "悪",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "かみつく",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "悪": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "180",
-    "name": "アーボック",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "かげふみ"
-    ],
-    "hp": 100,
-    "type": "悪",
-    "weakness": "闘",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "おいつめる",
-        "damage": 60,
-        "effect": "次の相手の番、このワザを受けたポケモンはにげることができない。",
-        "cost": {
-          "悪": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "181",
-    "name": "ニドラン♀",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "サーチ"
-    ],
-    "hp": 60,
-    "type": "悪",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "なかまをよぶ",
-        "damage": 0,
-        "effect": "自分の山札から「ニドラン♂」をランダムに1枚、ベンチに出す。",
-        "cost": {}
-      }
-    ]
-  },
-  {
-    "id": "182",
-    "name": "ニドリーナ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 80,
-    "type": "悪",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "かみつく",
-        "damage": 30,
-        "effect": "",
-        "cost": {
-          "悪": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "183",
-    "name": "ニドクイン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 140,
-    "type": "悪",
-    "weakness": "闘",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "ラブラブアタック",
-        "damage": 80,
-        "effect": "自分のベンチの「ニドキング」の数×50ダメージを追加。",
-        "cost": {
-          "悪": 2,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "184",
-    "name": "ニドラン♂",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "悪",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "つつく",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "悪": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "185",
-    "name": "ニドリーノ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 90,
-    "type": "悪",
-    "weakness": "闘",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "つのでつく",
-        "damage": 40,
-        "effect": "",
-        "cost": {
-          "悪": 1,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "186",
-    "name": "ニドキング",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "どく"
-    ],
-    "hp": 150,
-    "type": "悪",
-    "weakness": "闘",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "どくのつの",
-        "damage": 90,
-        "effect": "相手のバトルポケモンをどくにする。",
-        "cost": {
-          "悪": 2,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "187",
-    "name": "ズバット",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 50,
-    "type": "悪",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "かっくう",
-        "damage": 10,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "188",
-    "name": "ゴルバット",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 70,
-    "type": "悪",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "つばさでうつ",
-        "damage": 40,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "189",
-    "name": "ベトベター",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "どく"
-    ],
-    "hp": 70,
-    "type": "悪",
-    "weakness": "闘",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "どくガス",
-        "damage": 10,
-        "effect": "相手のバトルポケモンをどくにする。",
-        "cost": {
-          "悪": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "190",
-    "name": "ベトベトン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "相手がどくならダメージアップ"
-    ],
-    "hp": 130,
-    "type": "悪",
-    "weakness": "闘",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "ベノムショック",
-        "damage": 70,
-        "effect": "相手のバトルポケモンがどくなら、50ダメージ追加。",
-        "cost": {
-          "悪": 2,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "191",
-    "name": "ドガース",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 70,
-    "type": "悪",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ガスでつつむ",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "悪": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "192",
-    "name": "マタドガス",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "どく"
-    ],
-    "hp": 110,
-    "type": "悪",
-    "weakness": "闘",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "たいあたり",
-        "damage": 30,
-        "effect": "",
-        "cost": {
-          "悪": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "193",
-    "name": "クチート",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "コイン",
-      " 敵エネルギートラッシュ"
-    ],
-    "hp": 70,
-    "type": "鋼",
-    "weakness": "炎",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "かみくだく",
-        "damage": 20,
-        "effect": "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
-        "cost": {
-          "鋼": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "194",
-    "name": "コマタナ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 50,
-    "type": "鋼",
-    "weakness": "炎",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "つきさす",
-        "damage": 30,
-        "effect": "",
-        "cost": {
-          "鋼": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "195",
-    "name": "キリキザン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 90,
-    "type": "鋼",
-    "weakness": "炎",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "メタルクロー",
-        "damage": 70,
-        "effect": "",
-        "cost": {
-          "鋼": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "196",
-    "name": "メルタン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "エネルギー加速"
-    ],
-    "hp": 60,
-    "type": "鋼",
-    "weakness": "炎",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ためる",
-        "damage": 0,
-        "effect": "自分のエネルギーゾーンから鋼エネルギーを1個出し、このポケモンにつける。",
-        "cost": {
-          "鋼": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "197",
-    "name": "メルメタル",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "ダメージ減少"
-    ],
-    "hp": 130,
-    "type": "鋼",
-    "weakness": "炎",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "ヘビーインパクト",
-        "damage": 120,
-        "effect": "",
-        "cost": {
-          "鋼": 3,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "198",
-    "name": "ミニリュウ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 70,
-    "type": "ドラゴン",
-    "weakness": "",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ぶつかる",
-        "damage": 40,
-        "effect": "",
-        "cost": {
-          "水": 1,
-          "雷": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "199",
-    "name": "ハクリュー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 100,
-    "type": "ドラゴン",
-    "weakness": "",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "しっぽでたたく",
-        "damage": 80,
-        "effect": "",
-        "cost": {
-          "水": 1,
-          "雷": 1,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "200",
-    "name": "カイリュー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "ランダム攻撃"
-    ],
-    "hp": 160,
-    "type": "ドラゴン",
-    "weakness": "",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "りゅうせいぐん",
-        "damage": 0,
-        "effect": "相手のポケモンがランダムに4回選ばれ、選ばれたポケモン全員に、選ばれた回数×50ダメージ。",
-        "cost": {
-          "水": 1,
-          "雷": 1,
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "201",
-    "name": "ポッポ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "無色",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "かぜおこし",
-        "damage": 10,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "202",
-    "name": "ピジョン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 80,
-    "type": "無色",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "かぜおこし",
-        "damage": 30,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "203",
-    "name": "ピジョット",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "敵ポケ入れ替え"
-    ],
-    "hp": 130,
-    "type": "無色",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "つばさでうつ",
-        "damage": 70,
-        "effect": "",
-        "cost": {
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "204",
-    "name": "コラッタ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 40,
-    "type": "無色",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "かじる",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "205",
-    "name": "コラッタ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 80,
-    "type": "無色",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "かみつく",
-        "damage": 40,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "206",
-    "name": "オニスズメ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "無色",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "つつく",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "207",
-    "name": "オニドリル",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "敵エネルギートラッシュ"
-    ],
-    "hp": 100,
-    "type": "無色",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ドリルライナー",
-        "damage": 50,
-        "effect": "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
-        "cost": {
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "208",
-    "name": "プリン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "無色",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "はたく",
-        "damage": 30,
-        "effect": "",
-        "cost": {
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "209",
-    "name": "プクリン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 100,
-    "type": "無色",
-    "weakness": "闘",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "ハイパーボイス",
-        "damage": 60,
-        "effect": "",
-        "cost": {
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "210",
-    "name": "プクリンEX",
-    "cardType": "EX",
-    "imageKey": "",
-    "tags": [
-      "ねむり"
-    ],
-    "hp": 140,
-    "type": "無色",
-    "weakness": "闘",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "スリーピーソング",
-        "damage": 80,
-        "effect": "相手のバトルポケモンをねむりにする。",
-        "cost": {
-          "無色": 3
-        }
-      }
-    ]
-  },
-  {
-    "id": "211",
-    "name": "ニャース",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "ドロー"
-    ],
-    "hp": 60,
-    "type": "無色",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ネコにこばん",
-        "damage": 10,
-        "effect": "自分の山札を1枚引く。",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "212",
-    "name": "ペルシアン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "コイン",
-      " 相手手札干渉"
-    ],
-    "hp": 90,
-    "type": "無色",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "シャドークロー",
-        "damage": 40,
-        "effect": "コインを1回投げオモテなら、相手の手札からランダムに1枚トラッシュ。",
-        "cost": {
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "213",
-    "name": "カモネギ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "無色",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ネギでたたく",
-        "damage": 40,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "214",
-    "name": "ドードー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "無色",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "つつく",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "215",
-    "name": "ドードリオ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 80,
-    "type": "無色",
-    "weakness": "雷",
-    "retreatCost": 0,
-    "moves": [
-      {
-        "name": "ドリルくちばし",
-        "damage": 40,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "216",
-    "name": "ベロリンガ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "コイン"
-    ],
-    "hp": 90,
-    "type": "無色",
-    "weakness": "闘",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "れんぞくベロベロ",
-        "damage": 0,
-        "effect": "ウラが出るまでコインを投げ、オモテの数×60ダメージ。",
-        "cost": {
-          "無色": 3
-        }
-      }
-    ]
-  },
-  {
-    "id": "217",
-    "name": "ラッキー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 120,
-    "type": "無色",
-    "weakness": "闘",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "ひっぱたく",
-        "damage": 60,
-        "effect": "",
-        "cost": {
-          "無色": 3
-        }
-      }
-    ]
-  },
-  {
-    "id": "218",
-    "name": "ガルーラ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "コイン"
-    ],
-    "hp": 100,
-    "type": "無色",
-    "weakness": "闘",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "ピヨピヨパンチ",
-        "damage": 0,
-        "effect": "コインを2回投げ、オモテの数×30ダメージ。",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "219",
-    "name": "ケンタロス",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 100,
-    "type": "無色",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "つのでつく",
-        "damage": 50,
-        "effect": "",
-        "cost": {
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "220",
-    "name": "メタモン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "技コピー"
-    ],
-    "hp": 70,
-    "type": "無色",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "どこでもコピー",
-        "damage": 0,
-        "effect": "相手の場のポケモンが持っているワザを1つ選び、このワザとして使う。選んだワザに必要なエネルギーがこのポケモンについていなければ、このワザは失敗。",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "221",
-    "name": "イーブイ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "無色",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "たいあたり",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "222",
-    "name": "ポリゴン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "山札チェック"
-    ],
-    "hp": 50,
-    "type": "無色",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "かくばる",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "223",
-    "name": "プテラ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [
-      "敵のバトルポケモン除去"
-    ],
-    "hp": 100,
-    "type": "無色",
-    "weakness": "雷",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "げんしのはばたき",
-        "damage": 0,
-        "effect": "コインを1回投げオモテなら、相手のバトルポケモンを山札にもどす。",
-        "cost": {
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "224",
-    "name": "カビゴン",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 150,
-    "type": "無色",
-    "weakness": "闘",
-    "retreatCost": 4,
-    "moves": [
-      {
-        "name": "ころがる",
-        "damage": 70,
-        "effect": "",
-        "cost": {
-          "無色": 4
-        }
-      }
-    ]
-  },
-  {
-    "id": "225",
-    "name": "チラーミィ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 60,
-    "type": "無色",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "しっぽでたたく",
-        "damage": 20,
-        "effect": "",
-        "cost": {
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "226",
-    "name": "チラチーノ",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 90,
-    "type": "無色",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "ともだちのわ",
-        "damage": 0,
-        "effect": "自分のベンチポケモンの数×30ダメージ。",
-        "cost": {
-          "無色": 3
-        }
-      }
-    ]
-  },
-  {
-    "id": "227",
-    "name": "ウールー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 70,
-    "type": "無色",
-    "weakness": "闘",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "たいあたり",
-        "damage": 30,
-        "effect": "",
-        "cost": {
-          "無色": 2
-        }
-      }
-    ]
-  },
-  {
-    "id": "228",
-    "name": "パイウールー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 120,
-    "type": "無色",
-    "weakness": "闘",
-    "retreatCost": 2,
-    "moves": [
-      {
-        "name": "ころがりタックル",
-        "damage": 80,
-        "effect": "",
-        "cost": {
-          "無色": 3
-        }
-      }
-    ]
-  },
-  {
-    "id": "229",
-    "name": "かいの化石",
-    "cardType": "グッズ(化石)",
-    "imageKey": "",
-    "tags": [],
-    "hp": 40,
-    "type": "",
-    "weakness": "",
-    "retreatCost": 0,
-    "moves": []
-  },
-  {
-    "id": "230",
-    "name": "こうらの化石",
-    "cardType": "グッズ(化石)",
-    "imageKey": "",
-    "tags": [],
-    "hp": 40,
-    "type": "",
-    "weakness": "",
-    "retreatCost": 0,
-    "moves": []
-  },
-  {
-    "id": "231",
-    "name": "ひみつのコハク",
-    "cardType": "グッズ(化石)",
-    "imageKey": "",
-    "tags": [],
-    "hp": 40,
-    "type": "",
-    "weakness": "",
-    "retreatCost": 0,
-    "moves": []
-  },
-  {
-    "id": "232",
-    "name": "エリカ",
-    "cardType": "サポート",
-    "imageKey": "",
-    "tags": [
-      "回復"
-    ],
-    "hp": 0,
-    "type": "草",
-    "weakness": "",
-    "retreatCost": 0,
-    "moves": []
-  },
-  {
-    "id": "233",
-    "name": "カスミ",
-    "cardType": "サポート",
-    "imageKey": "",
-    "tags": [
-      "エネルギー加速"
-    ],
-    "hp": 0,
-    "type": "水",
-    "weakness": "",
-    "retreatCost": 0,
-    "moves": []
-  },
-  {
-    "id": "234",
-    "name": "カツラ",
-    "cardType": "サポート",
-    "imageKey": "",
-    "tags": [
-      "ダメージアップ"
-    ],
-    "hp": 0,
-    "type": "炎",
-    "weakness": "",
-    "retreatCost": 0,
-    "moves": []
-  },
-  {
-    "id": "235",
-    "name": "キョウ",
-    "cardType": "サポート",
-    "imageKey": "",
-    "tags": [
-      "味方を手札に戻す"
-    ],
-    "hp": 0,
-    "type": "悪",
-    "weakness": "",
-    "retreatCost": 0,
-    "moves": []
-  },
-  {
-    "id": "236",
-    "name": "サカキ",
-    "cardType": "サポート",
-    "imageKey": "",
-    "tags": [
-      "ダメージアップ"
-    ],
-    "hp": 0,
-    "type": "",
-    "weakness": "",
-    "retreatCost": 0,
-    "moves": []
-  },
-  {
-    "id": "237",
-    "name": "タケシ",
-    "cardType": "サポート",
-    "imageKey": "",
-    "tags": [
-      "エネルギー加速"
-    ],
-    "hp": 0,
-    "type": "闘",
-    "weakness": "",
-    "retreatCost": 0,
-    "moves": []
-  },
-  {
-    "id": "238",
-    "name": "ナツメ",
-    "cardType": "サポート",
-    "imageKey": "",
-    "tags": [
-      "敵ポケ入れ替え"
-    ],
-    "hp": 0,
-    "type": "",
-    "weakness": "",
-    "retreatCost": 0,
-    "moves": []
-  },
-  {
-    "id": "239",
-    "name": "マチス",
-    "cardType": "サポート",
-    "imageKey": "",
-    "tags": [
-      "エネルギー付け替え"
-    ],
-    "hp": 0,
-    "type": "雷",
-    "weakness": "",
-    "retreatCost": 0,
-    "moves": []
-  },
-  {
-    "id": "240",
-    "name": "きずぐすり",
-    "cardType": "グッズ",
-    "imageKey": "",
-    "tags": [
-      "回復"
-    ],
-    "hp": 0,
-    "type": "",
-    "weakness": "",
-    "retreatCost": 0,
-    "moves": []
-  },
-  {
-    "id": "241",
-    "name": "スピーダー",
-    "cardType": "グッズ",
-    "imageKey": "",
-    "tags": [
-      "逃げエネ減少"
-    ],
-    "hp": 0,
-    "type": "",
-    "weakness": "",
-    "retreatCost": 0,
-    "moves": []
-  },
-  {
-    "id": "242",
-    "name": "ハンドスコープ",
-    "cardType": "グッズ",
-    "imageKey": "",
-    "tags": [
-      "相手手札干渉"
-    ],
-    "hp": 0,
-    "type": "",
-    "weakness": "",
-    "retreatCost": 0,
-    "moves": []
-  },
-  {
-    "id": "243",
-    "name": "ポケモン図鑑",
-    "cardType": "グッズ",
-    "imageKey": "",
-    "tags": [
-      "山札チェック"
-    ],
-    "hp": 0,
-    "type": "",
-    "weakness": "",
-    "retreatCost": 0,
-    "moves": []
-  },
-  {
-    "id": "244",
-    "name": "モンスターボール",
-    "cardType": "グッズ",
-    "imageKey": "",
-    "tags": [
-      "サーチ"
-    ],
-    "hp": 0,
-    "type": "",
-    "weakness": "",
-    "retreatCost": 0,
-    "moves": []
-  },
-  {
-    "id": "245",
-    "name": "レッドカード",
-    "cardType": "グッズ",
-    "imageKey": "",
-    "tags": [
-      "相手手札干渉"
-    ],
-    "hp": 0,
-    "type": "",
-    "weakness": "",
-    "retreatCost": 0,
-    "moves": []
-  },
-  {
-    "id": "246",
-    "name": "博士の研究",
-    "cardType": "サポート",
-    "imageKey": "",
-    "tags": [
-      "ドロー"
-    ],
-    "hp": 0,
-    "type": "",
-    "weakness": "",
-    "retreatCost": 0,
-    "moves": []
-  },
-  {
-    "id": "247",
-    "name": "ラプラスEX",
-    "cardType": "EX",
-    "imageKey": "",
-    "tags": [
-      "回復"
-    ],
-    "hp": 140,
-    "type": "水",
-    "weakness": "雷",
-    "retreatCost": 3,
-    "moves": [
-      {
-        "name": "バブルドレイン",
-        "damage": 80,
-        "effect": "このポケモンのHPを20回復。",
-        "cost": {
-          "水": 2,
-          "無色": 1
-        }
-      }
-    ]
-  },
-  {
-    "id": "248",
-    "name": "マンキー",
-    "cardType": "非EX",
-    "imageKey": "",
-    "tags": [],
-    "hp": 50,
-    "type": "闘",
-    "weakness": "超",
-    "retreatCost": 1,
-    "moves": [
-      {
-        "name": "とつげき",
-        "damage": 30,
-        "effect": "このポケモンにも10ダメージ。",
-        "cost": {
-          "闘": 1
-        }
-      }
-    ]
-  }
-]
+{
+  "cards": [
+    {
+      "id": "1",
+      "name": "フシギダネ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 70,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "つるのムチ",
+          "damage": 40,
+          "effect": "",
+          "cost": {
+            "草": 1,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "フシギソウ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 70,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "はっぱカッター",
+          "damage": 60,
+          "effect": "",
+          "cost": {
+            "草": 1,
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "フシギバナ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "回復"
+      ],
+      "hp": 160,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "メガドレイン",
+          "damage": 80,
+          "effect": "このポケモンのHPを30回復",
+          "cost": {
+            "草": 2,
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "フシギバナEX",
+      "cardType": "EX",
+      "imageKey": "",
+      "tags": [
+        "回復"
+      ],
+      "hp": 190,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "はっぱカッター",
+          "damage": 60,
+          "effect": "",
+          "cost": {
+            "草": 1,
+            "無色": 2
+          }
+        },
+        {
+          "name": "ジャイアントブルーム",
+          "damage": 100,
+          "effect": "このポケモンのHPを30回復",
+          "cost": {
+            "草": 2,
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "キャタピー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "サーチ"
+      ],
+      "hp": 50,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ともだちをさがす",
+          "damage": 0,
+          "effect": "自分の山札から草ポケモンをランダムに1枚、手札に加える。",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "name": "トランセル",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 80,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "むしくい",
+          "damage": 30,
+          "effect": "",
+          "cost": {
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "name": "バタフリー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "回復"
+      ],
+      "hp": 120,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "かぜおこし",
+          "damage": 60,
+          "effect": "",
+          "cost": {
+            "草": 1,
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "name": "ビードル",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 50,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "チクチクさす",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "草": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "name": "コクーン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 80,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "むしくい",
+          "damage": 30,
+          "effect": "",
+          "cost": {
+            "草": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "name": "スピアー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 120,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "するどいはり",
+          "damage": 70,
+          "effect": "",
+          "cost": {
+            "草": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "name": "ナゾノクサ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ぶつかる",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "草": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "name": "クサイハナ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 80,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "よだれ",
+          "damage": 40,
+          "effect": "",
+          "cost": {
+            "草": 1,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "name": "ラフレシア",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "ねむり"
+      ],
+      "hp": 140,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "アロマスリープ",
+          "damage": 80,
+          "effect": "相手のバトルポケモンをねむりにする。",
+          "cost": {
+            "草": 2,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "name": "パラス",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 70,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ひっかく",
+          "damage": 30,
+          "effect": "",
+          "cost": {
+            "草": 1,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "name": "パラセクト",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 120,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "きりさく",
+          "damage": 80,
+          "effect": "",
+          "cost": {
+            "草": 2,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "name": "コンパン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "たいあたり",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "草": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "name": "モルフォン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "どく"
+      ],
+      "hp": 80,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "どくのこな",
+          "damage": 30,
+          "effect": "相手のバトルポケモンをどくにする。",
+          "cost": {
+            "草": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "name": "マダツボミ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "つるのムチ",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "草": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "name": "ウツドン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 90,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "はっぱカッター",
+          "damage": 40,
+          "effect": "",
+          "cost": {
+            "草": 1,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "name": "ウツボット",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "敵ポケ入れ替え"
+      ],
+      "hp": 140,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "つるのムチ",
+          "damage": 60,
+          "effect": "",
+          "cost": {
+            "草": 1,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "name": "タマタマ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 50,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "タネばくだん",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "草": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "name": "ナッシー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "コイン"
+      ],
+      "hp": 130,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "ふみつけ",
+          "damage": 30,
+          "effect": "コインを1回投げ、表なら、30ダメージ追加。",
+          "cost": {
+            "草": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "name": "ナッシーEX",
+      "cardType": "EX",
+      "imageKey": "",
+      "tags": [
+        "コイン"
+      ],
+      "hp": 160,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "トロピカルスイング",
+          "damage": 40,
+          "effect": "コインを1回投げオモテなら、40ダメージ追加。",
+          "cost": {
+            "草": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "name": "モンジャラ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "回復"
+      ],
+      "hp": 80,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "すいとる",
+          "damage": 40,
+          "effect": "このポケモンのHPを10回復",
+          "cost": {
+            "草": 1,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "name": "ストライク",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 70,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "するどいカマ",
+          "damage": 30,
+          "effect": "",
+          "cost": {
+            "草": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "name": "カイロス",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "コイン"
+      ],
+      "hp": 90,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "ダブルホーン",
+          "damage": 0,
+          "effect": "コインを2回投げ、オモテの数×50ダメージ。",
+          "cost": {
+            "草": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "name": "モンメン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 50,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "くっつく",
+          "damage": 10,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "name": "エルフーン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 80,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ころがりタックル",
+          "damage": 40,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "name": "チュリネ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "回復"
+      ],
+      "hp": 60,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ちょっとすいとる",
+          "damage": 10,
+          "effect": "このポケモンのHPを10回復",
+          "cost": {
+            "草": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "name": "ドレディア",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "エネルギー加速"
+      ],
+      "hp": 100,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "リーフサプライ",
+          "damage": 50,
+          "effect": "自分のエネルギーゾーンから草エネルギーを1個取り出し、ベンチの草ポケモンにつける。",
+          "cost": {
+            "草": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "name": "メェークル",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "コイン"
+      ],
+      "hp": 70,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ふいをつく",
+          "damage": 40,
+          "effect": "コインを1回投げウラなら、このワザは失敗。",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "name": "ゴーゴート",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 120,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "はっぱカッター",
+          "damage": 70,
+          "effect": "",
+          "cost": {
+            "草": 1,
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "name": "ヒトカゲ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ひのこ",
+          "damage": 30,
+          "effect": "このポケモンから炎エネルギーを1個トラッシュ。",
+          "cost": {
+            "炎": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "name": "リザード",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 90,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "ほのおのツメ",
+          "damage": 60,
+          "effect": "",
+          "cost": {
+            "炎": 1,
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "name": "リザードン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 150,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "ほのおのうず",
+          "damage": 150,
+          "effect": "このポケモンから炎2個トラッシュ。",
+          "cost": {
+            "炎": 2,
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "name": "リザードンEX",
+      "cardType": "EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 180,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "きりさく",
+          "damage": 60,
+          "effect": "",
+          "cost": {
+            "炎": 1,
+            "無色": 2
+          }
+        },
+        {
+          "name": "ぐれんのあらし",
+          "damage": 200,
+          "effect": "このポケモンから炎エネルギーを2個トラッシュ。",
+          "cost": {
+            "炎": 2,
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "52",
+      "name": "ロコン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "コイン"
+      ],
+      "hp": 50,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "しっぽをふる",
+          "damage": 0,
+          "effect": "コインを1回投げオモテなら、次の相手の番、このワザを受けたポケモンはワザが使えない。",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "name": "キュウコン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 90,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "かえんほうしゃ",
+          "damage": 90,
+          "effect": "このポケモンから炎エネルギーを1個トラッシュ。",
+          "cost": {
+            "炎": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "name": "ガーディ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 70,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "かみつく",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "name": "ウィンディ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 130,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "ヒートタックル",
+          "damage": 100,
+          "effect": "このポケモンにも20ダメージ。",
+          "cost": {
+            "炎": 2,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "name": "ウィンディEX",
+      "cardType": "EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 150,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "もうかのとっしん",
+          "damage": 120,
+          "effect": "このポケモンにも20ダメージ。",
+          "cost": {
+            "炎": 2,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "name": "ポニータ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ほのお",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "炎": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "name": "ギャロップ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 100,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ほのおのたてがみ",
+          "damage": 40,
+          "effect": "",
+          "cost": {
+            "炎": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "59",
+      "name": "ブーバー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 80,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "マグマパンチ",
+          "damage": 50,
+          "effect": "",
+          "cost": {
+            "炎": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "name": "ブースター",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 120,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "かえんほうしゃ",
+          "damage": 110,
+          "effect": "このポケモンから炎エネルギーを1個トラッシュ。",
+          "cost": {
+            "炎": 1,
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "61",
+      "name": "ファイヤー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "コイン"
+      ],
+      "hp": 100,
+      "type": "炎",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ゴッドバード",
+          "damage": 130,
+          "effect": "コインを1回投げウラなら、このワザは失敗。",
+          "cost": {
+            "炎": 1,
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "62",
+      "name": "ファイヤーEX",
+      "cardType": "EX",
+      "imageKey": "",
+      "tags": [
+        "エネルギー加速",
+        " コイン"
+      ],
+      "hp": 140,
+      "type": "炎",
+      "weakness": "雷",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "れっかのまい",
+          "damage": 0,
+          "effect": "コインを3回投げ、オモテの数ぶんの炎エネルギーを自分のエネルギーゾーンから出し、ベンチの炎ポケモンに好きなようにつける。",
+          "cost": {
+            "炎": 1
+          }
+        },
+        {
+          "name": "ヒートブラスト",
+          "damage": 70,
+          "effect": "",
+          "cost": {
+            "炎": 1,
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "63",
+      "name": "クイタラン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 80,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "かえん",
+          "damage": 30,
+          "effect": "",
+          "cost": {
+            "炎": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "64",
+      "name": "ヤトウモリ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ひっかく",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "炎": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "65",
+      "name": "エンニュート",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 90,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ほのおのツメ",
+          "damage": 60,
+          "effect": "",
+          "cost": {
+            "炎": 1,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "66",
+      "name": "ヤクデ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "かじる",
+          "damage": 10,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "67",
+      "name": "マルヤクデ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 130,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "だいもんじ",
+          "damage": 130,
+          "effect": "このポケモンから炎エネルギーを1個トラッシュ。",
+          "cost": {
+            "炎": 1,
+            "無色": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "68",
+      "name": "ゼニガメ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "みずでっぽう",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "水": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "69",
+      "name": "カメール",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 80,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "スプラッシュ",
+          "damage": 40,
+          "effect": "",
+          "cost": {
+            "水": 1,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "70",
+      "name": "カメックス",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "自身のエネルギーの数に応じてダメージアップ"
+      ],
+      "hp": 150,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "ハイドロポンプ",
+          "damage": 80,
+          "effect": "追加で水エネルギーが2個ついているなら、60ダメージ追加。",
+          "cost": {
+            "水": 2,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "71",
+      "name": "カメックスEX",
+      "cardType": "EX",
+      "imageKey": "",
+      "tags": [
+        "自身のエネルギーの数に応じてダメージアップ"
+      ],
+      "hp": 180,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "なみのり",
+          "damage": 40,
+          "effect": "",
+          "cost": {
+            "水": 1,
+            "無色": 1
+          }
+        },
+        {
+          "name": "ハイドロバズーカ",
+          "damage": 100,
+          "effect": "追加で水エネルギーが2個ついてるなら、60ダメージ追加。",
+          "cost": {
+            "水": 2,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "72",
+      "name": "コダック",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "サポート封じ"
+      ],
+      "hp": 60,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ずつう",
+          "damage": 10,
+          "effect": "次の相手の番、相手は手札からサポートを出して使えない。",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "73",
+      "name": "ゴルダック",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 90,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "アクアエッジ",
+          "damage": 70,
+          "effect": "",
+          "cost": {
+            "水": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "74",
+      "name": "ニョロモ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ひれカッター",
+          "damage": 10,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "75",
+      "name": "ニョロゾ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 90,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "げんこつ",
+          "damage": 40,
+          "effect": "",
+          "cost": {
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "76",
+      "name": "ニョロボン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "ダメージ反撃"
+      ],
+      "hp": 150,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "メガトンパンチ",
+          "damage": 80,
+          "effect": "",
+          "cost": {
+            "水": 1,
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "77",
+      "name": "メノクラゲ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ひっぱたく",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "水": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "78",
+      "name": "ドククラゲ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "どく"
+      ],
+      "hp": 110,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "どくのしょくしゅ",
+          "damage": 50,
+          "effect": "相手のバトルポケモンをどくにする。",
+          "cost": {
+            "水": 1,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "79",
+      "name": "パウワウ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 80,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "ずつき",
+          "damage": 30,
+          "effect": "",
+          "cost": {
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "80",
+      "name": "ジュゴン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 120,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "なみのり",
+          "damage": 90,
+          "effect": "",
+          "cost": {
+            "水": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "81",
+      "name": "シェルダー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ベロではたく",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "水": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "82",
+      "name": "パルシェン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "ダメージ減少"
+      ],
+      "hp": 120,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "なみのり",
+          "damage": 70,
+          "effect": "",
+          "cost": {
+            "水": 2,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "83",
+      "name": "クラブ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 70,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "はさむ",
+          "damage": 40,
+          "effect": "",
+          "cost": {
+            "水": 1,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "84",
+      "name": "キングラー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "コイン"
+      ],
+      "hp": 120,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "ひっさつクラブ",
+          "damage": 80,
+          "effect": "コインを2回投げ、すべてオモテなら、80ダメージ追加。",
+          "cost": {
+            "水": 2,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "85",
+      "name": "タッツー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 0,
+      "moves": [
+        {
+          "name": "みずでっぽう",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "水": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "86",
+      "name": "シードラ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "hp": 70,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ウォーターアロー",
+          "damage": 0,
+          "effect": "相手のポケモン1匹に50ダメージ。",
+          "cost": {
+            "水": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "87",
+      "name": "トサキント",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "はねまわる",
+          "damage": 10,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "88",
+      "name": "アズマオウ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "コイン"
+      ],
+      "hp": 100,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "つのでつつく",
+          "damage": 80,
+          "effect": "コインを1回投げウラなら、このワザは失敗。",
+          "cost": {
+            "水": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "89",
+      "name": "ヒトデマン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 50,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ひらてうち",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "水": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "90",
+      "name": "スターミー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 90,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 0,
+      "moves": [
+        {
+          "name": "スプラッシュ",
+          "damage": 40,
+          "effect": "",
+          "cost": {
+            "水": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "91",
+      "name": "スターミーEX",
+      "cardType": "EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 130,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 0,
+      "moves": [
+        {
+          "name": "ハイドロスプラッシュ",
+          "damage": 90,
+          "effect": "",
+          "cost": {
+            "水": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "92",
+      "name": "コイキング",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 30,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "はねる",
+          "damage": 10,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "93",
+      "name": "ギャラドス",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "敵エネルギートラッシュ"
+      ],
+      "hp": 150,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 4,
+      "moves": [
+        {
+          "name": "はかいこうせん",
+          "damage": 100,
+          "effect": "相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+          "cost": {
+            "水": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": "94",
+      "name": "ラプラス",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "自身のエネルギーの数に応じてダメージアップ"
+      ],
+      "hp": 100,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "ハイドロポンプ",
+          "damage": 20,
+          "effect": "追加で水エネルギーが3個ついているなら、70ダメージ追加。",
+          "cost": {
+            "水": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "95",
+      "name": "シャワーズ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "回復"
+      ],
+      "hp": 130,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "バブルドレイン",
+          "damage": 60,
+          "effect": "このポケモンのHPを30回復。",
+          "cost": {
+            "水": 1,
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "96",
+      "name": "オムナイト",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 90,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "みずでっぽう",
+          "damage": 40,
+          "effect": "",
+          "cost": {
+            "水": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "97",
+      "name": "オムスター",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "ワザ封じ"
+      ],
+      "hp": 140,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "こだいのうずしお",
+          "damage": 70,
+          "effect": "次の相手の番、このワザを受けたポケモンはワザが使えない。",
+          "cost": {
+            "水": 1,
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "98",
+      "name": "フリーザー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "まひ",
+        " コイン"
+      ],
+      "hp": 100,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "れいとうビーム",
+          "damage": 60,
+          "effect": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+          "cost": {
+            "水": 2,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "99",
+      "name": "フリーザーEX",
+      "cardType": "EX",
+      "imageKey": "",
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "hp": 140,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "アイスウィング",
+          "damage": 0,
+          "effect": "",
+          "cost": {
+            "水": 1,
+            "無色": 1
+          }
+        },
+        {
+          "name": "ふぶき",
+          "damage": 80,
+          "effect": "相手のベンチポケモン全員にも10ダメージ。",
+          "cost": {
+            "水": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "100",
+      "name": "コアルヒー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 50,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "はばたく",
+          "damage": 30,
+          "effect": "",
+          "cost": {
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "101",
+      "name": "スワンナ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 90,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "つばさでうつ",
+          "damage": 70,
+          "effect": "",
+          "cost": {
+            "無色": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "102",
+      "name": "ケロマツ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "はねまわる",
+          "damage": 10,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "103",
+      "name": "ゲコガシラ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 80,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "みずきり",
+          "damage": 30,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "104",
+      "name": "ゲッコウガ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "hp": 120,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "かすみぎり",
+          "damage": 60,
+          "effect": "",
+          "cost": {
+            "水": 1,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "105",
+      "name": "ナマコブシ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 70,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "みずかけ",
+          "damage": 30,
+          "effect": "",
+          "cost": {
+            "水": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "106",
+      "name": "ハギギシリ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "相手がダメージを受けているならダメージアップ"
+      ],
+      "hp": 90,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "きずをえぐる",
+          "damage": 10,
+          "effect": "相手のバトルポケモンがダメージを受けているなら、60ダメージ追加。",
+          "cost": {
+            "水": 1,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "107",
+      "name": "ユキハミ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 50,
+      "type": "水",
+      "weakness": "鋼",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ぶつかる",
+          "damage": 10,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "108",
+      "name": "モスノウ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "ねむり"
+      ],
+      "hp": 90,
+      "type": "水",
+      "weakness": "鋼",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "こなゆき",
+          "damage": 40,
+          "effect": "相手のバトルポケモンをねむりにする。",
+          "cost": {
+            "水": 1,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "109",
+      "name": "ピカチュウ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "かじる",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "雷": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "110",
+      "name": "ライチュウ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 100,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "10まんボルト",
+          "damage": 140,
+          "effect": "このポケモンからエネルギーをすべてトラッシュ。",
+          "cost": {
+            "雷": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "111",
+      "name": "ピカチュウEX",
+      "cardType": "EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 120,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "エレキサークル",
+          "damage": 0,
+          "effect": "自分のベンチの雷ポケモンの数×30ダメージ。",
+          "cost": {
+            "雷": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "112",
+      "name": "コイル",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ビッカリだま",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "雷": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "113",
+      "name": "レアコイル",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "エネルギー加速"
+      ],
+      "hp": 80,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "かいてんアタック",
+          "damage": 60,
+          "effect": "",
+          "cost": {
+            "雷": 1,
+            "無色": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "114",
+      "name": "ビリリダマ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "たいあたり",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "雷": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "115",
+      "name": "マルマイン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 80,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 0,
+      "moves": [
+        {
+          "name": "エレキボール",
+          "damage": 70,
+          "effect": "",
+          "cost": {
+            "雷": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "116",
+      "name": "エレブー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "コイン"
+      ],
+      "hp": 70,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "かみなりパンチ",
+          "damage": 40,
+          "effect": "コインを1回投げオモテなら、40ダメージ追加。ウラなら、このポケモンにも20ダメージ。",
+          "cost": {
+            "雷": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "117",
+      "name": "サンダース",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "コイン"
+      ],
+      "hp": 90,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ミサイルばり",
+          "damage": 0,
+          "effect": "コインを4回投げ、オモテの数×40ダメージ。",
+          "cost": {
+            "雷": 1,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "118",
+      "name": "サンダー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 100,
+      "type": "雷",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "らくらい",
+          "damage": 100,
+          "effect": "自分のベンチポケモン1匹にも30ダメージ。",
+          "cost": {
+            "雷": 2,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "119",
+      "name": "サンダーEX",
+      "cardType": "EX",
+      "imageKey": "",
+      "tags": [
+        "コイン"
+      ],
+      "hp": 130,
+      "type": "雷",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "つつく",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "雷": 1
+          }
+        },
+        {
+          "name": "ハリケーンサンダー",
+          "damage": 0,
+          "effect": "コインを4回投げ、オモテの数×50ダメージ。",
+          "cost": {
+            "雷": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "120",
+      "name": "シママ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "エレキック",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "雷": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "121",
+      "name": "ゼブライカ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "hp": 90,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "サンダーアロー",
+          "damage": 0,
+          "effect": "相手のポケモン1匹に30ダメージ。",
+          "cost": {
+            "雷": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "122",
+      "name": "シビシラス",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 30,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "プチでんき",
+          "damage": 30,
+          "effect": "",
+          "cost": {
+            "雷": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "123",
+      "name": "シビビール",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 80,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "ヘッドボルト",
+          "damage": 40,
+          "effect": "",
+          "cost": {
+            "雷": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "124",
+      "name": "シビルドン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "まひ",
+        " コイン"
+      ],
+      "hp": 140,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "80",
+          "damage": 0,
+          "effect": "",
+          "cost": {
+            "雷": 2,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "125",
+      "name": "エレキテル",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "しっぽではたく",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "雷": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "126",
+      "name": "エレザード",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "コイン"
+      ],
+      "hp": 90,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "でんこうせっか",
+          "damage": 40,
+          "effect": "コインを1回投げオモテなら、40ダメージ追加。",
+          "cost": {
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "127",
+      "name": "バチンウニ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "まひ",
+        " コイン"
+      ],
+      "hp": 70,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "でんきショック",
+          "damage": 30,
+          "effect": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+          "cost": {
+            "雷": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "128",
+      "name": "ピッピ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "超",
+      "weakness": "鋼",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ビンタ",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "超": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "129",
+      "name": "ピクシー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 100,
+      "type": "超",
+      "weakness": "鋼",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "マジカルショット",
+          "damage": 40,
+          "effect": "",
+          "cost": {
+            "超": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "130",
+      "name": "ケーシィ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "ベンチに逃げる"
+      ],
+      "hp": 60,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "テレポート",
+          "damage": 0,
+          "effect": "このポケモンをベンチポケモンと入れ替える。",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "131",
+      "name": "ユンゲラー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 80,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ちょうねんりき",
+          "damage": 60,
+          "effect": "",
+          "cost": {
+            "超": 1,
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "132",
+      "name": "フーディン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "相手エネルギーの数だけダメージアップ"
+      ],
+      "hp": 130,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "サイコキネシス",
+          "damage": 60,
+          "effect": "相手のバトルポケモンのエネルギーの数×30ダメージ追加。",
+          "cost": {
+            "超": 1,
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "133",
+      "name": "ヤドン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 70,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "しっぽではたく",
+          "damage": 30,
+          "effect": "",
+          "cost": {
+            "超": 1,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "134",
+      "name": "ヤドラン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 130,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "ちょうねんりき",
+          "damage": 80,
+          "effect": "",
+          "cost": {
+            "超": 2,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "135",
+      "name": "ゴース",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ガスでつつむ",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "超": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "136",
+      "name": "ゴースト",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 80,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "おにび",
+          "damage": 30,
+          "effect": "",
+          "cost": {
+            "超": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "137",
+      "name": "ゲンガー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "サポート封じ"
+      ],
+      "hp": 130,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "いやがらせ",
+          "damage": 50,
+          "effect": "次の相手の番、相手は手札からサポートを出して使えない。",
+          "cost": {
+            "超": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "138",
+      "name": "ゲンガーEX",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "サポート封じ"
+      ],
+      "hp": 170,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "ホロウショット",
+          "damage": 100,
+          "effect": "",
+          "cost": {
+            "超": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "139",
+      "name": "スリープ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 70,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "つぶやく",
+          "damage": 30,
+          "effect": "",
+          "cost": {
+            "超": 1,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "140",
+      "name": "スリーパー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "ねむり",
+        " コイン"
+      ],
+      "hp": 100,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "サイコパンチ",
+          "damage": 50,
+          "effect": "",
+          "cost": {
+            "超": 2,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "141",
+      "name": "バリヤード",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "ダメージ減少"
+      ],
+      "hp": 80,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "バリアアタック",
+          "damage": 30,
+          "effect": "次の相手の番、このポケモンが受けるワザのダメージを-20する。",
+          "cost": {
+            "超": 1,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "142",
+      "name": "ルージュラ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "相手エネルギーの数だけダメージアップ"
+      ],
+      "hp": 80,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "サイコキネシス",
+          "damage": 30,
+          "effect": "相手のバトルポケモンのエネルギーの数×20ダメージ追加。",
+          "cost": {
+            "超": 1,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "143",
+      "name": "ミュウツー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 120,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "パワーブラスト",
+          "damage": 120,
+          "effect": "このポケモンから超エネルギーを2個トラッシュ。",
+          "cost": {
+            "超": 2,
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "144",
+      "name": "ミュウツーEX",
+      "cardType": "EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 150,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "ねんどうだん",
+          "damage": 50,
+          "effect": "",
+          "cost": {
+            "超": 1,
+            "無色": 1
+          }
+        },
+        {
+          "name": "サイコドライブ",
+          "damage": 150,
+          "effect": "このポケモンから超エネルギーを2個トラッシュ。",
+          "cost": {
+            "超": 2,
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "145",
+      "name": "ラルトス",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ぶつかる",
+          "damage": 10,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "146",
+      "name": "キルリア",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 80,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ひらてうち",
+          "damage": 30,
+          "effect": "",
+          "cost": {
+            "超": 1,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "147",
+      "name": "サーナイト",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "エネルギー加速"
+      ],
+      "hp": 110,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "サイコショット",
+          "damage": 60,
+          "effect": "",
+          "cost": {
+            "超": 2,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "148",
+      "name": "コロモリ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "かじる",
+          "damage": 10,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "149",
+      "name": "ココロモリ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 90,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ハートスタンプ",
+          "damage": 60,
+          "effect": "",
+          "cost": {
+            "超": 1,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "150",
+      "name": "ゴビット",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 90,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "メガトンパンチ",
+          "damage": 50,
+          "effect": "",
+          "cost": {
+            "超": 1,
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "151",
+      "name": "ゴルーグ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "コイン"
+      ],
+      "hp": 140,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 4,
+      "moves": [
+        {
+          "name": "ダブルラリアット",
+          "damage": 0,
+          "effect": "コインを2回投げ、オモテの数×100ダメージ",
+          "cost": {
+            "超": 2,
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "152",
+      "name": "サンド",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 70,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ひっかく",
+          "damage": 10,
+          "effect": "",
+          "cost": {
+            "闘": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "153",
+      "name": "サンドパン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 100,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "きりさく",
+          "damage": 70,
+          "effect": "",
+          "cost": {
+            "闘": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "154",
+      "name": "ディグダ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 50,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "どろかけ",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "闘": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "155",
+      "name": "ダグトリオ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "コイン",
+        " ダメージ減少",
+        " ダメージ無効化"
+      ],
+      "hp": 70,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "あなをほる",
+          "damage": 40,
+          "effect": "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+          "cost": {
+            "闘": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "156",
+      "name": "マンキー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "けたぐり",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "闘": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "157",
+      "name": "オコリザル",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "リベンジ"
+      ],
+      "hp": 90,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "やりかえす",
+          "damage": 40,
+          "effect": "このポケモンがダメージを受けているなら、60ダメージ追加。",
+          "cost": {
+            "闘": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "158",
+      "name": "ワンリキー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 70,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "げんこつ",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "闘": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "159",
+      "name": "ゴーリキー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 100,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "かいりき",
+          "damage": 50,
+          "effect": "",
+          "cost": {
+            "闘": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "160",
+      "name": "カイリキー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 150,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "ちきゅうなげ",
+          "damage": 100,
+          "effect": "",
+          "cost": {
+            "闘": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "161",
+      "name": "カイリキーEX",
+      "cardType": "EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 180,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "メガトンパンチ",
+          "damage": 120,
+          "effect": "",
+          "cost": {
+            "闘": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "162",
+      "name": "イシツブテ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 70,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "たいあたり",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "闘": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "163",
+      "name": "ゴローン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 100,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "ころがる",
+          "damage": 70,
+          "effect": "",
+          "cost": {
+            "闘": 1,
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "164",
+      "name": "ゴローニャ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 160,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 4,
+      "moves": [
+        {
+          "name": "すてみタックル",
+          "damage": 150,
+          "effect": "このポケモンにも50ダメージ。",
+          "cost": {
+            "闘": 1,
+            "無色": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "165",
+      "name": "イワーク",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 110,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 4,
+      "moves": [
+        {
+          "name": "ランドクラッシュ",
+          "damage": 70,
+          "effect": "",
+          "cost": {
+            "闘": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "166",
+      "name": "カラカラ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "ダメージ減少"
+      ],
+      "hp": 60,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "なきごえ",
+          "damage": 0,
+          "effect": "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-20する。",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "167",
+      "name": "ガラガラ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 100,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ホネなぐり",
+          "damage": 40,
+          "effect": "",
+          "cost": {
+            "闘": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "168",
+      "name": "ガラガラEX",
+      "cardType": "EX",
+      "imageKey": "",
+      "tags": [
+        "コイン"
+      ],
+      "hp": 140,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "骨ブーメラン",
+          "damage": 0,
+          "effect": "コインを2回投げ、オモテの数×80ダメージ。",
+          "cost": {
+            "闘": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "169",
+      "name": "サワムラー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "hp": 80,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "のびるキック",
+          "damage": 0,
+          "effect": "相手のベンチのポケモン1匹に30ダメージ。",
+          "cost": {
+            "闘": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "170",
+      "name": "エビワラー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 80,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ジャブ",
+          "damage": 30,
+          "effect": "",
+          "cost": {
+            "闘": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "171",
+      "name": "サイホーン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 80,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "たいあたり",
+          "damage": 60,
+          "effect": "",
+          "cost": {
+            "闘": 2,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "172",
+      "name": "サイドン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 120,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 4,
+      "moves": [
+        {
+          "name": "つのドリル",
+          "damage": 100,
+          "effect": "",
+          "cost": {
+            "闘": 3,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "173",
+      "name": "カブト",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 90,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "こうらアタック",
+          "damage": 40,
+          "effect": "",
+          "cost": {
+            "闘": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "174",
+      "name": "カブトプス",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "回復"
+      ],
+      "hp": 140,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "きゅうけつ",
+          "damage": 50,
+          "effect": "相手のバトルポケモンに与えたダメージぶん、このポケモン、HPを回復。",
+          "cost": {
+            "闘": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "175",
+      "name": "コジョフー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "はたく",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "176",
+      "name": "コジョンド",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 80,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "かいてんげり",
+          "damage": 40,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "177",
+      "name": "タタッコ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 80,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "げんこつ",
+          "damage": 30,
+          "effect": "",
+          "cost": {
+            "闘": 1,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "178",
+      "name": "オストパス",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "敵ポケ入れ替え"
+      ],
+      "hp": 130,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "なぐりとばす",
+          "damage": 70,
+          "effect": "相手のバトルポケモンをベンチポケモンと入れ替える。(バトル場に出すポケモンは相手が選ぶ。)",
+          "cost": {
+            "闘": 2,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "179",
+      "name": "アーボ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "かみつく",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "悪": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "180",
+      "name": "アーボック",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "かげふみ"
+      ],
+      "hp": 100,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "おいつめる",
+          "damage": 60,
+          "effect": "次の相手の番、このワザを受けたポケモンはにげることができない。",
+          "cost": {
+            "悪": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "181",
+      "name": "ニドラン♀",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "サーチ"
+      ],
+      "hp": 60,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "なかまをよぶ",
+          "damage": 0,
+          "effect": "自分の山札から「ニドラン♂」をランダムに1枚、ベンチに出す。",
+          "cost": {}
+        }
+      ]
+    },
+    {
+      "id": "182",
+      "name": "ニドリーナ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 80,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "かみつく",
+          "damage": 30,
+          "effect": "",
+          "cost": {
+            "悪": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "183",
+      "name": "ニドクイン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 140,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "ラブラブアタック",
+          "damage": 80,
+          "effect": "自分のベンチの「ニドキング」の数×50ダメージを追加。",
+          "cost": {
+            "悪": 2,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "184",
+      "name": "ニドラン♂",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "つつく",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "悪": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "185",
+      "name": "ニドリーノ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 90,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "つのでつく",
+          "damage": 40,
+          "effect": "",
+          "cost": {
+            "悪": 1,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "186",
+      "name": "ニドキング",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "どく"
+      ],
+      "hp": 150,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "どくのつの",
+          "damage": 90,
+          "effect": "相手のバトルポケモンをどくにする。",
+          "cost": {
+            "悪": 2,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "187",
+      "name": "ズバット",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 50,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "かっくう",
+          "damage": 10,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "188",
+      "name": "ゴルバット",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 70,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "つばさでうつ",
+          "damage": 40,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "189",
+      "name": "ベトベター",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "どく"
+      ],
+      "hp": 70,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "どくガス",
+          "damage": 10,
+          "effect": "相手のバトルポケモンをどくにする。",
+          "cost": {
+            "悪": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "190",
+      "name": "ベトベトン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "相手がどくならダメージアップ"
+      ],
+      "hp": 130,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "ベノムショック",
+          "damage": 70,
+          "effect": "相手のバトルポケモンがどくなら、50ダメージ追加。",
+          "cost": {
+            "悪": 2,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "191",
+      "name": "ドガース",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 70,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ガスでつつむ",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "悪": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "192",
+      "name": "マタドガス",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "どく"
+      ],
+      "hp": 110,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "たいあたり",
+          "damage": 30,
+          "effect": "",
+          "cost": {
+            "悪": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "193",
+      "name": "クチート",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "コイン",
+        " 敵エネルギートラッシュ"
+      ],
+      "hp": 70,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "かみくだく",
+          "damage": 20,
+          "effect": "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+          "cost": {
+            "鋼": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "194",
+      "name": "コマタナ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 50,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "つきさす",
+          "damage": 30,
+          "effect": "",
+          "cost": {
+            "鋼": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "195",
+      "name": "キリキザン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 90,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "メタルクロー",
+          "damage": 70,
+          "effect": "",
+          "cost": {
+            "鋼": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "196",
+      "name": "メルタン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "エネルギー加速"
+      ],
+      "hp": 60,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ためる",
+          "damage": 0,
+          "effect": "自分のエネルギーゾーンから鋼エネルギーを1個出し、このポケモンにつける。",
+          "cost": {
+            "鋼": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "197",
+      "name": "メルメタル",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "ダメージ減少"
+      ],
+      "hp": 130,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "ヘビーインパクト",
+          "damage": 120,
+          "effect": "",
+          "cost": {
+            "鋼": 3,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "198",
+      "name": "ミニリュウ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 70,
+      "type": "ドラゴン",
+      "weakness": "",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ぶつかる",
+          "damage": 40,
+          "effect": "",
+          "cost": {
+            "水": 1,
+            "雷": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "199",
+      "name": "ハクリュー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 100,
+      "type": "ドラゴン",
+      "weakness": "",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "しっぽでたたく",
+          "damage": 80,
+          "effect": "",
+          "cost": {
+            "水": 1,
+            "雷": 1,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "200",
+      "name": "カイリュー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "ランダム攻撃"
+      ],
+      "hp": 160,
+      "type": "ドラゴン",
+      "weakness": "",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "りゅうせいぐん",
+          "damage": 0,
+          "effect": "相手のポケモンがランダムに4回選ばれ、選ばれたポケモン全員に、選ばれた回数×50ダメージ。",
+          "cost": {
+            "水": 1,
+            "雷": 1,
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "201",
+      "name": "ポッポ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "無色",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "かぜおこし",
+          "damage": 10,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "202",
+      "name": "ピジョン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 80,
+      "type": "無色",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "かぜおこし",
+          "damage": 30,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "203",
+      "name": "ピジョット",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "敵ポケ入れ替え"
+      ],
+      "hp": 130,
+      "type": "無色",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "つばさでうつ",
+          "damage": 70,
+          "effect": "",
+          "cost": {
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "204",
+      "name": "コラッタ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 40,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "かじる",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "205",
+      "name": "コラッタ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 80,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "かみつく",
+          "damage": 40,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "206",
+      "name": "オニスズメ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "無色",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "つつく",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "207",
+      "name": "オニドリル",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "敵エネルギートラッシュ"
+      ],
+      "hp": 100,
+      "type": "無色",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ドリルライナー",
+          "damage": 50,
+          "effect": "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+          "cost": {
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "208",
+      "name": "プリン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "はたく",
+          "damage": 30,
+          "effect": "",
+          "cost": {
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "209",
+      "name": "プクリン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 100,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "ハイパーボイス",
+          "damage": 60,
+          "effect": "",
+          "cost": {
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "210",
+      "name": "プクリンEX",
+      "cardType": "EX",
+      "imageKey": "",
+      "tags": [
+        "ねむり"
+      ],
+      "hp": 140,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "スリーピーソング",
+          "damage": 80,
+          "effect": "相手のバトルポケモンをねむりにする。",
+          "cost": {
+            "無色": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "211",
+      "name": "ニャース",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "ドロー"
+      ],
+      "hp": 60,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ネコにこばん",
+          "damage": 10,
+          "effect": "自分の山札を1枚引く。",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "212",
+      "name": "ペルシアン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "コイン",
+        " 相手手札干渉"
+      ],
+      "hp": 90,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "シャドークロー",
+          "damage": 40,
+          "effect": "コインを1回投げオモテなら、相手の手札からランダムに1枚トラッシュ。",
+          "cost": {
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "213",
+      "name": "カモネギ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "無色",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ネギでたたく",
+          "damage": 40,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "214",
+      "name": "ドードー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "無色",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "つつく",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "215",
+      "name": "ドードリオ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 80,
+      "type": "無色",
+      "weakness": "雷",
+      "retreatCost": 0,
+      "moves": [
+        {
+          "name": "ドリルくちばし",
+          "damage": 40,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "216",
+      "name": "ベロリンガ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "コイン"
+      ],
+      "hp": 90,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "れんぞくベロベロ",
+          "damage": 0,
+          "effect": "ウラが出るまでコインを投げ、オモテの数×60ダメージ。",
+          "cost": {
+            "無色": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "217",
+      "name": "ラッキー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 120,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "ひっぱたく",
+          "damage": 60,
+          "effect": "",
+          "cost": {
+            "無色": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "218",
+      "name": "ガルーラ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "コイン"
+      ],
+      "hp": 100,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "ピヨピヨパンチ",
+          "damage": 0,
+          "effect": "コインを2回投げ、オモテの数×30ダメージ。",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "219",
+      "name": "ケンタロス",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 100,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "つのでつく",
+          "damage": 50,
+          "effect": "",
+          "cost": {
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "220",
+      "name": "メタモン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "技コピー"
+      ],
+      "hp": 70,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "どこでもコピー",
+          "damage": 0,
+          "effect": "相手の場のポケモンが持っているワザを1つ選び、このワザとして使う。選んだワザに必要なエネルギーがこのポケモンについていなければ、このワザは失敗。",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "221",
+      "name": "イーブイ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "たいあたり",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "222",
+      "name": "ポリゴン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "山札チェック"
+      ],
+      "hp": 50,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "かくばる",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "223",
+      "name": "プテラ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [
+        "敵のバトルポケモン除去"
+      ],
+      "hp": 100,
+      "type": "無色",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "げんしのはばたき",
+          "damage": 0,
+          "effect": "コインを1回投げオモテなら、相手のバトルポケモンを山札にもどす。",
+          "cost": {
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "224",
+      "name": "カビゴン",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 150,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 4,
+      "moves": [
+        {
+          "name": "ころがる",
+          "damage": 70,
+          "effect": "",
+          "cost": {
+            "無色": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": "225",
+      "name": "チラーミィ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 60,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "しっぽでたたく",
+          "damage": 20,
+          "effect": "",
+          "cost": {
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "226",
+      "name": "チラチーノ",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 90,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "ともだちのわ",
+          "damage": 0,
+          "effect": "自分のベンチポケモンの数×30ダメージ。",
+          "cost": {
+            "無色": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "227",
+      "name": "ウールー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 70,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "たいあたり",
+          "damage": 30,
+          "effect": "",
+          "cost": {
+            "無色": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "228",
+      "name": "パイウールー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 120,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "moves": [
+        {
+          "name": "ころがりタックル",
+          "damage": 80,
+          "effect": "",
+          "cost": {
+            "無色": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "229",
+      "name": "かいの化石",
+      "cardType": "グッズ(化石)",
+      "imageKey": "",
+      "tags": [],
+      "hp": 40,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "moves": []
+    },
+    {
+      "id": "230",
+      "name": "こうらの化石",
+      "cardType": "グッズ(化石)",
+      "imageKey": "",
+      "tags": [],
+      "hp": 40,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "moves": []
+    },
+    {
+      "id": "231",
+      "name": "ひみつのコハク",
+      "cardType": "グッズ(化石)",
+      "imageKey": "",
+      "tags": [],
+      "hp": 40,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "moves": []
+    },
+    {
+      "id": "232",
+      "name": "エリカ",
+      "cardType": "サポート",
+      "imageKey": "",
+      "tags": [
+        "回復"
+      ],
+      "hp": 0,
+      "type": "草",
+      "weakness": "",
+      "retreatCost": 0,
+      "moves": []
+    },
+    {
+      "id": "233",
+      "name": "カスミ",
+      "cardType": "サポート",
+      "imageKey": "",
+      "tags": [
+        "エネルギー加速"
+      ],
+      "hp": 0,
+      "type": "水",
+      "weakness": "",
+      "retreatCost": 0,
+      "moves": []
+    },
+    {
+      "id": "234",
+      "name": "カツラ",
+      "cardType": "サポート",
+      "imageKey": "",
+      "tags": [
+        "ダメージアップ"
+      ],
+      "hp": 0,
+      "type": "炎",
+      "weakness": "",
+      "retreatCost": 0,
+      "moves": []
+    },
+    {
+      "id": "235",
+      "name": "キョウ",
+      "cardType": "サポート",
+      "imageKey": "",
+      "tags": [
+        "味方を手札に戻す"
+      ],
+      "hp": 0,
+      "type": "悪",
+      "weakness": "",
+      "retreatCost": 0,
+      "moves": []
+    },
+    {
+      "id": "236",
+      "name": "サカキ",
+      "cardType": "サポート",
+      "imageKey": "",
+      "tags": [
+        "ダメージアップ"
+      ],
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "moves": []
+    },
+    {
+      "id": "237",
+      "name": "タケシ",
+      "cardType": "サポート",
+      "imageKey": "",
+      "tags": [
+        "エネルギー加速"
+      ],
+      "hp": 0,
+      "type": "闘",
+      "weakness": "",
+      "retreatCost": 0,
+      "moves": []
+    },
+    {
+      "id": "238",
+      "name": "ナツメ",
+      "cardType": "サポート",
+      "imageKey": "",
+      "tags": [
+        "敵ポケ入れ替え"
+      ],
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "moves": []
+    },
+    {
+      "id": "239",
+      "name": "マチス",
+      "cardType": "サポート",
+      "imageKey": "",
+      "tags": [
+        "エネルギー付け替え"
+      ],
+      "hp": 0,
+      "type": "雷",
+      "weakness": "",
+      "retreatCost": 0,
+      "moves": []
+    },
+    {
+      "id": "240",
+      "name": "きずぐすり",
+      "cardType": "グッズ",
+      "imageKey": "",
+      "tags": [
+        "回復"
+      ],
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "moves": []
+    },
+    {
+      "id": "241",
+      "name": "スピーダー",
+      "cardType": "グッズ",
+      "imageKey": "",
+      "tags": [
+        "逃げエネ減少"
+      ],
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "moves": []
+    },
+    {
+      "id": "242",
+      "name": "ハンドスコープ",
+      "cardType": "グッズ",
+      "imageKey": "",
+      "tags": [
+        "相手手札干渉"
+      ],
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "moves": []
+    },
+    {
+      "id": "243",
+      "name": "ポケモン図鑑",
+      "cardType": "グッズ",
+      "imageKey": "",
+      "tags": [
+        "山札チェック"
+      ],
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "moves": []
+    },
+    {
+      "id": "244",
+      "name": "モンスターボール",
+      "cardType": "グッズ",
+      "imageKey": "",
+      "tags": [
+        "サーチ"
+      ],
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "moves": []
+    },
+    {
+      "id": "245",
+      "name": "レッドカード",
+      "cardType": "グッズ",
+      "imageKey": "",
+      "tags": [
+        "相手手札干渉"
+      ],
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "moves": []
+    },
+    {
+      "id": "246",
+      "name": "博士の研究",
+      "cardType": "サポート",
+      "imageKey": "",
+      "tags": [
+        "ドロー"
+      ],
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "moves": []
+    },
+    {
+      "id": "247",
+      "name": "ラプラスEX",
+      "cardType": "EX",
+      "imageKey": "",
+      "tags": [
+        "回復"
+      ],
+      "hp": 140,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 3,
+      "moves": [
+        {
+          "name": "バブルドレイン",
+          "damage": 80,
+          "effect": "このポケモンのHPを20回復。",
+          "cost": {
+            "水": 2,
+            "無色": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "248",
+      "name": "マンキー",
+      "cardType": "非EX",
+      "imageKey": "",
+      "tags": [],
+      "hp": 50,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 1,
+      "moves": [
+        {
+          "name": "とつげき",
+          "damage": 30,
+          "effect": "このポケモンにも10ダメージ。",
+          "cost": {
+            "闘": 1
+          }
+        }
+      ]
+    }
+  ]
+}
