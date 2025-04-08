@@ -10,10 +10,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "つるのムチ",
@@ -39,10 +37,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "はっぱカッター",
@@ -68,10 +64,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "メガドレイン",
@@ -99,10 +93,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "はっぱカッター",
@@ -139,10 +131,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ともだちをさがす",
@@ -169,10 +159,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "むしくい",
@@ -197,10 +185,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "パウダーヒール",
-        "abilityEffect": "自分の番に1回使える。自分のポケモン全員のHPを20回復。"
-      },
+      "abilityName": "パウダーヒール",
+      "abilityEffect": "自分の番に1回使える。自分のポケモン全員のHPを20回復。",
       "moves": [
         {
           "name": "かぜおこし",
@@ -228,10 +214,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "チクチクさす",
@@ -256,10 +240,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "むしくい",
@@ -284,10 +266,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "するどいはり",
@@ -312,10 +292,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ぶつかる",
@@ -340,10 +318,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "よだれ",
@@ -369,10 +345,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "アロマスリープ",
@@ -400,10 +374,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ひっかく",
@@ -429,10 +401,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "きりさく",
@@ -458,10 +428,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "たいあたり",
@@ -486,10 +454,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "どくのこな",
@@ -516,10 +482,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "つるのムチ",
@@ -544,10 +508,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "はっぱカッター",
@@ -573,10 +535,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "かおりのわな",
-        "abilityEffect": "このポケモンがバトル場にいるなら、自分の番に一回使える。相手のベンチのたねポケモンを1匹選び、バトルポケモンと入れ替える。"
-      },
+      "abilityName": "かおりのわな",
+      "abilityEffect": "このポケモンがバトル場にいるなら、自分の番に一回使える。相手のベンチのたねポケモンを1匹選び、バトルポケモンと入れ替える。",
       "moves": [
         {
           "name": "つるのムチ",
@@ -604,10 +564,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "タネばくだん",
@@ -632,10 +590,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ふみつけ",
@@ -662,10 +618,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "トロピカルスイング",
@@ -692,10 +646,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "すいとる",
@@ -723,10 +675,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "するどいカマ",
@@ -751,10 +701,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ダブルホーン",
@@ -781,10 +729,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "くっつく",
@@ -809,10 +755,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ころがりタックル",
@@ -837,10 +781,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ちょっとすいとる",
@@ -867,10 +809,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "リーフサプライ",
@@ -897,10 +837,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ふいをつく",
@@ -927,10 +865,8 @@
       "type": "草",
       "weakness": "炎",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "はっぱカッター",
@@ -956,10 +892,8 @@
       "type": "炎",
       "weakness": "水",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ひのこ",
@@ -984,10 +918,8 @@
       "type": "炎",
       "weakness": "水",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ほのおのツメ",
@@ -1013,10 +945,8 @@
       "type": "炎",
       "weakness": "水",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ほのおのうず",
@@ -1042,10 +972,8 @@
       "type": "炎",
       "weakness": "水",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "きりさく",
@@ -1080,10 +1008,8 @@
       "type": "炎",
       "weakness": "水",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "しっぽをふる",
@@ -1110,10 +1036,8 @@
       "type": "炎",
       "weakness": "水",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "かえんほうしゃ",
@@ -1138,10 +1062,8 @@
       "type": "炎",
       "weakness": "水",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "かみつく",
@@ -1166,10 +1088,8 @@
       "type": "炎",
       "weakness": "水",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ヒートタックル",
@@ -1195,10 +1115,8 @@
       "type": "炎",
       "weakness": "水",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "もうかのとっしん",
@@ -1224,10 +1142,8 @@
       "type": "炎",
       "weakness": "水",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ほのお",
@@ -1252,10 +1168,8 @@
       "type": "炎",
       "weakness": "水",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ほのおのたてがみ",
@@ -1280,10 +1194,8 @@
       "type": "炎",
       "weakness": "水",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "マグマパンチ",
@@ -1308,10 +1220,8 @@
       "type": "炎",
       "weakness": "水",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "かえんほうしゃ",
@@ -1337,10 +1247,8 @@
       "type": "炎",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ゴッドバード",
@@ -1368,10 +1276,8 @@
       "type": "炎",
       "weakness": "雷",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "れっかのまい",
@@ -1408,10 +1314,8 @@
       "type": "炎",
       "weakness": "水",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "かえん",
@@ -1436,10 +1340,8 @@
       "type": "炎",
       "weakness": "水",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ひっかく",
@@ -1464,10 +1366,8 @@
       "type": "炎",
       "weakness": "水",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ほのおのツメ",
@@ -1493,10 +1393,8 @@
       "type": "炎",
       "weakness": "水",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "かじる",
@@ -1521,10 +1419,8 @@
       "type": "炎",
       "weakness": "水",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "だいもんじ",
@@ -1550,10 +1446,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "みずでっぽう",
@@ -1578,10 +1472,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "スプラッシュ",
@@ -1607,10 +1499,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ハイドロポンプ",
@@ -1638,10 +1528,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "なみのり",
@@ -1678,10 +1566,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ずつう",
@@ -1708,10 +1594,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "アクアエッジ",
@@ -1736,10 +1620,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ひれカッター",
@@ -1764,10 +1646,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "げんこつ",
@@ -1792,10 +1672,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "はんげき",
-        "abilityEffect": "このポケモンが、バトル場で相手のポケモンからのワザのダメージを受けた時、ワザを使ったポケモンに20ダメージ。"
-      },
+      "abilityName": "はんげき",
+      "abilityEffect": "このポケモンが、バトル場で相手のポケモンからのワザのダメージを受けた時、ワザを使ったポケモンに20ダメージ。",
       "moves": [
         {
           "name": "メガトンパンチ",
@@ -1823,10 +1701,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ひっぱたく",
@@ -1851,10 +1727,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "どくのしょくしゅ",
@@ -1882,10 +1756,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ずつき",
@@ -1910,10 +1782,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "なみのり",
@@ -1938,10 +1808,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ベロではたく",
@@ -1966,10 +1834,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "シェルアーマー",
-        "abilityEffect": "このポケモンが受けるワザのダメージを-10する。"
-      },
+      "abilityName": "シェルアーマー",
+      "abilityEffect": "このポケモンが受けるワザのダメージを-10する。",
       "moves": [
         {
           "name": "なみのり",
@@ -1997,10 +1863,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "はさむ",
@@ -2026,10 +1890,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ひっさつクラブ",
@@ -2057,10 +1919,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 0,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "みずでっぽう",
@@ -2085,10 +1945,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ウォーターアロー",
@@ -2115,10 +1973,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "はねまわる",
@@ -2143,10 +1999,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "つのでつつく",
@@ -2173,10 +2027,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ひらてうち",
@@ -2201,10 +2053,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 0,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "スプラッシュ",
@@ -2229,10 +2079,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 0,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ハイドロスプラッシュ",
@@ -2257,10 +2105,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "はねる",
@@ -2285,10 +2131,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 4,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "はかいこうせん",
@@ -2315,10 +2159,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ハイドロポンプ",
@@ -2345,10 +2187,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "バブルドレイン",
@@ -2376,10 +2216,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "みずでっぽう",
@@ -2404,10 +2242,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "こだいのうずしお",
@@ -2435,10 +2271,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "れいとうビーム",
@@ -2467,10 +2301,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "アイスウィング",
@@ -2506,10 +2338,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "はばたく",
@@ -2534,10 +2364,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "つばさでうつ",
@@ -2562,10 +2390,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "はねまわる",
@@ -2590,10 +2416,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "みずきり",
@@ -2618,10 +2442,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "みずしゅりけん",
-        "abilityEffect": "自分の番に1回使える。相手のポケモン1匹に20ダメージ。"
-      },
+      "abilityName": "みずしゅりけん",
+      "abilityEffect": "自分の番に1回使える。相手のポケモン1匹に20ダメージ。",
       "moves": [
         {
           "name": "かすみぎり",
@@ -2649,10 +2471,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "みずかけ",
@@ -2677,10 +2497,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "きずをえぐる",
@@ -2708,10 +2526,8 @@
       "type": "水",
       "weakness": "鋼",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ぶつかる",
@@ -2736,10 +2552,8 @@
       "type": "水",
       "weakness": "鋼",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "こなゆき",
@@ -2767,10 +2581,8 @@
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "かじる",
@@ -2795,10 +2607,8 @@
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "10まんボルト",
@@ -2823,10 +2633,8 @@
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "エレキサークル",
@@ -2851,10 +2659,8 @@
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ビッカリだま",
@@ -2879,10 +2685,8 @@
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "ボルトチャージ",
-        "abilityEffect": "自分の番に1回使える。自分のエネルギーゾーンから雷エネルギーを1個取り出し、このポケモンにつける。"
-      },
+      "abilityName": "ボルトチャージ",
+      "abilityEffect": "自分の番に1回使える。自分のエネルギーゾーンから雷エネルギーを1個取り出し、このポケモンにつける。",
       "moves": [
         {
           "name": "かいてんアタック",
@@ -2910,10 +2714,8 @@
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "たいあたり",
@@ -2938,10 +2740,8 @@
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 0,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "エレキボール",
@@ -2966,10 +2766,8 @@
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "かみなりパンチ",
@@ -2996,10 +2794,8 @@
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ミサイルばり",
@@ -3027,10 +2823,8 @@
       "type": "雷",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "らくらい",
@@ -3056,10 +2850,8 @@
       "type": "雷",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "つつく",
@@ -3094,10 +2886,8 @@
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "エレキック",
@@ -3122,10 +2912,8 @@
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "サンダーアロー",
@@ -3152,10 +2940,8 @@
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "プチでんき",
@@ -3180,10 +2966,8 @@
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ヘッドボルト",
@@ -3208,10 +2992,8 @@
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "80",
@@ -3240,10 +3022,8 @@
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "しっぽではたく",
@@ -3268,10 +3048,8 @@
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "でんこうせっか",
@@ -3298,10 +3076,8 @@
       "type": "雷",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "でんきショック",
@@ -3329,10 +3105,8 @@
       "type": "超",
       "weakness": "鋼",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ビンタ",
@@ -3357,10 +3131,8 @@
       "type": "超",
       "weakness": "鋼",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "マジカルショット",
@@ -3385,10 +3157,8 @@
       "type": "超",
       "weakness": "悪",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "テレポート",
@@ -3415,10 +3185,8 @@
       "type": "超",
       "weakness": "悪",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ちょうねんりき",
@@ -3444,10 +3212,8 @@
       "type": "超",
       "weakness": "悪",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "サイコキネシス",
@@ -3475,10 +3241,8 @@
       "type": "超",
       "weakness": "悪",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "しっぽではたく",
@@ -3504,10 +3268,8 @@
       "type": "超",
       "weakness": "悪",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ちょうねんりき",
@@ -3533,10 +3295,8 @@
       "type": "超",
       "weakness": "悪",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ガスでつつむ",
@@ -3561,10 +3321,8 @@
       "type": "超",
       "weakness": "悪",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "おにび",
@@ -3589,10 +3347,8 @@
       "type": "超",
       "weakness": "悪",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "いやがらせ",
@@ -3619,10 +3375,8 @@
       "type": "超",
       "weakness": "悪",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "かげのじゅばく",
-        "abilityEffect": "このポケモンがバトル場にいるかぎり、相手は手札からサポートを出して使えない。"
-      },
+      "abilityName": "かげのじゅばく",
+      "abilityEffect": "このポケモンがバトル場にいるかぎり、相手は手札からサポートを出して使えない。",
       "moves": [
         {
           "name": "ホロウショット",
@@ -3649,10 +3403,8 @@
       "type": "超",
       "weakness": "悪",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "つぶやく",
@@ -3678,10 +3430,8 @@
       "type": "超",
       "weakness": "悪",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "ねむりのふりこ",
-        "abilityEffect": "自分の番に1個使える。コインを1回投げオモテなら、相手のバトルポケモンをねむりにする。"
-      },
+      "abilityName": "ねむりのふりこ",
+      "abilityEffect": "自分の番に1個使える。コインを1回投げオモテなら、相手のバトルポケモンをねむりにする。",
       "moves": [
         {
           "name": "サイコパンチ",
@@ -3710,10 +3460,8 @@
       "type": "超",
       "weakness": "悪",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "バリアアタック",
@@ -3741,10 +3489,8 @@
       "type": "超",
       "weakness": "悪",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "サイコキネシス",
@@ -3772,10 +3518,8 @@
       "type": "超",
       "weakness": "悪",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "パワーブラスト",
@@ -3801,10 +3545,8 @@
       "type": "超",
       "weakness": "悪",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ねんどうだん",
@@ -3839,10 +3581,8 @@
       "type": "超",
       "weakness": "悪",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ぶつかる",
@@ -3867,10 +3607,8 @@
       "type": "超",
       "weakness": "悪",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ひらてうち",
@@ -3896,10 +3634,8 @@
       "type": "超",
       "weakness": "悪",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "トランスシェイド",
-        "abilityEffect": "自分の場に1回使える。自分のエネルギーゾーンから超エネルギーを1個出し、バトル場の超ポケモンにつける。"
-      },
+      "abilityName": "トランスシェイド",
+      "abilityEffect": "自分の場に1回使える。自分のエネルギーゾーンから超エネルギーを1個出し、バトル場の超ポケモンにつける。",
       "moves": [
         {
           "name": "サイコショット",
@@ -3927,10 +3663,8 @@
       "type": "超",
       "weakness": "悪",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "かじる",
@@ -3955,10 +3689,8 @@
       "type": "超",
       "weakness": "悪",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ハートスタンプ",
@@ -3984,10 +3716,8 @@
       "type": "超",
       "weakness": "悪",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "メガトンパンチ",
@@ -4013,10 +3743,8 @@
       "type": "超",
       "weakness": "悪",
       "retreatCost": 4,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ダブルラリアット",
@@ -4044,10 +3772,8 @@
       "type": "闘",
       "weakness": "草",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ひっかく",
@@ -4072,10 +3798,8 @@
       "type": "闘",
       "weakness": "草",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "きりさく",
@@ -4100,10 +3824,8 @@
       "type": "闘",
       "weakness": "草",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "どろかけ",
@@ -4128,10 +3850,8 @@
       "type": "闘",
       "weakness": "草",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "あなをほる",
@@ -4160,10 +3880,8 @@
       "type": "闘",
       "weakness": "超",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "けたぐり",
@@ -4188,10 +3906,8 @@
       "type": "闘",
       "weakness": "超",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "やりかえす",
@@ -4218,10 +3934,8 @@
       "type": "闘",
       "weakness": "超",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "げんこつ",
@@ -4246,10 +3960,8 @@
       "type": "闘",
       "weakness": "超",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "かいりき",
@@ -4274,10 +3986,8 @@
       "type": "闘",
       "weakness": "超",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ちきゅうなげ",
@@ -4302,10 +4012,8 @@
       "type": "闘",
       "weakness": "超",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "メガトンパンチ",
@@ -4330,10 +4038,8 @@
       "type": "闘",
       "weakness": "草",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "たいあたり",
@@ -4358,10 +4064,8 @@
       "type": "闘",
       "weakness": "草",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ころがる",
@@ -4387,10 +4091,8 @@
       "type": "闘",
       "weakness": "草",
       "retreatCost": 4,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "すてみタックル",
@@ -4416,10 +4118,8 @@
       "type": "闘",
       "weakness": "草",
       "retreatCost": 4,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ランドクラッシュ",
@@ -4444,10 +4144,8 @@
       "type": "闘",
       "weakness": "草",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "なきごえ",
@@ -4474,10 +4172,8 @@
       "type": "闘",
       "weakness": "草",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ホネなぐり",
@@ -4502,10 +4198,8 @@
       "type": "闘",
       "weakness": "草",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "骨ブーメラン",
@@ -4532,10 +4226,8 @@
       "type": "闘",
       "weakness": "超",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "のびるキック",
@@ -4562,10 +4254,8 @@
       "type": "闘",
       "weakness": "超",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ジャブ",
@@ -4590,10 +4280,8 @@
       "type": "闘",
       "weakness": "草",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "たいあたり",
@@ -4619,10 +4307,8 @@
       "type": "闘",
       "weakness": "草",
       "retreatCost": 4,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "つのドリル",
@@ -4648,10 +4334,8 @@
       "type": "闘",
       "weakness": "草",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "こうらアタック",
@@ -4676,10 +4360,8 @@
       "type": "闘",
       "weakness": "超",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "きゅうけつ",
@@ -4706,10 +4388,8 @@
       "type": "闘",
       "weakness": "超",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "はたく",
@@ -4734,10 +4414,8 @@
       "type": "闘",
       "weakness": "超",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "かいてんげり",
@@ -4762,10 +4440,8 @@
       "type": "闘",
       "weakness": "超",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "げんこつ",
@@ -4791,10 +4467,8 @@
       "type": "闘",
       "weakness": "超",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "なぐりとばす",
@@ -4822,10 +4496,8 @@
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "かみつく",
@@ -4850,10 +4522,8 @@
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "おいつめる",
@@ -4880,10 +4550,8 @@
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "なかまをよぶ",
@@ -4908,10 +4576,8 @@
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "かみつく",
@@ -4936,10 +4602,8 @@
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ラブラブアタック",
@@ -4965,10 +4629,8 @@
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "つつく",
@@ -4993,10 +4655,8 @@
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "つのでつく",
@@ -5022,10 +4682,8 @@
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "どくのつの",
@@ -5053,10 +4711,8 @@
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "かっくう",
@@ -5081,10 +4737,8 @@
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "つばさでうつ",
@@ -5109,10 +4763,8 @@
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "どくガス",
@@ -5139,10 +4791,8 @@
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ベノムショック",
@@ -5170,10 +4820,8 @@
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ガスでつつむ",
@@ -5198,10 +4846,8 @@
       "type": "悪",
       "weakness": "闘",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "もれだすガス",
-        "abilityEffect": "このポケモンがバトル場にいるなら、自分の場に一回使える。相手のバトルポケモンをどくにする。"
-      },
+      "abilityName": "もれだすガス",
+      "abilityEffect": "このポケモンがバトル場にいるなら、自分の場に一回使える。相手のバトルポケモンをどくにする。",
       "moves": [
         {
           "name": "たいあたり",
@@ -5228,10 +4874,8 @@
       "type": "鋼",
       "weakness": "炎",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "かみくだく",
@@ -5259,10 +4903,8 @@
       "type": "鋼",
       "weakness": "炎",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "つきさす",
@@ -5287,10 +4929,8 @@
       "type": "鋼",
       "weakness": "炎",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "メタルクロー",
@@ -5315,10 +4955,8 @@
       "type": "鋼",
       "weakness": "炎",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ためる",
@@ -5345,10 +4983,8 @@
       "type": "鋼",
       "weakness": "炎",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "ハードコート",
-        "abilityEffect": "このポケモンが受けるワザのダメージを-20する。"
-      },
+      "abilityName": "ハードコート",
+      "abilityEffect": "このポケモンが受けるワザのダメージを-20する。",
       "moves": [
         {
           "name": "ヘビーインパクト",
@@ -5376,10 +5012,8 @@
       "type": "ドラゴン",
       "weakness": "",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ぶつかる",
@@ -5405,10 +5039,8 @@
       "type": "ドラゴン",
       "weakness": "",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "しっぽでたたく",
@@ -5435,10 +5067,8 @@
       "type": "ドラゴン",
       "weakness": "",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "りゅうせいぐん",
@@ -5467,10 +5097,8 @@
       "type": "無色",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "かぜおこし",
@@ -5495,10 +5123,8 @@
       "type": "無色",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "かぜおこし",
@@ -5523,10 +5149,8 @@
       "type": "無色",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "おいはらう",
-        "abilityEffect": "自分の番に一回使える。相手のバトルポケモンをベンチポケモンと入れ替える。(バトル場にだすポケモンは相手が選ぶ。)"
-      },
+      "abilityName": "おいはらう",
+      "abilityEffect": "自分の番に一回使える。相手のバトルポケモンをベンチポケモンと入れ替える。(バトル場にだすポケモンは相手が選ぶ。)",
       "moves": [
         {
           "name": "つばさでうつ",
@@ -5553,10 +5177,8 @@
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "かじる",
@@ -5581,10 +5203,8 @@
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "かみつく",
@@ -5609,10 +5229,8 @@
       "type": "無色",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "つつく",
@@ -5637,10 +5255,8 @@
       "type": "無色",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ドリルライナー",
@@ -5667,10 +5283,8 @@
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "はたく",
@@ -5695,10 +5309,8 @@
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ハイパーボイス",
@@ -5723,10 +5335,8 @@
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "スリーピーソング",
@@ -5753,10 +5363,8 @@
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ネコにこばん",
@@ -5783,10 +5391,8 @@
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "シャドークロー",
@@ -5814,10 +5420,8 @@
       "type": "無色",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ネギでたたく",
@@ -5842,10 +5446,8 @@
       "type": "無色",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "つつく",
@@ -5870,10 +5472,8 @@
       "type": "無色",
       "weakness": "雷",
       "retreatCost": 0,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ドリルくちばし",
@@ -5898,10 +5498,8 @@
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "れんぞくベロベロ",
@@ -5928,10 +5526,8 @@
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ひっぱたく",
@@ -5956,10 +5552,8 @@
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ピヨピヨパンチ",
@@ -5986,10 +5580,8 @@
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "つのでつく",
@@ -6014,10 +5606,8 @@
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "どこでもコピー",
@@ -6044,10 +5634,8 @@
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "たいあたり",
@@ -6072,10 +5660,8 @@
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "データスキャン",
-        "abilityEffect": "自分の番に一回使える。自分の山札から1枚見て、もとにもどす。"
-      },
+      "abilityName": "データスキャン",
+      "abilityEffect": "自分の番に一回使える。自分の山札から1枚見て、もとにもどす。",
       "moves": [
         {
           "name": "かくばる",
@@ -6102,10 +5688,8 @@
       "type": "無色",
       "weakness": "雷",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "げんしのはばたき",
@@ -6132,10 +5716,8 @@
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 4,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ころがる",
@@ -6160,10 +5742,8 @@
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "しっぽでたたく",
@@ -6188,10 +5768,8 @@
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ともだちのわ",
@@ -6216,10 +5794,8 @@
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "たいあたり",
@@ -6244,10 +5820,8 @@
       "type": "無色",
       "weakness": "闘",
       "retreatCost": 2,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "ころがりタックル",
@@ -6272,10 +5846,8 @@
       "type": "",
       "weakness": "",
       "retreatCost": 0,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [],
       "maxDamage": 0,
       "tags": [],
@@ -6291,10 +5863,8 @@
       "type": "",
       "weakness": "",
       "retreatCost": 0,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [],
       "maxDamage": 0,
       "tags": [],
@@ -6310,10 +5880,8 @@
       "type": "",
       "weakness": "",
       "retreatCost": 0,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [],
       "maxDamage": 0,
       "tags": [],
@@ -6329,10 +5897,8 @@
       "type": "草",
       "weakness": "",
       "retreatCost": 0,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [],
       "maxDamage": 0,
       "tags": [
@@ -6350,10 +5916,8 @@
       "type": "水",
       "weakness": "",
       "retreatCost": 0,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [],
       "maxDamage": 0,
       "tags": [
@@ -6371,10 +5935,8 @@
       "type": "炎",
       "weakness": "",
       "retreatCost": 0,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [],
       "maxDamage": 0,
       "tags": [
@@ -6392,10 +5954,8 @@
       "type": "悪",
       "weakness": "",
       "retreatCost": 0,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [],
       "maxDamage": 0,
       "tags": [
@@ -6413,10 +5973,8 @@
       "type": "",
       "weakness": "",
       "retreatCost": 0,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [],
       "maxDamage": 0,
       "tags": [
@@ -6434,10 +5992,8 @@
       "type": "闘",
       "weakness": "",
       "retreatCost": 0,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [],
       "maxDamage": 0,
       "tags": [
@@ -6455,10 +6011,8 @@
       "type": "",
       "weakness": "",
       "retreatCost": 0,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [],
       "maxDamage": 0,
       "tags": [
@@ -6476,10 +6030,8 @@
       "type": "雷",
       "weakness": "",
       "retreatCost": 0,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [],
       "maxDamage": 0,
       "tags": [
@@ -6497,10 +6049,8 @@
       "type": "",
       "weakness": "",
       "retreatCost": 0,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [],
       "maxDamage": 0,
       "tags": [
@@ -6518,10 +6068,8 @@
       "type": "",
       "weakness": "",
       "retreatCost": 0,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [],
       "maxDamage": 0,
       "tags": [
@@ -6539,10 +6087,8 @@
       "type": "",
       "weakness": "",
       "retreatCost": 0,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [],
       "maxDamage": 0,
       "tags": [
@@ -6560,10 +6106,8 @@
       "type": "",
       "weakness": "",
       "retreatCost": 0,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [],
       "maxDamage": 0,
       "tags": [
@@ -6581,10 +6125,8 @@
       "type": "",
       "weakness": "",
       "retreatCost": 0,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [],
       "maxDamage": 0,
       "tags": [
@@ -6602,10 +6144,8 @@
       "type": "",
       "weakness": "",
       "retreatCost": 0,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [],
       "maxDamage": 0,
       "tags": [
@@ -6623,10 +6163,8 @@
       "type": "",
       "weakness": "",
       "retreatCost": 0,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [],
       "maxDamage": 0,
       "tags": [
@@ -6644,10 +6182,8 @@
       "type": "水",
       "weakness": "雷",
       "retreatCost": 3,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "バブルドレイン",
@@ -6675,10 +6211,8 @@
       "type": "闘",
       "weakness": "超",
       "retreatCost": 1,
-      "ability": {
-        "abilityName": "",
-        "abilityEffect": ""
-      },
+      "abilityName": "",
+      "abilityEffect": "",
       "moves": [
         {
           "name": "とつげき",
