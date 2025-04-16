@@ -5848,7 +5848,14 @@
       "retreatCost": 0,
       "abilityName": "",
       "abilityEffect": "",
-      "moves": [],
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "このカードは、HP40の無色のたねポケモンとして、場に出すことができる。自分の番の中でなら、場に出ているこのカードをトラッシュしてよい。このカードはにげるができない。",
+          "cost": {}
+        }
+      ],
       "maxDamage": 0,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/kainokaseki.png"
@@ -5865,7 +5872,14 @@
       "retreatCost": 0,
       "abilityName": "",
       "abilityEffect": "",
-      "moves": [],
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "このカードは、HP40の無色のたねポケモンとして、場に出すことができる。自分の番の中でなら、場に出ているこのカードをトラッシュしてよい。このカードはにげるができない。",
+          "cost": {}
+        }
+      ],
       "maxDamage": 0,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/kouranokaseki.png"
@@ -5882,7 +5896,14 @@
       "retreatCost": 0,
       "abilityName": "",
       "abilityEffect": "",
-      "moves": [],
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "このカードは、HP40の無色のたねポケモンとして、場に出すことができる。自分の番の中でなら、場に出ているこのカードをトラッシュしてよい。このカードはにげるができない。",
+          "cost": {}
+        }
+      ],
       "maxDamage": 0,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/himitunokohaku.png"
@@ -5899,7 +5920,14 @@
       "retreatCost": 0,
       "abilityName": "",
       "abilityEffect": "",
-      "moves": [],
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "自分の草ポケモン1匹のHPを50回復。",
+          "cost": {}
+        }
+      ],
       "maxDamage": 0,
       "tags": [
         "回復"
@@ -5918,7 +5946,14 @@
       "retreatCost": 0,
       "abilityName": "",
       "abilityEffect": "",
-      "moves": [],
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "自分の水ポケモン1匹を選ぶ。ウラが出るまでコインを投げ、オモテの数ぶんの水エネルギーを自分のエネルギーゾーンから出し、そのポケモンにつける。",
+          "cost": {}
+        }
+      ],
       "maxDamage": 0,
       "tags": [
         "エネルギー加速"
@@ -5937,7 +5972,14 @@
       "retreatCost": 0,
       "abilityName": "",
       "abilityEffect": "",
-      "moves": [],
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "この番、自分の「キュウコン」「ギャロップ」「ブーバー」が使うワザの、相手のバトルポケモンへのダメージを+30する。",
+          "cost": {}
+        }
+      ],
       "maxDamage": 0,
       "tags": [
         "ダメージアップ"
@@ -5956,7 +5998,14 @@
       "retreatCost": 0,
       "abilityName": "",
       "abilityEffect": "",
-      "moves": [],
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "自分のバトル場の「ベトベトン」「マタドガス」を手札に戻す。",
+          "cost": {}
+        }
+      ],
       "maxDamage": 0,
       "tags": [
         "味方を手札に戻す"
@@ -5975,7 +6024,14 @@
       "retreatCost": 0,
       "abilityName": "",
       "abilityEffect": "",
-      "moves": [],
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "この番、自分のポケモンが使うワザの、相手のバトルポケモンへのダメージを+30する。",
+          "cost": {}
+        }
+      ],
       "maxDamage": 0,
       "tags": [
         "ダメージアップ"
@@ -5994,7 +6050,14 @@
       "retreatCost": 0,
       "abilityName": "",
       "abilityEffect": "",
-      "moves": [],
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "自分のエネルギーゾーンから闘エネルギーを1個出し、「ゴローニャ」または「イワーク」につける。",
+          "cost": {}
+        }
+      ],
       "maxDamage": 0,
       "tags": [
         "エネルギー加速"
@@ -6013,7 +6076,14 @@
       "retreatCost": 0,
       "abilityName": "",
       "abilityEffect": "",
-      "moves": [],
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "相手のバトルポケモンをベンチポケモンと入れ替える。(バトル場に出すポケモンは相手が選ぶ。)",
+          "cost": {}
+        }
+      ],
       "maxDamage": 0,
       "tags": [
         "敵ポケ入れ替え"
@@ -6032,7 +6102,14 @@
       "retreatCost": 0,
       "abilityName": "",
       "abilityEffect": "",
-      "moves": [],
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "自分のバトル場の「ライチュウ」「マルマイン」「エレブー」に、ベンチのポケモン全員から雷エネルギーをすべて付け替える。",
+          "cost": {}
+        }
+      ],
       "maxDamage": 0,
       "tags": [
         "エネルギー付け替え"
@@ -6051,7 +6128,14 @@
       "retreatCost": 0,
       "abilityName": "",
       "abilityEffect": "",
-      "moves": [],
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "自分のポケモン1匹のHPを20回復。",
+          "cost": {}
+        }
+      ],
       "maxDamage": 0,
       "tags": [
         "回復"
@@ -6070,7 +6154,14 @@
       "retreatCost": 0,
       "abilityName": "",
       "abilityEffect": "",
-      "moves": [],
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "この番、自分のバトルポケモンのにげるためのエネルギーを、1個少なくする。",
+          "cost": {}
+        }
+      ],
       "maxDamage": 0,
       "tags": [
         "逃げエネ減少"
@@ -6089,7 +6180,14 @@
       "retreatCost": 0,
       "abilityName": "",
       "abilityEffect": "",
-      "moves": [],
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "相手の手札のオモテをすべて見る。",
+          "cost": {}
+        }
+      ],
       "maxDamage": 0,
       "tags": [
         "相手手札干渉"
@@ -6108,7 +6206,14 @@
       "retreatCost": 0,
       "abilityName": "",
       "abilityEffect": "",
-      "moves": [],
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "自分の山札を上から3枚見て、もとにもどす。",
+          "cost": {}
+        }
+      ],
       "maxDamage": 0,
       "tags": [
         "山札チェック"
@@ -6127,7 +6232,14 @@
       "retreatCost": 0,
       "abilityName": "",
       "abilityEffect": "",
-      "moves": [],
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "自分の山札からたねポケモンをランダムに1枚、手札に加える。",
+          "cost": {}
+        }
+      ],
       "maxDamage": 0,
       "tags": [
         "サーチ"
@@ -6146,7 +6258,14 @@
       "retreatCost": 0,
       "abilityName": "",
       "abilityEffect": "",
-      "moves": [],
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "相手の手札をすべて山札にもどす。相手は山札を3枚引く。",
+          "cost": {}
+        }
+      ],
       "maxDamage": 0,
       "tags": [
         "相手手札干渉"
@@ -6165,7 +6284,14 @@
       "retreatCost": 0,
       "abilityName": "",
       "abilityEffect": "",
-      "moves": [],
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "自分の山札を2枚引く。",
+          "cost": {}
+        }
+      ],
       "maxDamage": 0,
       "tags": [
         "ドロー"
