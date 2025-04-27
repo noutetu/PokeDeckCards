@@ -8069,23 +8069,6 @@
         "逃げエネ減少"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima67.png"
-    },
-    {
-      "id": "356",
-      "name": NaN,
-      "cardType": "",
-      "evolutionStage": "",
-      "pack": "",
-      "hp": 0,
-      "type": "",
-      "weakness": "",
-      "retreatCost": 0,
-      "abilityName": "",
-      "abilityEffect": "",
-      "moves": [],
-      "maxDamage": 0,
-      "tags": [],
-      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima68.png"
     }
   ]
 }
