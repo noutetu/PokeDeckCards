@@ -8069,6 +8069,3920 @@
         "逃げエネ減少"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima67.png"
+    },
+    {
+      "id": "357",
+      "name": "ナゾノクサ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ちょっとすいとる",
+          "damage": 10,
+          "effect": "このポケモンのHPを10回復",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 10,
+      "tags": [
+        "回復"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou1.png"
+    },
+    {
+      "id": "358",
+      "name": "クサイハナ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 80,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "はっぱカッター",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou2.png"
+    },
+    {
+      "id": "359",
+      "name": "キレイハナ",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "時空の激闘",
+      "hp": 130,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "リーフステップ",
+          "damage": 80,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 80,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou3.png"
+    },
+    {
+      "id": "360",
+      "name": "モンジャラ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 70,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "つるのムチ",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou4.png"
+    },
+    {
+      "id": "361",
+      "name": "モジャンボ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 130,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "メガドレイン",
+          "damage": 90,
+          "effect": "このポケモンのHPを30回復。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 90,
+      "tags": [
+        "回復"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou5.png"
+    },
+    {
+      "id": "362",
+      "name": "ヤンヤンマ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 50,
+      "type": "草",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "はばたく",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou6.png"
+    },
+    {
+      "id": "363",
+      "name": "メガヤンマ",
+      "cardType": "EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 140,
+      "type": "草",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "エアスラッシュ",
+          "damage": 120,
+          "effect": "このポケモンからエネルギーを1個トラッシュ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 120,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou7.jpg"
+    },
+    {
+      "id": "364",
+      "name": "ロゼリア",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 70,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "チクチクさす",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou8.png"
+    },
+    {
+      "id": "365",
+      "name": "ロズレイド",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 100,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "どくのムチ",
+          "damage": 50,
+          "effect": "相手のバトルポケモンをどくにする",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 50,
+      "tags": [
+        "どく"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou9.png"
+    },
+    {
+      "id": "366",
+      "name": "ナエトル",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 80,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "かみつく",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou10.png"
+    },
+    {
+      "id": "367",
+      "name": "ハヤシガメ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 100,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 13,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "はっぱカッター",
+          "damage": 60,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 60,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou11.png"
+    },
+    {
+      "id": "368",
+      "name": "ドダイトス",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "時空の激闘",
+      "hp": 160,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ハードプランと",
+          "damage": 150,
+          "effect": "次の自分の番、このポケモンは「ハードプラント」が使えない。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 150,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou12.png"
+    },
+    {
+      "id": "369",
+      "name": "コロボーシ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "むしくい",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou13.png"
+    },
+    {
+      "id": "370",
+      "name": "コロトック",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 90,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "トランスメロディ",
+          "damage": 50,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 50,
+      "tags": [
+        "こんらん"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou14.png"
+    },
+    {
+      "id": "371",
+      "name": "ミノムッチ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "たいあたり",
+          "damage": 10,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 10,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou15.png"
+    },
+    {
+      "id": "372",
+      "name": "ミノマダム",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 120,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "はっぱぎり",
+          "damage": 60,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 90,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou16.png"
+    },
+    {
+      "id": "373",
+      "name": "ミツハニー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 50,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "なかまをよぶ",
+          "damage": 0,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "サーチ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou17.png"
+    },
+    {
+      "id": "374",
+      "name": "ビークイン",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 100,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "つきさす",
+          "damage": 70,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 70,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou18.png"
+    },
+    {
+      "id": "375",
+      "name": "マスキッパ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 90,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ウィップダウン",
+          "damage": 40,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 90,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou19.png"
+    },
+    {
+      "id": "376",
+      "name": "リーフィア",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 90,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "はっぱサイクロン",
+          "damage": 90,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 90,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou20.png"
+    },
+    {
+      "id": "377",
+      "name": "カットロトム",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 80,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "エナジーカット",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [
+        "コイン",
+        " 敵エネルギートラッシュ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou21.png"
+    },
+    {
+      "id": "378",
+      "name": "シェイミ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "はねまわる",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [
+        "回復"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou22.png"
+    },
+    {
+      "id": "379",
+      "name": "ブーバー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 80,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "もえあがる",
+          "damage": 0,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "エネルギー加速"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou23.png"
+    },
+    {
+      "id": "380",
+      "name": "ブーバーン",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 130,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "バーストインフェルノ",
+          "damage": 100,
+          "effect": "相手のバトルポケモンをやけどにする。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 100,
+      "tags": [
+        "やけど"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou24.png"
+    },
+    {
+      "id": "381",
+      "name": "マグマッグ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 70,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ほのお",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou25.png"
+    },
+    {
+      "id": "382",
+      "name": "マグカルゴ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 120,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "やきこがす",
+          "damage": 30,
+          "effect": "相手のバトルポケモンをやけどにする。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [
+        "やけど"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou26.png"
+    },
+    {
+      "id": "383",
+      "name": "ヒコザル",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ひっかく",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou27.png"
+    },
+    {
+      "id": "384",
+      "name": "モウカザル",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 80,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ほのおパンチ",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou28.png"
+    },
+    {
+      "id": "385",
+      "name": "ゴウカザルEX",
+      "cardType": "EX",
+      "evolutionStage": "2進化",
+      "pack": "時空の激闘",
+      "hp": 170,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "フレアドライブ",
+          "damage": 140,
+          "effect": "このポケモンから炎エネルギーをすべてトラッシュ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 140,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou29.jpg"
+    },
+    {
+      "id": "386",
+      "name": "ヒートロトム",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 80,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ヒートブレス",
+          "damage": 30,
+          "effect": "コインを1回投げオモテなら、30ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou30.png"
+    },
+    {
+      "id": "387",
+      "name": "ウリムー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "水",
+      "weakness": "鋼",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ずつき",
+          "damage": 40,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou31.png"
+    },
+    {
+      "id": "388",
+      "name": "イノムー",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 110,
+      "type": "水",
+      "weakness": "鋼",
+      "retreatCost": 3,
+      "abilityName": "あついしぼう",
+      "abilityEffect": "このポケモンが、炎または水ポケモンから受けるワザのダメージを-20する。",
+      "moves": [
+        {
+          "name": "ぶちかます",
+          "damage": 60,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "ダメージ減少"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou32.png"
+    },
+    {
+      "id": "389",
+      "name": "マンムー",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "時空の激闘",
+      "hp": 160,
+      "type": "水",
+      "weakness": "鋼",
+      "retreatCost": 3,
+      "abilityName": "あついしぼう",
+      "abilityEffect": "このポケモンが、炎または水ポケモンから受けるワザのダメージを-20する。",
+      "moves": [
+        {
+          "name": "フロストダンプ",
+          "damage": 120,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 120,
+      "tags": [
+        "ダメージ減少"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou33.png"
+    },
+    {
+      "id": "390",
+      "name": "レジアイス",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 110,
+      "type": "水",
+      "weakness": "鋼",
+      "retreatCost": 2,
+      "abilityName": "クリスタルボディ",
+      "abilityEffect": "このポケモンは、相手のポケモンが使うワザの効果を受けない。",
+      "moves": [
+        {
+          "name": "フロストスマッシュ",
+          "damage": 50,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 50,
+      "tags": [
+        "ワザ効果無効化"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou34.jpg"
+    },
+    {
+      "id": "391",
+      "name": "ポッチャマ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ひとやすみ",
+          "damage": 0,
+          "effect": "このポケモンのHPを20回復。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "回復"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou35.png"
+    },
+    {
+      "id": "392",
+      "name": "ポッタイシ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 90,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "なみのり",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou36.png"
+    },
+    {
+      "id": "393",
+      "name": "エンペルト",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "時空の激闘",
+      "hp": 150,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "アクアジェット",
+          "damage": 80,
+          "effect": "相手のベンチポケモン1匹にも30ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 110,
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou37.png"
+    },
+    {
+      "id": "394",
+      "name": "ブイゼル",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "みずでっぽう",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou38.png"
+    },
+    {
+      "id": "395",
+      "name": "フローゼル",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 90,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ジェットスクリュー",
+          "damage": 30,
+          "effect": "コインを1回投げオモテなら、30ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "コイン",
+        " ダメージアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou39.png"
+    },
+    {
+      "id": "396",
+      "name": "カラナクシ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 70,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "どろかけ",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou40.png"
+    },
+    {
+      "id": "397",
+      "name": "トリトドン",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 120,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "だくりゅう",
+          "damage": 60,
+          "effect": "相手のベンチポケモン1匹にも20ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou41.png"
+    },
+    {
+      "id": "398",
+      "name": "ケイコウオ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 50,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ゆうがにおよぐ",
+          "damage": 10,
+          "effect": "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 10,
+      "tags": [
+        "ダメージ無効化",
+        " ワザ効果無効化"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou42.png"
+    },
+    {
+      "id": "399",
+      "name": "ネオラント",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 90,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "たきのぼり",
+          "damage": 50,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 50,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou43.jpg"
+    },
+    {
+      "id": "400",
+      "name": "ユキカブリ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 70,
+      "type": "水",
+      "weakness": "鋼",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "こおりのつぶて",
+          "damage": 10,
+          "effect": "相手のバトルポケモンが闘ポケモンなら、30ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 40,
+      "tags": [
+        "ダメージアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou44.png"
+    },
+    {
+      "id": "401",
+      "name": "ユキノオー",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 140,
+      "type": "水",
+      "weakness": "鋼",
+      "retreatCost": 4,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "こおりのいぶき",
+          "damage": 120,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 120,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou45.png"
+    },
+    {
+      "id": "402",
+      "name": "グレイシア",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 90,
+      "type": "水",
+      "weakness": "鋼",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "れいとうビーム",
+          "damage": 60,
+          "effect": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "まひ",
+        " コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou46.png"
+    },
+    {
+      "id": "403",
+      "name": "ウォッシュロトム",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 80,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "スプラッシュ",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou47.png"
+    },
+    {
+      "id": "404",
+      "name": "フロストロトム",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 80,
+      "type": "水",
+      "weakness": "鋼",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ふぶき",
+          "damage": 30,
+          "effect": "相手のベンチポケモン全員にも10ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou48.png"
+    },
+    {
+      "id": "405",
+      "name": "パルキアEX",
+      "cardType": "EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 150,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "きりさく",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        },
+        {
+          "name": "ディメンションストーム",
+          "damage": 150,
+          "effect": "このポケモンから水エネルギーを3個トラッシュし、相手のベンチポケモン全員にも20ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 210,
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou49.jpg"
+    },
+    {
+      "id": "406",
+      "name": "マナフィ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 50,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "うみのおくりもの",
+          "damage": 0,
+          "effect": "自分のベンチポケモンを2匹選び、エネルギーゾーンから水エネルギーを出し、1個ずつつける。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "エネルギー加速"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou50.png"
+    },
+    {
+      "id": "407",
+      "name": "コイル",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ぶつかる",
+          "damage": 10,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 10,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou51.png"
+    },
+    {
+      "id": "408",
+      "name": "レアコイル",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 80,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ビッカリだま",
+          "damage": 50,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 50,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou52.png"
+    },
+    {
+      "id": "409",
+      "name": "ジバコイル",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "時空の激闘",
+      "hp": 140,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "サンダーブラスト",
+          "damage": 110,
+          "effect": "このポケモンから雷エネルギーを1個トラッシュ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 110,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou53.png"
+    },
+    {
+      "id": "410",
+      "name": "ビリリダマ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ばくはつ",
+          "damage": 30,
+          "effect": "このポケモンにも10ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou54.png"
+    },
+    {
+      "id": "411",
+      "name": "マルマイン",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 80,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ボールアタック",
+          "damage": 50,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 50,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou55.png"
+    },
+    {
+      "id": "412",
+      "name": "エレブー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 80,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "じゅうでん",
+          "damage": 0,
+          "effect": "自分のエネルギーゾーンから雷エネルギーを1個出し、このポケモンにつける。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "エネルギー加速"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou56.png"
+    },
+    {
+      "id": "413",
+      "name": "エレキブル",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 120,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "エキサイトボルト",
+          "damage": 40,
+          "effect": "追加で雷エネルギーが2個ついているなら、80ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 120,
+      "tags": [
+        "自身のエネルギーの数に応じてダメージアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou57.png"
+    },
+    {
+      "id": "414",
+      "name": "コリンク",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "かくれる",
+          "damage": 0,
+          "effect": "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "ダメージ無効化",
+        " ワザ効果無効化"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou58.png"
+    },
+    {
+      "id": "415",
+      "name": "ルクシオ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 90,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "でんきのツメ",
+          "damage": 40,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou59.png"
+    },
+    {
+      "id": "416",
+      "name": "レントラー",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "時空の激闘",
+      "hp": 130,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ボルテージアロー",
+          "damage": 0,
+          "effect": "このポケモンから雷エネルギーをすべてトラッシュし、相手のポケモン1匹に120ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 120,
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou60.png"
+    },
+    {
+      "id": "417",
+      "name": "パチリスEX",
+      "cardType": "EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 120,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ガジェットスパーク",
+          "damage": 40,
+          "effect": "このポケモンに「ポケモンのどうぐ」がついているなら、40ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "自分にポケモンの道具がついてるならダメアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou61.png"
+    },
+    {
+      "id": "418",
+      "name": "ロトム",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 70,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 11,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "アサルトレーザー",
+          "damage": 20,
+          "effect": "相手のバトルポケモンに「ポケモンのどうぐ」がついているなら、30ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 50,
+      "tags": [
+        "相手にポケモンの道具がついているならダメアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou62.png"
+    },
+    {
+      "id": "419",
+      "name": "トゲピー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 50,
+      "type": "超",
+      "weakness": "鋼",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "はたく",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou63.png"
+    },
+    {
+      "id": "420",
+      "name": "トゲチック",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 80,
+      "type": "超",
+      "weakness": "鋼",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ようせいのかぜ",
+          "damage": 40,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou64.png"
+    },
+    {
+      "id": "421",
+      "name": "トゲキッス",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "時空の激闘",
+      "hp": 140,
+      "type": "超",
+      "weakness": "鋼",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "オーバースマッシュ",
+          "damage": 60,
+          "effect": "次の相手の番、このポケモンの「オーバースマッシュ」のダメージを+60する。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 120,
+      "tags": [
+        "ダメージアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou65.png"
+    },
+    {
+      "id": "422",
+      "name": "ムウマ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "つぶやく",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou66.png"
+    },
+    {
+      "id": "423",
+      "name": "ムウマージEX",
+      "cardType": "EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 140,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "マジカルトリップ",
+          "damage": 70,
+          "effect": "相手のバトルポケモンをこんらんにする。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 70,
+      "tags": [
+        "こんらん"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou67.jpg"
+    },
+    {
+      "id": "424",
+      "name": "ラルトス",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "テレポート",
+          "damage": 0,
+          "effect": "このポケモンをベンチポケモンと入れ替える。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "ベンチに逃げる"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou68.png"
+    },
+    {
+      "id": "425",
+      "name": "キルリア",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 80,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ビンタ",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou69.png"
+    },
+    {
+      "id": "426",
+      "name": "ヨノワル",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "おにび",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou70.png"
+    },
+    {
+      "id": "427",
+      "name": "サマヨール",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 90,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "サイコパンチ",
+          "damage": 50,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 50,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou71.png"
+    },
+    {
+      "id": "428",
+      "name": "ヨノワール",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "時空の激闘",
+      "hp": 130,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ソウルイート",
+          "damage": 70,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 70,
+      "tags": [
+        "ダメージ付け替え"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou72.png"
+    },
+    {
+      "id": "429",
+      "name": "フワンテ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 50,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ふくらむ",
+          "damage": 10,
+          "effect": "次の相手の番、このポケモンが受けるワザのダメージを-20する。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 10,
+      "tags": [
+        "ダメージ減少"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou73.png"
+    },
+    {
+      "id": "430",
+      "name": "フワライド",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 100,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "バルーンアタック",
+          "damage": 60,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 60,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou74.png"
+    },
+    {
+      "id": "431",
+      "name": "ユクシー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 70,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "マインドブースト",
+          "damage": 20,
+          "effect": "自分のエネルギーゾーンから超エネルギーを1個出し、「エムリット」または「アグノム」につける",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [
+        "エネルギー加速"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou75.png"
+    },
+    {
+      "id": "432",
+      "name": "エムリット",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 70,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ゴッドブラスト",
+          "damage": 160,
+          "effect": "このワザは、自分のベンチに「ユクシー」「アグノム」がいる時にしか使えない。このポケモンからエネルギーを全てトラッシュ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 160,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou76.jpg"
+    },
+    {
+      "id": "433",
+      "name": "アグノム",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 70,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "サイコアロー",
+          "damage": 0,
+          "effect": "相手のポケモン1匹に20ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou77.png"
+    },
+    {
+      "id": "434",
+      "name": "ギラティナ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 120,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ホロウショット",
+          "damage": 70,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 70,
+      "tags": [
+        "逃げエネ減少"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou78.png"
+    },
+    {
+      "id": "435",
+      "name": "クレセリア",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 110,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ムーンライトゲイン",
+          "damage": 50,
+          "effect": "このポケモンのHPを20回復。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 50,
+      "tags": [
+        "回復"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou79.png"
+    },
+    {
+      "id": "436",
+      "name": "サイホーン",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 80,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "つのでつく",
+          "damage": 40,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou80.png"
+    },
+    {
+      "id": "437",
+      "name": "サイドン",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 110,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "たたきつぶす",
+          "damage": 70,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 70,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou81.png"
+    },
+    {
+      "id": "438",
+      "name": "ドサイドン",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "時空の激闘",
+      "hp": 160,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 4,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "自分の山札を上から3枚トラッシュ。",
+          "damage": 150,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 150,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou82.jpg"
+    },
+    {
+      "id": "439",
+      "name": "グライガー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "つきさす",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou83.png"
+    },
+    {
+      "id": "440",
+      "name": "グライオン",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 100,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "アクロバット",
+          "damage": 20,
+          "effect": "コインを2回投げ、オモテの数×20ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "コイン",
+        " ダメージアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou84.png"
+    },
+    {
+      "id": "441",
+      "name": "カポエラー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 80,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "かいてんアタック",
+          "damage": 50,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 50,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou85.png"
+    },
+    {
+      "id": "442",
+      "name": "ノズパス",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 70,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ぶつかる",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou86.png"
+    },
+    {
+      "id": "443",
+      "name": "レジロック",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 120,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 3,
+      "abilityName": "かたいからだ",
+      "abilityEffect": "このポケモンが受けるワザのダメージを-20する。",
+      "moves": [
+        {
+          "name": "ロックスマッシュ",
+          "damage": 100,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 100,
+      "tags": [
+        "ダメージ減少"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou87.jpg"
+    },
+    {
+      "id": "444",
+      "name": "ズガイドス",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 90,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ずつき",
+          "damage": 50,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 50,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou88.png"
+    },
+    {
+      "id": "445",
+      "name": "ラムパルド",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "時空の激闘",
+      "hp": 150,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "もろはのずつき",
+          "damage": 130,
+          "effect": "このワザのダメージで、相手のポケモンがきぜつしたなら、このポケモンにも50ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 130,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou89.png"
+    },
+    {
+      "id": "446",
+      "name": "ミノマダム",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 120,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ランドクラッシュ",
+          "damage": 70,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 70,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou90.png"
+    },
+    {
+      "id": "447",
+      "name": "リオル",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ジャブ",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou91.png"
+    },
+    {
+      "id": "448",
+      "name": "ルカリオ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 100,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "サブマリンブロー",
+          "damage": 40,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "ダメージアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou92.jpg"
+    },
+    {
+      "id": "449",
+      "name": "ヒポポタス",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 80,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ころがりタックル",
+          "damage": 60,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 60,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou93.png"
+    },
+    {
+      "id": "450",
+      "name": "カバルドン",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 140,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 4,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "グラウンドプレス",
+          "damage": 120,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 120,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou94.png"
+    },
+    {
+      "id": "451",
+      "name": "エルレイドEX",
+      "cardType": "EX",
+      "evolutionStage": "2進化",
+      "pack": "時空の激闘",
+      "hp": 170,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "エナジーブレード",
+          "damage": 70,
+          "effect": "相手のバトルポケモンのエネルギーの数×20ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 150,
+      "tags": [
+        "相手エネルギーの数だけダメージアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou95.jpg"
+    },
+    {
+      "id": "452",
+      "name": "ヤミカラス",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "悪",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "つつく",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou96.jpg"
+    },
+    {
+      "id": "453",
+      "name": "ドンカラス",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 100,
+      "type": "悪",
+      "weakness": "雷",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ちょくげきひこう",
+          "damage": 0,
+          "effect": "相手のポケモン1匹に50ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 50,
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou97.png"
+    },
+    {
+      "id": "454",
+      "name": "ニューラ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "悪",
+      "weakness": "草",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ダブルひっかき",
+          "damage": 20,
+          "effect": "コインを2回投げ、オモテの数×20ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 40,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou98.png"
+    },
+    {
+      "id": "455",
+      "name": "マニューラEX",
+      "cardType": "EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 140,
+      "type": "悪",
+      "weakness": "草",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "スクラッチネイル",
+          "damage": 30,
+          "effect": "相手のバトルポケモンがダメージを受けているなら、40ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 70,
+      "tags": [
+        "相手がダメージを受けているならダメージアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou99.jpg"
+    },
+    {
+      "id": "456",
+      "name": "ポチエナ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "悪",
+      "weakness": "草",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "かみつく",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou100.png"
+    },
+    {
+      "id": "457",
+      "name": "グラエナ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 90,
+      "type": "悪",
+      "weakness": "草",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "やみのキバ",
+          "damage": 60,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 60,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou101.png"
+    },
+    {
+      "id": "458",
+      "name": "スカンプー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 70,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ひっかく",
+          "damage": 10,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 10,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou102.png"
+    },
+    {
+      "id": "459",
+      "name": "スカタンク",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 100,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "どくガス",
+          "damage": 50,
+          "effect": "相手のバトルポケモンをどくにする。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 50,
+      "tags": [
+        "どく"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou103.png"
+    },
+    {
+      "id": "460",
+      "name": "ミカルゲ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 80,
+      "type": "悪",
+      "weakness": "草",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "うずまくわざわい",
+          "damage": 10,
+          "effect": "相手のポケモン全員に10ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 40,
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou104.png"
+    },
+    {
+      "id": "461",
+      "name": "スコルピ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 70,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "つきさす",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou105.png"
+    },
+    {
+      "id": "462",
+      "name": "ドラピオン",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 120,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "クロスポイズン",
+          "damage": 40,
+          "effect": "コインを4回投げ、オモテの数×40ダメージ。オモテが2回以上なら、相手のバトルポケモンをどくにする。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 160,
+      "tags": [
+        "どく",
+        " コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou106.png"
+    },
+    {
+      "id": "463",
+      "name": "グレッグル",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "みんなでしばく",
+          "damage": 20,
+          "effect": "自分の場のポケモンの数ぶんコインを投げ、オモテの数×20ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "コイン",
+        " 自分のベンチの数だけダメアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou107.png"
+    },
+    {
+      "id": "464",
+      "name": "ドクロッグ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 90,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "みんなでしばく",
+          "damage": 40,
+          "effect": "自分の場のポケモンの数ぶんコインを投げ、オモテの数×20ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 160,
+      "tags": [
+        "コイン",
+        " 自分のベンチの数だけダメアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou108.png"
+    },
+    {
+      "id": "465",
+      "name": "ダークライ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 110,
+      "type": "悪",
+      "weakness": "草",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ダークホール",
+          "damage": 60,
+          "effect": "相手のバトルポケモンをねむりにする。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "ねむり"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou109.png"
+    },
+    {
+      "id": "466",
+      "name": "ダークライEX",
+      "cardType": "EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 140,
+      "type": "悪",
+      "weakness": "草",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ダークプリズム",
+          "damage": 80,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 100,
+      "tags": [
+        "ダメージアップ",
+        " ベンチ狙撃"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou110.jpg"
+    },
+    {
+      "id": "467",
+      "name": "エアームド",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 80,
+      "type": "鋼",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "メタルアームズ",
+          "damage": 20,
+          "effect": "このポケモンに「ポケモンのどうぐ」がついているなら、30ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 50,
+      "tags": [
+        "自分にポケモンの道具がついてるならダメアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou111.png"
+    },
+    {
+      "id": "468",
+      "name": "レジスチル",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 110,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "メタルクロー",
+          "damage": 90,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 90,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou112.png"
+    },
+    {
+      "id": "469",
+      "name": "タテトプス",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 100,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ずつき",
+          "damage": 50,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 50,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou113.png"
+    },
+    {
+      "id": "470",
+      "name": "トリデプス",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "時空の激闘",
+      "hp": 160,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 4,
+      "abilityName": "がんめんガード",
+      "abilityEffect": "このポケモンがワザのダメージを受けるとき、自分はコインを1回投げる。オモテなら、このポケモンが受けるワザのダメージを-100する。",
+      "moves": [
+        {
+          "name": "ヘッドバング",
+          "damage": 80,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "コイン",
+        " ダメージ減少"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou114.png"
+    },
+    {
+      "id": "471",
+      "name": "ミノマダム",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 110,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "アイアンヘッド",
+          "damage": 50,
+          "effect": "ウラが出るまでコインを投げ、オモテの数×30ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 170,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou115.png"
+    },
+    {
+      "id": "472",
+      "name": "ドーミラー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "たいあたり",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou116.png"
+    },
+    {
+      "id": "473",
+      "name": "ドータクン",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 120,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ガードプレス",
+          "damage": 60,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "ダメージ減少"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou117.png"
+    },
+    {
+      "id": "474",
+      "name": "ダイノーズ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 130,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 4,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "トリプルノーズ",
+          "damage": 30,
+          "effect": "コインを3回投げ、オモテの数×50ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 180,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou118.png"
+    },
+    {
+      "id": "475",
+      "name": "ディアルガEX",
+      "cardType": "EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 150,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "メタルターボ",
+          "damage": 30,
+          "effect": "自分のエネルギーゾーンから鋼エネルギーを2個出し、ベンチのポケモン1匹につける。",
+          "cost": {}
+        },
+        {
+          "name": "ヘビーインパクト",
+          "damage": 100,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 100,
+      "tags": [
+        "エネルギー加速"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou119.jpg"
+    },
+    {
+      "id": "476",
+      "name": "ヒードラン",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 120,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "こうてつタックル",
+          "damage": 110,
+          "effect": "このポケモンにも20ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 110,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou120.png"
+    },
+    {
+      "id": "477",
+      "name": "フカマル",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "ドラゴン",
+      "weakness": "",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "かじる",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou121.png"
+    },
+    {
+      "id": "478",
+      "name": "ガバイト",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 90,
+      "type": "ドラゴン",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "きりさく",
+          "damage": 60,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 60,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou122.png"
+    },
+    {
+      "id": "479",
+      "name": "ガブリアス",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "時空の激闘",
+      "hp": 140,
+      "type": "ドラゴン",
+      "weakness": "",
+      "retreatCost": 1,
+      "abilityName": "あらけずり",
+      "abilityEffect": "自分の番に、自分の手札を1枚トラッシュするなら、1回使える。自分の山札を1枚引く。",
+      "moves": [
+        {
+          "name": "ドラゴンクロー",
+          "damage": 100,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 100,
+      "tags": [
+        "手札入れ替え"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou123.png"
+    },
+    {
+      "id": "480",
+      "name": "ベロリンガ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 80,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ベロではたく",
+          "damage": 50,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 50,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou124.png"
+    },
+    {
+      "id": "481",
+      "name": "ベロベルトEX",
+      "cardType": "EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 160,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 4,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ベロベロラッシュ",
+          "damage": 100,
+          "effect": "ウラが出るまでコインを投げ、オモテの数×40ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 260,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou125.jpg"
+    },
+    {
+      "id": "482",
+      "name": "イーブイ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "でんこうせっか",
+          "damage": 10,
+          "effect": "コインを1回投げオモテなら、20ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou126.png"
+    },
+    {
+      "id": "483",
+      "name": "ポリゴン",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ビーム",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou127.png"
+    },
+    {
+      "id": "484",
+      "name": "ポリゴン2",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 80,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "かくばる",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou128.png"
+    },
+    {
+      "id": "485",
+      "name": "ポリゴンZ",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "時空の激闘",
+      "hp": 140,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "バグビーム",
+          "damage": 80,
+          "effect": "相手の次に発生するエネルギーのタイプをランダムな一つに変える。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "敵エネルギートラッシュ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou129.png"
+    },
+    {
+      "id": "486",
+      "name": "エイパム",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "しっぽパンチ",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou130.png"
+    },
+    {
+      "id": "487",
+      "name": "エテボース",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 90,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ダブルアタック",
+          "damage": 40,
+          "effect": "コインを2回投げ、オモテの数×40ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou131.png"
+    },
+    {
+      "id": "488",
+      "name": "ムックル",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 50,
+      "type": "無色",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ついばむ",
+          "damage": 20,
+          "effect": "ダメージを与える前に、相手のバトルポケモンから「ポケモンのどうぐ」をトラッシュ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [
+        "相手のポケモンの道具をトラッシュ。"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou132.png"
+    },
+    {
+      "id": "489",
+      "name": "ムクバード",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 80,
+      "type": "無色",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "つばさでうつ",
+          "damage": 40,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou133.png"
+    },
+    {
+      "id": "490",
+      "name": "ムクホーク",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "時空の激闘",
+      "hp": 140,
+      "type": "無色",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "わしづかみ",
+          "damage": 80,
+          "effect": "次の相手の番、このワザを受けたポケモンはにげるができない。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "かげふみ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou134.png"
+    },
+    {
+      "id": "491",
+      "name": "ビッパ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "いかりのまえば",
+          "damage": 0,
+          "effect": "相手のバトルポケモンの残りHPを、半分(切り捨て)にする。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 70,
+      "tags": [
+        "いかりのまえば"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou135.png"
+    },
+    {
+      "id": "492",
+      "name": "ビーダル",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 110,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ころがりタックル",
+          "damage": 60,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 60,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou136.png"
+    },
+    {
+      "id": "493",
+      "name": "ミミロル",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "はねる",
+          "damage": 10,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 10,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou137.png"
+    },
+    {
+      "id": "494",
+      "name": "ミミロップ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 90,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "とびげり",
+          "damage": 20,
+          "effect": "相手のベンチポケモン1匹にも20ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 40,
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou138.png"
+    },
+    {
+      "id": "495",
+      "name": "ニャルマー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 60,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "きどる",
+          "damage": 40,
+          "effect": "コインを1回投げウラなら、このワザは失敗。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 40,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou139.png"
+    },
+    {
+      "id": "496",
+      "name": "ブニャット",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "時空の激闘",
+      "hp": 110,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "じゃまする",
+          "damage": 60,
+          "effect": "相手の手札のオモテをすべて見て、その中からカードを1枚選び、山札に戻す。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "相手手札干渉"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou140.jpg"
+    },
+    {
+      "id": "497",
+      "name": "ペラップ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 70,
+      "type": "無色",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "みだれづき",
+          "damage": 20,
+          "effect": "コインを3回投げ、オモテの数×20ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou141.png"
+    },
+    {
+      "id": "498",
+      "name": "スピンロトム",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 80,
+      "type": "無色",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "せんぷう",
+          "damage": 0,
+          "effect": "コインを1回投げオモテなら、相手のバトルポケモンを手札に戻す。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "敵のバトルポケモン除去"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou142.png"
+    },
+    {
+      "id": "499",
+      "name": "レジギガス",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "時空の激闘",
+      "hp": 140,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 4,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "レイジングハンマー",
+          "damage": 50,
+          "effect": "このポケモンが受けているダメージぶん、ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 180,
+      "tags": [
+        "リベンジ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou143.jpg"
+    },
+    {
+      "id": "500",
+      "name": "ずがいの化石",
+      "cardType": "化石",
+      "evolutionStage": "",
+      "pack": "時空の激闘",
+      "hp": 40,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "このカードは、HP40の無色タイプのたねポケモンとして、場に出すことができる。自分の番の中でなら、場に出ているこのカードをトラッシュしてよい。このカードはにげるができない。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou144.png"
+    },
+    {
+      "id": "501",
+      "name": "たての化石",
+      "cardType": "化石",
+      "evolutionStage": "",
+      "pack": "時空の激闘",
+      "hp": 40,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "このカードは、HP40の無色タイプのたねポケモンとして、場に出すことができる。自分の番の中でなら、場に出ているこのカードをトラッシュしてよい。このカードはにげるができない。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou145.png"
+    },
+    {
+      "id": "502",
+      "name": "ポケモン図鑑",
+      "cardType": "グッズ",
+      "evolutionStage": "",
+      "pack": "時空の激闘",
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "自分の手札からポケモンを1匹選び、山札にあるランダムなポケモン1枚と入れ替える。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "サーチ",
+        " 手札入れ替え"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou146.png"
+    },
+    {
+      "id": "503",
+      "name": "大きなマント",
+      "cardType": "ポケモンのどうぐ",
+      "evolutionStage": "",
+      "pack": "時空の激闘",
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "このカードをつけているポケモンの最大HPを+20する。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "HP増加"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou147.png"
+    },
+    {
+      "id": "504",
+      "name": "ゴツゴツメット",
+      "cardType": "ポケモンのどうぐ",
+      "evolutionStage": "",
+      "pack": "時空の激闘",
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "このカードをつけているポケモンが、バトル場で相手のポケモンからワザのダメージを受けた時、ワザを使ったポケモンに20ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "ダメージ反撃"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou148.png"
+    },
+    {
+      "id": "505",
+      "name": "ラムのみ",
+      "cardType": "ポケモンのどうぐ",
+      "evolutionStage": "",
+      "pack": "時空の激闘",
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "おたがいの番の終わりに、このカードをつけているポケモンが特殊状態なら、そのポケモンの特殊状態をすべて回復。その後、このカードをトラッシュ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "状態異常無効化"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou149.png"
+    },
+    {
+      "id": "506",
+      "name": "アカギ",
+      "cardType": "サポート",
+      "evolutionStage": "",
+      "pack": "時空の激闘",
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "相手のベンチのダメージを受けているポケモンを1匹選び、バトルポケモンと入れ替える。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "敵ポケ入れ替え"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou150.png"
+    },
+    {
+      "id": "507",
+      "name": "ギンガ団のしたっぱ",
+      "cardType": "サポート",
+      "evolutionStage": "",
+      "pack": "時空の激闘",
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "自分の山札から「ニャルマー」「スカンプー」「グレッグル」をランダムに1枚、手札に加える。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "サーチ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou151.png"
+    },
+    {
+      "id": "508",
+      "name": "シロナ",
+      "cardType": "サポート",
+      "evolutionStage": "",
+      "pack": "時空の激闘",
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "この番、自分の「ガブリアス」「トゲキッス」が使うワザの、相手のバトルポケモンへのダメージを+50する。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "ダメージアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou152.png"
+    },
+    {
+      "id": "509",
+      "name": "デンジ",
+      "cardType": "サポート",
+      "evolutionStage": "",
+      "pack": "時空の激闘",
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "自分の「エレキブル」または「レントラー」を1匹選ぶ。自分のトラッシュから雷エネルギーを2個、そのポケモンにつける。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "エネルギー加速"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou153.png"
+    },
+    {
+      "id": "510",
+      "name": "ヒカリ",
+      "cardType": "サポート",
+      "evolutionStage": "",
+      "pack": "時空の激闘",
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "自分のベンチポケモンからエネルギーを1個選び、バトルポケモンにつけ替える。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "エネルギー付け替え"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou154.png"
+    },
+    {
+      "id": "511",
+      "name": "マーズ",
+      "cardType": "サポート",
+      "evolutionStage": "",
+      "pack": "時空の激闘",
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "相手の手札をすべて山札に戻す。相手は相手自身の勝つために必要な残りポイントの数ぶん、山札を引く。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "相手手札干渉"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou155.png"
     }
   ]
 }
