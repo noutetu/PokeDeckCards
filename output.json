@@ -11983,6 +11983,1891 @@
         "相手手札干渉"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou155.png"
+    },
+    {
+      "id": "547",
+      "name": "ヘラクロス",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 100,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "いっぽんなげ",
+          "damage": 50,
+          "effect": "コインを2回投げ、すべてオモテなら、70ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 120,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari1.png"
+    },
+    {
+      "id": "548",
+      "name": "ミノムッチ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 50,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ぶつかる",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari2.png"
+    },
+    {
+      "id": "549",
+      "name": "ガーメイル",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 90,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "かぜおこし",
+          "damage": 50,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 50,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari3.png"
+    },
+    {
+      "id": "550",
+      "name": "ミツハニー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 50,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "むしくい",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari4.png"
+    },
+    {
+      "id": "551",
+      "name": "ビークイン",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 100,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "とつげき",
+          "damage": 120,
+          "effect": "このポケモンにも30ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 120,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari5.png"
+    },
+    {
+      "id": "552",
+      "name": "チェリボ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 50,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "このは",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari6.png"
+    },
+    {
+      "id": "553",
+      "name": "チェリム",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 80,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "なやみのタネ",
+          "damage": 40,
+          "effect": "相手のバトルポケモンをこんらんにする。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 40,
+      "tags": [
+        "こんらん"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari7.png"
+    },
+    {
+      "id": "554",
+      "name": "チェリム",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 80,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "やどりぎのタネ",
+          "damage": 60,
+          "effect": "このポケモンのHPを20回復。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "回復"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari8.png"
+    },
+    {
+      "id": "555",
+      "name": "マスキッパ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 80,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "パワーリンク",
+      "abilityEffect": "自分の場に「アルセウス」または「アルセウスEX」がいるなら、このポケモンが使うワザの、相手のバトルポケモンへのダメージを+30する。",
+      "moves": [
+        {
+          "name": "つるのムチ",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 50,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari9.png"
+    },
+    {
+      "id": "556",
+      "name": "リーフィアEX",
+      "cardType": "EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 140,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "もりのいぶき",
+      "abilityEffect": "このポケモンがバトル場にいるなら、自分の番に1回使える。自分のエネルギーゾーンから草エネルギーを1個出し、草ポケモンにつける。",
+      "moves": [
+        {
+          "name": "ソーラービーム",
+          "damage": 70,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 70,
+      "tags": [
+        "エネルギー加速"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari10.png"
+    },
+    {
+      "id": "557",
+      "name": "デルビル",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 60,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ほのお",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari11.png"
+    },
+    {
+      "id": "558",
+      "name": "ヘルガー",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 100,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "おいつめる",
+          "damage": 60,
+          "effect": "次の相手の番、このワザを受けたポケモンはにげるができない。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "かげふみ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari12.png"
+    },
+    {
+      "id": "559",
+      "name": "ヒードラン",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 110,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ぶちぎれボンバー",
+          "damage": 40,
+          "effect": "このポケモンがダメージを受けているなら、40ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "リベンジ",
+        " 逃げエネ減少"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari13.png"
+    },
+    {
+      "id": "560",
+      "name": "マリル",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 0,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "みずでっぽう",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari14.png"
+    },
+    {
+      "id": "561",
+      "name": "マリルリ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 100,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "たきのぼり",
+          "damage": 60,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 60,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari15.png"
+    },
+    {
+      "id": "562",
+      "name": "ドジョッチ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 60,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "どろかけ",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari16.png"
+    },
+    {
+      "id": "563",
+      "name": "ナマズン",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 120,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "あばれる",
+          "damage": 80,
+          "effect": "コインを1回投げオモテなら、60ダメージ追加。ウラなら、このポケモンにも20ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 140,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari17.png"
+    },
+    {
+      "id": "564",
+      "name": "ユキワラシ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 60,
+      "type": "水",
+      "weakness": "鋼",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "つらら",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari18.png"
+    },
+    {
+      "id": "565",
+      "name": "ユキメノコ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 90,
+      "type": "水",
+      "weakness": "鋼",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ふぶき",
+          "damage": 40,
+          "effect": "相手のベンチポケモン全員にも10ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 70,
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari19.png"
+    },
+    {
+      "id": "566",
+      "name": "ユキカブリ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 70,
+      "type": "水",
+      "weakness": "鋼",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "どつく",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari20.png"
+    },
+    {
+      "id": "567",
+      "name": "ユキノオー",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 120,
+      "type": "水",
+      "weakness": "鋼",
+      "retreatCost": 2,
+      "abilityName": "ハッスルリンク",
+      "abilityEffect": "自分の場に「アルセウス」なたは「アルセウスEX」がいるなら、このポケモンがワザを使うためのエネルギーを、無色エネルギー1個ぶん少なくする。",
+      "moves": [
+        {
+          "name": "メガトンパンチ",
+          "damage": 80,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "ワザエネルギー減少"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari21.png"
+    },
+    {
+      "id": "568",
+      "name": "グレイシア",
+      "cardType": "EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 140,
+      "type": "水",
+      "weakness": "鋼",
+      "retreatCost": 1,
+      "abilityName": "スノーフィールド",
+      "abilityEffect": "このポケモンがバトル場にいるかぎり、ポケモンチェックのたび、相手のバトルポケモンに10ダメージ。",
+      "moves": [
+        {
+          "name": "フリーズウィンド",
+          "damage": 90,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 100,
+      "tags": [
+        "ダメージアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari22.png"
+    },
+    {
+      "id": "569",
+      "name": "オリジンパルキア",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 120,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ゾーンブレイク",
+          "damage": 60,
+          "effect": "コインを1回投げオモテなら、60ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 120,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari23.png"
+    },
+    {
+      "id": "570",
+      "name": "フィオネ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 60,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "みずのはどう",
+          "damage": 40,
+          "effect": "相手のバトルポケモンをねむりにする。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 40,
+      "tags": [
+        "ねむり"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari24.png"
+    },
+    {
+      "id": "571",
+      "name": "ピカチュウ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 60,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "スパーク",
+          "damage": 10,
+          "effect": "相手のベンチポケモン1匹にも10ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari25.png"
+    },
+    {
+      "id": "572",
+      "name": "ライチュウ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 90,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "ガードリンク",
+      "abilityEffect": "自分の場に「アルセウス」または「アルセウスEX」がいるなら、このポケモンが受けるワザのダメージを-30する。",
+      "moves": [
+        {
+          "name": "スパーク",
+          "damage": 40,
+          "effect": "相手のベンチポケモン1匹にも20ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "ダメージ減少",
+        " ベンチ狙撃"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari26.png"
+    },
+    {
+      "id": "573",
+      "name": "ラクライ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 60,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "エレキック",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari27.png"
+    },
+    {
+      "id": "574",
+      "name": "ライボルト",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 90,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "フラッシュ",
+          "damage": 40,
+          "effect": "次の相手の番、このワザを受けたポケモnがワザを使うとき、相手はコインを1回投げる。ウラならその技は失敗。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 40,
+      "tags": [
+        "コイン",
+        " ワザ封じ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari28.png"
+    },
+    {
+      "id": "575",
+      "name": "ピッピ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 60,
+      "type": "超",
+      "weakness": "鋼",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ひらてうち",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari29.png"
+    },
+    {
+      "id": "576",
+      "name": "ピクシー",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 100,
+      "type": "超",
+      "weakness": "鋼",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ムーンフォース",
+          "damage": 60,
+          "effect": "次の相手の番、このワザを受けたポケモンが使うワザのダメージを-30する。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "ダメージ減少"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari30.png"
+    },
+    {
+      "id": "577",
+      "name": "ゴース",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 50,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "おどろかす",
+          "damage": 0,
+          "effect": "コインを1回投げオモテなら、相手の手札をランダムに1枚、オモテを見て、相手の山札に戻す。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "相手手札干渉"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari31.png"
+    },
+    {
+      "id": "578",
+      "name": "ゴースト",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 80,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "つぶやく",
+          "damage": 40,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari32.png"
+    },
+    {
+      "id": "579",
+      "name": "ゲンガー",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "超克の光",
+      "hp": 140,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "さいみんはどう",
+          "damage": 70,
+          "effect": "相手のバトルポケモンをねむりにする。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 70,
+      "tags": [
+        "ねむり"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari33.png"
+    },
+    {
+      "id": "580",
+      "name": "アンノーン",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 60,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "めざめるパワー",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [
+        "山札チェック"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari34.png"
+    },
+    {
+      "id": "581",
+      "name": "ロトム",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 70,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "とびだしアタック",
+          "damage": 20,
+          "effect": "相手のベンチポケモン1匹に20ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [
+        "ベンチ狙撃",
+        " 逃げエネ減少"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari35.png"
+    },
+    {
+      "id": "582",
+      "name": "ウソッキー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 80,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "とうしのずつき",
+          "damage": 20,
+          "effect": "相手のバトルポケモンが「ポケモンEX」なら、30ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 50,
+      "tags": [
+        "相手がEXならダメージアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari36.png"
+    },
+    {
+      "id": "583",
+      "name": "ゴマゾウ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 60,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ころがる",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari37.png"
+    },
+    {
+      "id": "584",
+      "name": "ドンファン",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 120,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ローリングスピン",
+          "damage": 60,
+          "effect": "次の自分の番、このポケモンの「ローリングスピン」のダメージを+60する。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 120,
+      "tags": [
+        "ダメージアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari38.png"
+    },
+    {
+      "id": "585",
+      "name": "ヨーギラス",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 60,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "どつく",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari39.png"
+    },
+    {
+      "id": "586",
+      "name": "サナギラス",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 80,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "スピードアタック",
+          "damage": 50,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 50,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari40.png"
+    },
+    {
+      "id": "587",
+      "name": "バンギラス",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "超克の光",
+      "hp": 160,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 4,
+      "abilityName": "パワーリンク",
+      "abilityEffect": "自分の場に「アルセウス」または「アルセウスEX」がいるなら、このポケモンが使うワザの、相手のバトルポケモンへのダメージを+30する。",
+      "moves": [
+        {
+          "name": "ランドクラッシュ",
+          "damage": 130,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 160,
+      "tags": [
+        "ダメージアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari41.png"
+    },
+    {
+      "id": "588",
+      "name": "ノズパス",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 80,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "たいあたり",
+          "damage": 10,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 10,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari42.png"
+    },
+    {
+      "id": "589",
+      "name": "アサナン",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 60,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "キック",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari43.png"
+    },
+    {
+      "id": "590",
+      "name": "チャーレム",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 100,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "いっぱつげり",
+          "damage": 80,
+          "effect": "コインを1回投げウラなら、このワザは失敗。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari44.png"
+    },
+    {
+      "id": "591",
+      "name": "フカマル",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 60,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "たいあたり",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari45.png"
+    },
+    {
+      "id": "592",
+      "name": "ガバイト",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 80,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "するどカマ",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari46.png"
+    },
+    {
+      "id": "593",
+      "name": "ガブリアスEX",
+      "cardType": "EX",
+      "evolutionStage": "2進化",
+      "pack": "超克の光",
+      "hp": 170,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ちょくげきだん",
+          "damage": 50,
+          "effect": "相手のポケモン1匹に50ダメージ。",
+          "cost": {}
+        },
+        {
+          "name": "ドラゴンクロー",
+          "damage": 100,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 100100,
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari47.png"
+    },
+    {
+      "id": "594",
+      "name": "ズバット",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 50,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "かみつく",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari48.png"
+    },
+    {
+      "id": "595",
+      "name": "ゴルバット",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 80,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "かみつく",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari49.png"
+    },
+    {
+      "id": "596",
+      "name": "クロバット",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "超克の光",
+      "hp": 110,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "やみのキバ",
+          "damage": 50,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "ダメージアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari50.png"
+    },
+    {
+      "id": "597",
+      "name": "グレッグル",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 60,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "たたく",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari51.png"
+    },
+    {
+      "id": "598",
+      "name": "ドクロッグ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 100,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "どくどく",
+          "damage": 0,
+          "effect": "相手のバトルポケモンをどくにする。このどくのダメージは20になる。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [
+        "どく"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari52.png"
+    },
+    {
+      "id": "599",
+      "name": "コイル",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 60,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "たいあたり",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari53.png"
+    },
+    {
+      "id": "600",
+      "name": "レアコイル",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 90,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ボールアタック",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari54.png"
+    },
+    {
+      "id": "601",
+      "name": "ジバコイル",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "超克の光",
+      "hp": 140,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "abilityName": "ガードリンク",
+      "abilityEffect": "自分の場に「アルセウス」または「アルセウスEX」がいるなら、このポケモンが受けるワザのダメージを-30する。",
+      "moves": [
+        {
+          "name": "パワービーム",
+          "damage": 80,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "ダメージ減少"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari55.png"
+    },
+    {
+      "id": "602",
+      "name": "クチート",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 70,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "てっこつくだき",
+          "damage": 20,
+          "effect": "相手のバトルポケモンが鋼ポケモンなら、30ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 50,
+      "tags": [
+        "ダメージアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari56.png"
+    },
+    {
+      "id": "603",
+      "name": "ダイノーズEX",
+      "cardType": "EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 160,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "プロテクトユニット",
+          "damage": 90,
+          "effect": "次の相手の番、このポケモンが受けるワザのダメージを-20する。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 90,
+      "tags": [
+        "ダメージ減少"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari57.png"
+    },
+    {
+      "id": "604",
+      "name": "ドーミラー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 60,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ぶつかる",
+          "damage": 10,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 10,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari58.png"
+    },
+    {
+      "id": "605",
+      "name": "ドータクン",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 120,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "サイコキネシス",
+          "damage": 50,
+          "effect": "相手のバトルポケモンのエネルギーの数×20ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 130,
+      "tags": [
+        "相手エネルギーの数だけダメージアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari59.png"
+    },
+    {
+      "id": "606",
+      "name": "オリジンディアルガ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 120,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "タイムクラッシュ",
+          "damage": 100,
+          "effect": "コインを1回投げウラなら、次の自分の番、このポケモンはワザが使えない。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 100,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari60.png"
+    },
+    {
+      "id": "607",
+      "name": "ギラティナ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 120,
+      "type": "ドラゴン",
+      "weakness": "",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "クライシスダイブ",
+          "damage": 120,
+          "effect": "このポケモンからエネルギーをランダムに2個トラッシュ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 120,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari61.png"
+    },
+    {
+      "id": "608",
+      "name": "イーブイ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 60,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "しっぽではたく",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari62.png"
+    },
+    {
+      "id": "609",
+      "name": "カビゴン",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 140,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 4,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "たおれこむ",
+          "damage": 100,
+          "effect": "このねむりにする。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 100,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari63.png"
+    },
+    {
+      "id": "610",
+      "name": "ホーホー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 60,
+      "type": "無色",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "つつく",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari64.png"
+    },
+    {
+      "id": "611",
+      "name": "ヨルノズク",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 100,
+      "type": "無色",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "サイレントウィング",
+          "damage": 50,
+          "effect": "相手の手札のオモテをすべて見る。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 50,
+      "tags": [
+        "相手手札干渉"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari65.png"
+    },
+    {
+      "id": "612",
+      "name": "ムックル",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 60,
+      "type": "無色",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "かっくう",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari66.png"
+    },
+    {
+      "id": "613",
+      "name": "ムクバード",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "超克の光",
+      "hp": 80,
+      "type": "無色",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "つばさでうつ",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari67.png"
+    },
+    {
+      "id": "614",
+      "name": "ムクホーク",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "超克の光",
+      "hp": 150,
+      "type": "無色",
+      "weakness": "雷",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ブレイブバード",
+          "damage": 130,
+          "effect": "このポケモンにも20ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 130,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari68.png"
+    },
+    {
+      "id": "615",
+      "name": "シェイミ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 70,
+      "type": "無色",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "スカイサポート",
+      "abilityEffect": "このポケモンがベンチにいるかぎ理、自分のバトル場のたねポケモンのにげるためのエネルギーを1個少なくする。",
+      "moves": [
+        {
+          "name": "はばたく",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [
+        "逃げエネ減少"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari69.png"
+    },
+    {
+      "id": "616",
+      "name": "アルセウス",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 120,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "パワーブラスト",
+          "damage": 100,
+          "effect": "このポケモンからエネルギーをランダムに1個トラッシュ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 100,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari70.png"
+    },
+    {
+      "id": "617",
+      "name": "アルセウスEX",
+      "cardType": "EX",
+      "evolutionStage": "たね",
+      "pack": "超克の光",
+      "hp": 140,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "abilityName": "しんわのかがやき",
+      "abilityEffect": "このポケモンは特殊状態にならない。",
+      "moves": [
+        {
+          "name": "アルティメットフォース",
+          "damage": 70,
+          "effect": "自分のベンチポケモンの数×20ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 130,
+      "tags": [
+        "状態異常無効化",
+        " 自分のベンチの数だけダメアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari71.png"
+    },
+    {
+      "id": "618",
+      "name": "カイ",
+      "cardType": "サポート",
+      "evolutionStage": "",
+      "pack": "超克の光",
+      "hp": 0,
+      "type": "水",
+      "weakness": "",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "水エネルギーがついている自分のポケモン全員のHPを40回復。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "回復"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari72.png"
+    },
+    {
+      "id": "619",
+      "name": "カンナギタウンの長老",
+      "cardType": "サポート",
+      "evolutionStage": "",
+      "pack": "超克の光",
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "自分のトラッシュからたねポケモンをランダムに1枚、手札に加える。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari73.png"
+    },
+    {
+      "id": "620",
+      "name": "ジュン",
+      "cardType": "サポート",
+      "evolutionStage": "",
+      "pack": "超克の光",
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "この番、自分の「カビゴン」「ヘラクロス」「ムクホーク」がワザを使うためのエネルギーを、無色エネルギー2個ぶん少なくする。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "ワザエネルギー減少"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari74.png"
+    },
+    {
+      "id": "621",
+      "name": "セキ",
+      "cardType": "サポート",
+      "evolutionStage": "",
+      "pack": "超克の光",
+      "hp": 0,
+      "type": "鋼",
+      "weakness": "",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "次の相手の番、自分の鋼ポケモン全員が、相手のポケモンから受けるワザのダメージを-20する。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "ダメージ減少"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari75.png"
     }
   ]
 }
