@@ -7611,6 +7611,30 @@
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima49.png"
     },
     {
+      "id": "303",
+      "name": "チョロネコ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "幻のいる島",
+      "hp": 60,
+      "type": "悪",
+      "weakness": "草",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ひっかく",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima51.png"
+    },
+    {
       "id": "304",
       "name": "マタドガス",
       "cardType": "非EX",
@@ -7636,30 +7660,6 @@
         " ワザ封じ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima50.png"
-    },
-    {
-      "id": "303",
-      "name": "チョロネコ",
-      "cardType": "非EX",
-      "evolutionStage": "たね",
-      "pack": "幻のいる島",
-      "hp": 60,
-      "type": "悪",
-      "weakness": "草",
-      "retreatCost": 1,
-      "abilityName": "",
-      "abilityEffect": "",
-      "moves": [
-        {
-          "name": "ひっかく",
-          "damage": 20,
-          "effect": "",
-          "cost": {}
-        }
-      ],
-      "maxDamage": 20,
-      "tags": [],
-      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima51.png"
     },
     {
       "id": "305",
@@ -13166,7 +13166,7 @@
           "cost": {}
         }
       ],
-      "maxDamage": 100100,
+      "maxDamage": 100,
       "tags": [
         "ベンチ狙撃"
       ],
@@ -13868,6 +13868,1831 @@
         "ダメージ減少"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari75.png"
+    },
+    {
+      "id": "622",
+      "name": "ビードル",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 50,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ふえる",
+          "damage": 0,
+          "effect": "自分の山札から「ビードル」をランダムに1枚、ベンチに出す。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "サーチ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai11.png"
+    },
+    {
+      "id": "623",
+      "name": "コクーン",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "シャイニングハイ",
+      "hp": 80,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "いとをはく",
+          "damage": 20,
+          "effect": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [
+        "まひ",
+        " コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai12.png"
+    },
+    {
+      "id": "624",
+      "name": "スピアーEX",
+      "cardType": "EX",
+      "evolutionStage": "2進化",
+      "pack": "シャイニングハイ",
+      "hp": 170,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "クラッシュスピア",
+          "damage": 80,
+          "effect": "相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "敵エネルギートラッシュ",
+        " 進化妨害"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai13.png"
+    },
+    {
+      "id": "625",
+      "name": "カイロス",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 90,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ギロチンラッシュ",
+          "damage": 50,
+          "effect": "ウラが出るまでコインを投げ、オモテの数×40ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 210,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai14.png"
+    },
+    {
+      "id": "626",
+      "name": "ニャオハ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 60,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ともだちをよぶ",
+          "damage": 0,
+          "effect": "自分の山札から草ポケモンをランダムに1枚、手札に加える。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "サーチ",
+        " ドロー"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai15.png"
+    },
+    {
+      "id": "627",
+      "name": "ニャローテ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "シャイニングハイ",
+      "hp": 90,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "きりさく",
+          "damage": 40,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai16.png"
+    },
+    {
+      "id": "628",
+      "name": "マスカーニャ",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "シャイニングハイ",
+      "hp": 140,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "とうしのツメ",
+          "damage": 60,
+          "effect": "相手のバトルポケモンが「ポケモンEX」なら、70ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 130,
+      "tags": [
+        "相手がEXならダメージアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai17.png"
+    },
+    {
+      "id": "629",
+      "name": "ヒトカゲ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 60,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "かえん",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai18.png"
+    },
+    {
+      "id": "630",
+      "name": "リザード",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "シャイニングハイ",
+      "hp": 0,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "かえん",
+          "damage": 40,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai19.png"
+    },
+    {
+      "id": "631",
+      "name": "リザードン",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "シャイニングハイ",
+      "hp": 180,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "もえあがる",
+          "damage": 0,
+          "effect": "自分のエネルギーゾーンから炎エネルギーを3個出し、このポケモンにつける。",
+          "cost": {}
+        },
+        {
+          "name": "ばくねつほう",
+          "damage": 150,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 150,
+      "tags": [
+        "エネルギー加速"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai110.png"
+    },
+    {
+      "id": "632",
+      "name": "ブーバー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 70,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ほのお",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai111.png"
+    },
+    {
+      "id": "633",
+      "name": "ブーバーン",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "シャイニングハイ",
+      "hp": 120,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "えんまく",
+          "damage": 70,
+          "effect": "次の相手の番、このワザを受けたポケモンがワザを使う時、相手はコインを1回投げる。ウラならそのワザは失敗。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 70,
+      "tags": [
+        "コイン",
+        " ワザ封じ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai112.png"
+    },
+    {
+      "id": "634",
+      "name": "パルデアケンタロス",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 110,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ブレイズタックル",
+          "damage": 80,
+          "effect": "このポケモンにも10ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 80,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai113.png"
+    },
+    {
+      "id": "635",
+      "name": "メノクラゲ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 70,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "みずかけ",
+          "damage": 10,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 10,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai114.png"
+    },
+    {
+      "id": "636",
+      "name": "ドククラゲ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "シャイニングハイ",
+      "hp": 100,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "スプラッシュ",
+          "damage": 40,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai115.png"
+    },
+    {
+      "id": "637",
+      "name": "ブイゼル",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 70,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "みずでっぽう",
+          "damage": 10,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 10,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai116.png"
+    },
+    {
+      "id": "638",
+      "name": "フローゼル",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "シャイニングハイ",
+      "hp": 90,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ウォーターアロー",
+          "damage": 0,
+          "effect": "相手のポケモン1匹に30ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai117.png"
+    },
+    {
+      "id": "639",
+      "name": "ウミディグダ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 60,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "とびだす",
+          "damage": 30,
+          "effect": "相手のポケモンがランダムに1匹選ばれ、選ばれたポケモンに、30ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [
+        "ランダム攻撃"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai118.png"
+    },
+    {
+      "id": "640",
+      "name": "ウミトリオ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "シャイニングハイ",
+      "hp": 140,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "あちこちとびだす",
+          "damage": 150,
+          "effect": "相手のポケモンがランダムで3回選ばれ、選ばれたポケモン全員に、選ばれた回数×50ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 150,
+      "tags": [
+        "ランダム攻撃"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai119.png"
+    },
+    {
+      "id": "641",
+      "name": "へイラッシャ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 120,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "オーシャンサイクロン",
+          "damage": 80,
+          "effect": "相手のベンチポケモン全員にも10ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 110,
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai120.png"
+    },
+    {
+      "id": "642",
+      "name": "シャリタツ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 70,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "てったいしじ",
+      "abilityEffect": "このポケモンがいるかぎり、自分のバトル場の「ヘイラッシャ」のにげるためのエネルギーを、すべてなくす。",
+      "moves": [
+        {
+          "name": "みずかけ",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [
+        "逃げエネ減少"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai121.png"
+    },
+    {
+      "id": "643",
+      "name": "ピカチュウ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 120,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "10まんボルト",
+          "damage": 150,
+          "effect": "このポケモンからエネルギーをすべてトラッシュ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 150,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai122.png"
+    },
+    {
+      "id": "644",
+      "name": "ビリリダマ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 70,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "びっかりダマ",
+          "damage": 10,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 10,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai123.png"
+    },
+    {
+      "id": "645",
+      "name": "マルマイン",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "シャイニングハイ",
+      "hp": 90,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ローリングアタック",
+          "damage": 50,
+          "effect": "コインを1回投げオモテなら、30ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai124.png"
+    },
+    {
+      "id": "646",
+      "name": "パチリス",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 70,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "プラズマ",
+          "damage": 10,
+          "effect": "自分のエネルギーゾーンから雷エネルギーを1個出し、ベンチの雷ポケモンにつける。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 10,
+      "tags": [
+        "エネルギー加速"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai125.png"
+    },
+    {
+      "id": "647",
+      "name": "パモ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 60,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "パンチ",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai126.png"
+    },
+    {
+      "id": "648",
+      "name": "パモット",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "シャイニングハイ",
+      "hp": 90,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "パンチ",
+          "damage": 40,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai127.png"
+    },
+    {
+      "id": "649",
+      "name": "パーモット",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "シャイニングハイ",
+      "hp": 140,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 0,
+      "abilityName": "はんげき",
+      "abilityEffect": "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンに20ダメージ。",
+      "moves": [
+        {
+          "name": "ビリリパンチ",
+          "damage": 70,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 70,
+      "tags": [
+        "ダメージ反撃"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai128.png"
+    },
+    {
+      "id": "650",
+      "name": "ケーシィ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 60,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "サイコショット",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai129.png"
+    },
+    {
+      "id": "651",
+      "name": "ユンゲラー",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "シャイニングハイ",
+      "hp": 80,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "サイコショット",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai130.png"
+    },
+    {
+      "id": "652",
+      "name": "フーディン",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "シャイニングハイ",
+      "hp": 130,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "サイコサプレッション",
+          "damage": 80,
+          "effect": "エネルギーがついている相手のベンチポケモン全員にも20ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 140,
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai131.png"
+    },
+    {
+      "id": "653",
+      "name": "バリヤード",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 90,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ジャグリング",
+          "damage": 20,
+          "effect": "コインを4回投げ、オモテの数×20ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 80,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai132.png"
+    },
+    {
+      "id": "654",
+      "name": "フワンテ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 60,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ぶつかる",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai133.png"
+    },
+    {
+      "id": "655",
+      "name": "フワライド",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "シャイニングハイ",
+      "hp": 90,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "かぜおこし",
+          "damage": 40,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 40,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai134.png"
+    },
+    {
+      "id": "656",
+      "name": "ギラティナEX",
+      "cardType": "EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 150,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 2,
+      "abilityName": "はくうのさけび",
+      "abilityEffect": "自分の番に1回使えて、使ったなら、番は終わる。自分のエネルギーゾーンから超エネルギーを1個出し、このポケモンにつける。",
+      "moves": [
+        {
+          "name": "カオスインパクト",
+          "damage": 130,
+          "effect": "このポケモンにも20ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 130,
+      "tags": [
+        "エネルギー加速"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai135.png"
+    },
+    {
+      "id": "657",
+      "name": "コレクレー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 60,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "はこにかくれる",
+          "damage": 0,
+          "effect": "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "コイン",
+        " ダメージ無効化",
+        " ワザ効果無効化"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai136.png"
+    },
+    {
+      "id": "658",
+      "name": "ワンリキー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 60,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "けたぐり",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai137.png"
+    },
+    {
+      "id": "659",
+      "name": "ゴーリキー",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "シャイニングハイ",
+      "hp": 100,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ぶんなぐる",
+          "damage": 30,
+          "effect": "コインを1回投げオモテなら、30ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai138.png"
+    },
+    {
+      "id": "660",
+      "name": "カイリキー",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "シャイニングハイ",
+      "hp": 150,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "パワープレス",
+          "damage": 70,
+          "effect": "追加で闘エネルギーが2個ついているなら、50ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 120,
+      "tags": [
+        "自身のエネルギーの数に応じてダメージアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai139.png"
+    },
+    {
+      "id": "661",
+      "name": "サワムラー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 80,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "キック",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai140.png"
+    },
+    {
+      "id": "662",
+      "name": "エビワラー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 0,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 0,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai141.png"
+    },
+    {
+      "id": "663",
+      "name": "エビワラー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 90,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "マグナムパンチ",
+          "damage": 90,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 90,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai142.png"
+    },
+    {
+      "id": "664",
+      "name": "リオル",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 70,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "パンチ",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai143.png"
+    },
+    {
+      "id": "665",
+      "name": "ルカリオEX",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 0,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "はどうだん",
+          "damage": 100,
+          "effect": "相手のベンチポケモン1匹にも30ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 130,
+      "tags": [
+        "ベンチ狙撃"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai144.png"
+    },
+    {
+      "id": "666",
+      "name": "カラミンゴ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 80,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "にどけり",
+          "damage": 100,
+          "effect": "コインを2回投げ、オモテの数×50ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 100,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai145.png"
+    },
+    {
+      "id": "667",
+      "name": "アーボ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 70,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ぶつかる",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai146.png"
+    },
+    {
+      "id": "668",
+      "name": "アーボック",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "シャイニングハイ",
+      "hp": 110,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "どくのキバ",
+          "damage": 70,
+          "effect": "相手のバトルポケモンをどくにする。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 70,
+      "tags": [
+        "どく"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai147.png"
+    },
+    {
+      "id": "669",
+      "name": "パルデアウパー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 50,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "どくづき",
+          "damage": 10,
+          "effect": "相手のバトルポケモンをどくにする。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 10,
+      "tags": [
+        "どく"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai148.png"
+    },
+    {
+      "id": "670",
+      "name": "パルデアドオーEX",
+      "cardType": "EX",
+      "evolutionStage": "1進化",
+      "pack": "シャイニングハイ",
+      "hp": 160,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ベノムショック",
+          "damage": 60,
+          "effect": "相手のバトルポケモンがどくなら、60ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 120,
+      "tags": [
+        "ダメージアップ",
+        " 相手がどくならダメージアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai149.png"
+    },
+    {
+      "id": "671",
+      "name": "ミカルゲ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 80,
+      "type": "悪",
+      "weakness": "草",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "あやしいひかり",
+          "damage": 20,
+          "effect": "コインを1回投げオモテなら、相手のバトルポケモンをこんらんにする。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [
+        "こんらん",
+        " コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai150.png"
+    },
+    {
+      "id": "672",
+      "name": "シルシュルー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 60,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "かじる",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai151.png"
+    },
+    {
+      "id": "673",
+      "name": "タギングル",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "シャイニングハイ",
+      "hp": 90,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "どくぬり",
+      "abilityEffect": "自分の番に1回使える。コインを1回投げオモテなら、相手のバトルポケモンをどくにする。",
+      "moves": [
+        {
+          "name": "かみつく",
+          "damage": 40,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 40,
+      "tags": [
+        "どく",
+        " コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai152.png"
+    },
+    {
+      "id": "674",
+      "name": "カヌチャン",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 60,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "どつく",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai153.png"
+    },
+    {
+      "id": "675",
+      "name": "ナカヌチャン",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "シャイニングハイ",
+      "hp": 90,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "がんばりハンマー",
+          "damage": 30,
+          "effect": "コインを1回投げオモテなら、30ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 60,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai154.png"
+    },
+    {
+      "id": "676",
+      "name": "デカヌチャン",
+      "cardType": "EX",
+      "evolutionStage": "2進化",
+      "pack": "シャイニングハイ",
+      "hp": 170,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ごうかいスタンプ",
+          "damage": 80,
+          "effect": "コインを投げオモテなら、80ダメージ追加。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 160,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai155.png"
+    },
+    {
+      "id": "677",
+      "name": "ブロロン",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 70,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ずつき",
+          "damage": 10,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 10,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai156.png"
+    },
+    {
+      "id": "678",
+      "name": "ブロロローム",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "シャイニングハイ",
+      "hp": 110,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "スピンドリフト",
+          "damage": 70,
+          "effect": "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 70,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai157.png"
+    },
+    {
+      "id": "679",
+      "name": "サーフゴー",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "シャイニングハイ",
+      "hp": 120,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ゴージャスサーフ",
+          "damage": 50,
+          "effect": "このポケモンの鋼エネルギーの数ぶんコインを投げ、オモテの数×50ダメージ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 200,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai158.png"
+    },
+    {
+      "id": "680",
+      "name": "コラッタ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 50,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "たいあたり",
+          "damage": 10,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 10,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai159.png"
+    },
+    {
+      "id": "681",
+      "name": "ラッタ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "シャイニングハイ",
+      "hp": 90,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "たいあたり",
+          "damage": 50,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 50,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai160.png"
+    },
+    {
+      "id": "682",
+      "name": "プリン",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 60,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ころがる",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai161.png"
+    },
+    {
+      "id": "683",
+      "name": "プクリン",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "シャイニングハイ",
+      "hp": 100,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "abilityName": "やすらぎのうた",
+      "abilityEffect": "自分の番に1回使える。自分のバトルポケモンのHPを20回復。",
+      "moves": [
+        {
+          "name": "ひっぱたく",
+          "damage": 50,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 50,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai162.png"
+    },
+    {
+      "id": "684",
+      "name": "ベロリンガ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 80,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ころがる",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai163.png"
+    },
+    {
+      "id": "685",
+      "name": "ベロベルト",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "シャイニングハイ",
+      "hp": 130,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ころがる",
+          "damage": 70,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 70,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai164.png"
+    },
+    {
+      "id": "686",
+      "name": "ビッパ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 70,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ずつき",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai165.png"
+    },
+    {
+      "id": "687",
+      "name": "ビーダルEX",
+      "cardType": "EX",
+      "evolutionStage": "1進化",
+      "pack": "シャイニングハイ",
+      "hp": 160,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "のびのびプレス",
+          "damage": 100,
+          "effect": "このポケモンのHPを30回復。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 100,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai166.png"
+    },
+    {
+      "id": "689",
+      "name": "ミミロル",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 50,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "はたく",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 20,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai167.png"
+    },
+    {
+      "id": "690",
+      "name": "ミミロップ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "シャイニングハイ",
+      "hp": 100,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "ホッピングシュート",
+          "damage": 30,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 30,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai168.png"
+    },
+    {
+      "id": "691",
+      "name": "モトトカゲ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "シャイニングハイ",
+      "hp": 80,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "オーバーアクセル",
+          "damage": 20,
+          "effect": "",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 40,
+      "tags": [
+        "ダメージアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai169.png"
+    },
+    {
+      "id": "692",
+      "name": "ナンジャモ",
+      "cardType": "サポート",
+      "evolutionStage": "",
+      "pack": "シャイニングハイ",
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "おたがいのプレイヤーは、それぞれ手札をすべて山札にもどす。その後、それぞれもどした枚数ぶん、山札を引く。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "手札入れ替え"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai170.png"
+    },
+    {
+      "id": "693",
+      "name": "ポケモンセンターのお姉さん",
+      "cardType": "サポート",
+      "evolutionStage": "",
+      "pack": "シャイニングハイ",
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "自分のポケモン1匹のHPを30回復し、特殊状態もすべて回復。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "回復"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai171.png"
+    },
+    {
+      "id": "694",
+      "name": "レッド",
+      "cardType": "サポート",
+      "evolutionStage": "",
+      "pack": "シャイニングハイ",
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 0,
+      "tags": [
+        "ダメージアップ",
+        " 相手がEXならダメージアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai172.png"
+    },
+    {
+      "id": "695",
+      "name": "ロケット団のしたっぱ",
+      "cardType": "サポート",
+      "evolutionStage": "",
+      "pack": "シャイニングハイ",
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "ウラが出るまでコインを投げ、オモテの数ぶん、相手の相手のバトルからエネルギーをランダムにトラッシュ。",
+          "cost": {}
+        }
+      ],
+      "maxDamage": 0,
+      "tags": [
+        "コイン",
+        " 敵エネルギートラッシュ"
+      ],
+      "imageKey": ""
     }
   ]
 }
