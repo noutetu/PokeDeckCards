@@ -20,7 +20,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi1.png"
     },
@@ -44,7 +44,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi2.png"
     },
@@ -68,7 +68,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [
         "回復"
       ],
@@ -99,7 +99,7 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [
         "回復"
       ],
@@ -125,7 +125,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "サーチ"
       ],
@@ -151,7 +151,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi6.png"
     },
@@ -175,7 +175,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "回復"
       ],
@@ -201,7 +201,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi8.png"
     },
@@ -225,7 +225,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi9.png"
     },
@@ -249,7 +249,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi10.png"
     },
@@ -273,7 +273,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi11.png"
     },
@@ -297,7 +297,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi12.png"
     },
@@ -321,7 +321,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "ねむり"
       ],
@@ -347,7 +347,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi14.png"
     },
@@ -371,7 +371,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi15.png"
     },
@@ -395,7 +395,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi16.png"
     },
@@ -419,7 +419,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "どく"
       ],
@@ -445,7 +445,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi18.png"
     },
@@ -469,7 +469,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi19.png"
     },
@@ -493,7 +493,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "敵ポケ入れ替え"
       ],
@@ -519,7 +519,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi21.png"
     },
@@ -543,7 +543,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン"
       ],
@@ -569,7 +569,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン"
       ],
@@ -595,7 +595,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "回復"
       ],
@@ -621,7 +621,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi25.png"
     },
@@ -645,7 +645,7 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "コイン"
       ],
@@ -671,7 +671,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi27.png"
     },
@@ -695,7 +695,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi28.png"
     },
@@ -719,7 +719,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "回復"
       ],
@@ -745,7 +745,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "エネルギー加速"
       ],
@@ -771,7 +771,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン"
       ],
@@ -797,7 +797,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi32.png"
     },
@@ -821,7 +821,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi33.png"
     },
@@ -845,7 +845,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi34.png"
     },
@@ -869,7 +869,7 @@
         }
       ],
       "maxDamage": 150,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi35.png"
     },
@@ -898,7 +898,7 @@
         }
       ],
       "maxDamage": 200,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi36.png"
     },
@@ -922,7 +922,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン"
       ],
@@ -948,7 +948,7 @@
         }
       ],
       "maxDamage": 90,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi38.png"
     },
@@ -972,7 +972,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi39.png"
     },
@@ -996,7 +996,7 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi40.png"
     },
@@ -1020,7 +1020,7 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi41.png"
     },
@@ -1044,7 +1044,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi42.png"
     },
@@ -1068,7 +1068,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi43.png"
     },
@@ -1092,7 +1092,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi44.png"
     },
@@ -1116,7 +1116,7 @@
         }
       ],
       "maxDamage": 110,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi45.png"
     },
@@ -1140,7 +1140,7 @@
         }
       ],
       "maxDamage": 130,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "コイン"
       ],
@@ -1171,7 +1171,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "エネルギー加速",
         " コイン"
@@ -1198,7 +1198,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi48.png"
     },
@@ -1222,7 +1222,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi49.png"
     },
@@ -1246,7 +1246,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi50.png"
     },
@@ -1270,7 +1270,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi51.png"
     },
@@ -1294,7 +1294,7 @@
         }
       ],
       "maxDamage": 130,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi52.png"
     },
@@ -1318,7 +1318,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi53.png"
     },
@@ -1342,7 +1342,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi54.png"
     },
@@ -1366,9 +1366,9 @@
         }
       ],
       "maxDamage": 140,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "自身のエネルギーの数に応じてダメージアップ"
+        "自エネの数でダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi55.png"
     },
@@ -1397,9 +1397,9 @@
         }
       ],
       "maxDamage": 160,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "自身のエネルギーの数に応じてダメージアップ"
+        "自エネの数でダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi56.png"
     },
@@ -1423,7 +1423,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "サポート封じ"
       ],
@@ -1449,7 +1449,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi58.png"
     },
@@ -1473,7 +1473,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi59.png"
     },
@@ -1497,7 +1497,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi60.png"
     },
@@ -1521,9 +1521,9 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "ダメージ反撃"
+        "さめはだ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi61.png"
     },
@@ -1547,7 +1547,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi62.png"
     },
@@ -1571,7 +1571,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "どく"
       ],
@@ -1597,7 +1597,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi64.png"
     },
@@ -1621,7 +1621,7 @@
         }
       ],
       "maxDamage": 90,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi65.png"
     },
@@ -1645,7 +1645,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi66.png"
     },
@@ -1669,9 +1669,9 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "ダメージ減少"
+        "ダメージ軽減"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi67.png"
     },
@@ -1695,7 +1695,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi68.png"
     },
@@ -1719,7 +1719,7 @@
         }
       ],
       "maxDamage": 160,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "コイン"
       ],
@@ -1745,7 +1745,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi70.png"
     },
@@ -1769,9 +1769,9 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi71.png"
     },
@@ -1795,7 +1795,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi72.png"
     },
@@ -1819,7 +1819,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン"
       ],
@@ -1845,7 +1845,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi74.png"
     },
@@ -1869,7 +1869,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi75.png"
     },
@@ -1893,7 +1893,7 @@
         }
       ],
       "maxDamage": 90,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi76.png"
     },
@@ -1917,7 +1917,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi77.png"
     },
@@ -1941,7 +1941,7 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [
         "敵エネルギートラッシュ"
       ],
@@ -1967,9 +1967,9 @@
         }
       ],
       "maxDamage": 90,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
-        "自身のエネルギーの数に応じてダメージアップ"
+        "自エネの数でダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi79.png"
     },
@@ -1993,7 +1993,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "回復"
       ],
@@ -2019,7 +2019,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi81.png"
     },
@@ -2043,7 +2043,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "ワザ封じ"
       ],
@@ -2069,7 +2069,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "まひ",
         " コイン"
@@ -2101,9 +2101,9 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi84.png"
     },
@@ -2127,7 +2127,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi85.png"
     },
@@ -2151,7 +2151,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi86.png"
     },
@@ -2175,7 +2175,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi87.png"
     },
@@ -2199,7 +2199,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi88.png"
     },
@@ -2223,9 +2223,9 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi89.png"
     },
@@ -2249,7 +2249,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi90.png"
     },
@@ -2273,9 +2273,9 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
-        "相手がダメージを受けているならダメージアップ"
+        "敵が被弾しているならダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi91.png"
     },
@@ -2299,7 +2299,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi92.png"
     },
@@ -2323,7 +2323,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "ねむり"
       ],
@@ -2349,7 +2349,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi94.png"
     },
@@ -2373,7 +2373,7 @@
         }
       ],
       "maxDamage": 140,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi95.png"
     },
@@ -2397,9 +2397,9 @@
         }
       ],
       "maxDamage": 90,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
-        "自分のベンチの数だけダメアップ"
+        "自ベンチの数だけダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi96.png"
     },
@@ -2423,7 +2423,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi97.png"
     },
@@ -2447,7 +2447,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [
         "エネルギー加速"
       ],
@@ -2473,7 +2473,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi99.png"
     },
@@ -2497,7 +2497,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi100.png"
     },
@@ -2521,7 +2521,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "コイン"
       ],
@@ -2547,7 +2547,7 @@
         }
       ],
       "maxDamage": 160,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "コイン"
       ],
@@ -2573,7 +2573,7 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi103.png"
     },
@@ -2602,7 +2602,7 @@
         }
       ],
       "maxDamage": 200,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "コイン"
       ],
@@ -2628,7 +2628,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi105.png"
     },
@@ -2652,9 +2652,9 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi106.png"
     },
@@ -2678,7 +2678,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi107.png"
     },
@@ -2702,7 +2702,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi108.png"
     },
@@ -2726,7 +2726,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "まひ",
         " コイン"
@@ -2753,7 +2753,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi110.png"
     },
@@ -2777,7 +2777,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "コイン"
       ],
@@ -2803,7 +2803,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "まひ",
         " コイン"
@@ -2830,7 +2830,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi113.png"
     },
@@ -2854,7 +2854,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi114.png"
     },
@@ -2878,7 +2878,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "ベンチに逃げる"
       ],
@@ -2904,7 +2904,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi116.png"
     },
@@ -2928,9 +2928,9 @@
         }
       ],
       "maxDamage": 210,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "相手エネルギーの数だけダメージアップ"
+        "敵エネの数でダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi117.png"
     },
@@ -2954,7 +2954,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi118.png"
     },
@@ -2978,7 +2978,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi119.png"
     },
@@ -3002,7 +3002,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi120.png"
     },
@@ -3026,7 +3026,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi121.png"
     },
@@ -3050,7 +3050,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "サポート封じ"
       ],
@@ -3076,7 +3076,7 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "サポート封じ"
       ],
@@ -3102,7 +3102,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi124.png"
     },
@@ -3126,7 +3126,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "ねむり",
         " コイン"
@@ -3153,9 +3153,9 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
-        "ダメージ減少"
+        "ダメージ軽減"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi126.png"
     },
@@ -3179,9 +3179,9 @@
         }
       ],
       "maxDamage": 130,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
-        "相手エネルギーの数だけダメージアップ"
+        "敵エネの数でダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi127.png"
     },
@@ -3205,7 +3205,7 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi128.png"
     },
@@ -3234,7 +3234,7 @@
         }
       ],
       "maxDamage": 150,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi129.png"
     },
@@ -3258,7 +3258,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi130.png"
     },
@@ -3282,7 +3282,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi131.png"
     },
@@ -3306,7 +3306,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "エネルギー加速"
       ],
@@ -3332,7 +3332,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi133.png"
     },
@@ -3356,7 +3356,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi134.png"
     },
@@ -3380,7 +3380,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi135.png"
     },
@@ -3404,7 +3404,7 @@
         }
       ],
       "maxDamage": 200,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [
         "コイン"
       ],
@@ -3430,7 +3430,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi137.png"
     },
@@ -3454,7 +3454,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi138.png"
     },
@@ -3478,7 +3478,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi139.png"
     },
@@ -3502,11 +3502,11 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン",
-        " ダメージ減少",
-        " ダメージ無効化"
+        " ダメージ無効化",
+        " ダメージ軽減"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi140.png"
     },
@@ -3530,7 +3530,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi141.png"
     },
@@ -3554,7 +3554,7 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "リベンジ"
       ],
@@ -3580,7 +3580,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi143.png"
     },
@@ -3604,7 +3604,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi144.png"
     },
@@ -3628,7 +3628,7 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi145.png"
     },
@@ -3652,7 +3652,7 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi146.png"
     },
@@ -3676,7 +3676,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi147.png"
     },
@@ -3700,7 +3700,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi148.png"
     },
@@ -3724,7 +3724,7 @@
         }
       ],
       "maxDamage": 150,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi149.png"
     },
@@ -3748,7 +3748,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi150.png"
     },
@@ -3772,9 +3772,9 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
-        "ダメージ減少"
+        "ダメージ軽減"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi151.png"
     },
@@ -3798,7 +3798,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi152.png"
     },
@@ -3822,7 +3822,7 @@
         }
       ],
       "maxDamage": 160,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "コイン"
       ],
@@ -3848,9 +3848,9 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi154.png"
     },
@@ -3874,7 +3874,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi155.png"
     },
@@ -3898,7 +3898,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi156.png"
     },
@@ -3922,7 +3922,7 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi157.png"
     },
@@ -3946,7 +3946,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi158.png"
     },
@@ -3970,7 +3970,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "回復"
       ],
@@ -3996,7 +3996,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi160.png"
     },
@@ -4020,7 +4020,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi161.png"
     },
@@ -4044,7 +4044,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi162.png"
     },
@@ -4068,7 +4068,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "敵ポケ入れ替え"
       ],
@@ -4094,7 +4094,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi164.png"
     },
@@ -4118,7 +4118,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "かげふみ"
       ],
@@ -4144,7 +4144,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "サーチ"
       ],
@@ -4170,7 +4170,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi167.png"
     },
@@ -4194,7 +4194,7 @@
         }
       ],
       "maxDamage": 180,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi168.png"
     },
@@ -4218,7 +4218,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi169.png"
     },
@@ -4242,7 +4242,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi170.png"
     },
@@ -4266,7 +4266,7 @@
         }
       ],
       "maxDamage": 90,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "どく"
       ],
@@ -4292,7 +4292,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi172.png"
     },
@@ -4316,7 +4316,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi173.png"
     },
@@ -4340,7 +4340,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "どく"
       ],
@@ -4366,9 +4366,9 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "相手がどくならダメージアップ"
+        "敵が毒ならダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi175.png"
     },
@@ -4392,7 +4392,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi176.png"
     },
@@ -4416,7 +4416,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "どく"
       ],
@@ -4442,7 +4442,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン",
         " 敵エネルギートラッシュ"
@@ -4469,7 +4469,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi179.png"
     },
@@ -4493,7 +4493,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi180.png"
     },
@@ -4517,7 +4517,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "エネルギー加速"
       ],
@@ -4543,9 +4543,9 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [
-        "ダメージ減少"
+        "ダメージ軽減"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi182.png"
     },
@@ -4569,7 +4569,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi183.png"
     },
@@ -4593,7 +4593,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi184.png"
     },
@@ -4617,7 +4617,7 @@
         }
       ],
       "maxDamage": 200,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [
         "ランダム攻撃"
       ],
@@ -4643,7 +4643,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi186.png"
     },
@@ -4667,7 +4667,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi187.png"
     },
@@ -4691,7 +4691,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "敵ポケ入れ替え"
       ],
@@ -4717,13 +4717,13 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi189.png"
     },
     {
       "id": "190",
-      "name": "コラッタ",
+      "name": "ラッタ",
       "cardType": "非EX",
       "evolutionStage": "1進化",
       "pack": "最強の遺伝子",
@@ -4741,7 +4741,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi190.png"
     },
@@ -4765,7 +4765,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi191.png"
     },
@@ -4789,7 +4789,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "敵エネルギートラッシュ"
       ],
@@ -4815,7 +4815,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi193.png"
     },
@@ -4839,7 +4839,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi194.png"
     },
@@ -4863,7 +4863,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "ねむり"
       ],
@@ -4889,7 +4889,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "ドロー"
       ],
@@ -4915,7 +4915,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "コイン",
         " 相手手札干渉"
@@ -4942,7 +4942,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi198.png"
     },
@@ -4966,7 +4966,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi199.png"
     },
@@ -4990,7 +4990,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi200.png"
     },
@@ -5014,7 +5014,7 @@
         }
       ],
       "maxDamage": 300,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "コイン"
       ],
@@ -5040,7 +5040,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi202.png"
     },
@@ -5064,7 +5064,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン"
       ],
@@ -5090,7 +5090,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi204.png"
     },
@@ -5114,7 +5114,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "技コピー"
       ],
@@ -5140,7 +5140,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi206.png"
     },
@@ -5164,7 +5164,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "山札チェック"
       ],
@@ -5190,7 +5190,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "敵のバトルポケモン除去"
       ],
@@ -5216,7 +5216,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi209.png"
     },
@@ -5240,7 +5240,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi210.png"
     },
@@ -5264,9 +5264,9 @@
         }
       ],
       "maxDamage": 90,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "自分のベンチの数だけダメアップ"
+        "自ベンチの数だけダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi211.png"
     },
@@ -5290,7 +5290,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi212.png"
     },
@@ -5314,7 +5314,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi213.png"
     },
@@ -5338,7 +5338,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi214.png"
     },
@@ -5362,7 +5362,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi215.png"
     },
@@ -5386,7 +5386,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi216.png"
     },
@@ -5410,7 +5410,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "回復"
       ],
@@ -5436,7 +5436,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "エネルギー加速"
       ],
@@ -5462,7 +5462,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "ダメージアップ"
       ],
@@ -5488,7 +5488,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "味方を手札に戻す"
       ],
@@ -5514,7 +5514,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "ダメージアップ"
       ],
@@ -5540,7 +5540,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "エネルギー加速"
       ],
@@ -5566,7 +5566,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "敵ポケ入れ替え"
       ],
@@ -5592,7 +5592,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "エネルギー付け替え"
       ],
@@ -5618,7 +5618,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "回復"
       ],
@@ -5644,7 +5644,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "逃げエネ減少"
       ],
@@ -5670,7 +5670,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "相手手札干渉"
       ],
@@ -5696,7 +5696,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "山札チェック"
       ],
@@ -5722,7 +5722,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "サーチ"
       ],
@@ -5748,7 +5748,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "相手手札干渉"
       ],
@@ -5774,7 +5774,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "ドロー"
       ],
@@ -5800,7 +5800,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "回復"
       ],
@@ -5826,7 +5826,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi233.png"
     },
@@ -5850,7 +5850,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "エネルギー加速"
       ],
@@ -5876,9 +5876,9 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [
-        "相手エネルギーの数だけダメージアップ"
+        "敵エネの数でダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima2.png"
     },
@@ -5902,10 +5902,10 @@
         }
       ],
       "maxDamage": 200,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "コイン",
-        " 自身のエネルギーの数に応じてダメージアップ"
+        " 自エネの数でダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima3.png"
     },
@@ -5929,7 +5929,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima4.png"
     },
@@ -5953,7 +5953,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima5.png"
     },
@@ -5977,7 +5977,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "エネルギー加速"
       ],
@@ -6003,7 +6003,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima7.png"
     },
@@ -6027,7 +6027,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "ねむり"
       ],
@@ -6053,9 +6053,9 @@
         }
       ],
       "maxDamage": 90,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
-        "自身のエネルギーの数に応じてダメージアップ"
+        "自エネの数でダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima9.png"
     },
@@ -6079,7 +6079,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン"
       ],
@@ -6105,7 +6105,7 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "コイン"
       ],
@@ -6131,7 +6131,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima12.png"
     },
@@ -6155,7 +6155,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima13.png"
     },
@@ -6179,9 +6179,9 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima14.png"
     },
@@ -6205,9 +6205,9 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
-        "相手がどくならダメージアップ"
+        "敵が毒ならダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima15.png"
     },
@@ -6231,7 +6231,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "どく"
       ],
@@ -6257,7 +6257,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "ベンチに逃げる"
       ],
@@ -6283,7 +6283,7 @@
         }
       ],
       "maxDamage": 140,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [
         "敵エネルギートラッシュ"
       ],
@@ -6309,7 +6309,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "エネルギー付け替え"
       ],
@@ -6335,7 +6335,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima20.png"
     },
@@ -6359,9 +6359,9 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima21.png"
     },
@@ -6385,7 +6385,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima22.png"
     },
@@ -6409,7 +6409,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "コイン",
         " 敵エネルギートラッシュ"
@@ -6436,7 +6436,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "コイン",
         " ダメージ無効化"
@@ -6463,9 +6463,9 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
-        "自分のベンチの数だけダメアップ"
+        "自ベンチの数だけダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima25.png"
     },
@@ -6489,9 +6489,9 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima26.png"
     },
@@ -6515,9 +6515,9 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima27.png"
     },
@@ -6541,7 +6541,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima28.png"
     },
@@ -6565,7 +6565,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "かげふみ"
       ],
@@ -6591,7 +6591,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "まひ"
       ],
@@ -6617,7 +6617,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "相手手札干渉"
       ],
@@ -6648,7 +6648,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "技コピー"
       ],
@@ -6674,7 +6674,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "ドロー"
       ],
@@ -6700,7 +6700,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima34.png"
     },
@@ -6724,9 +6724,9 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
-        "相手のベンチの数だけダメアップ"
+        "敵ベンチの数だけダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima35.png"
     },
@@ -6750,7 +6750,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "ねむり"
       ],
@@ -6776,7 +6776,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "回復"
       ],
@@ -6802,7 +6802,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "回復"
       ],
@@ -6828,7 +6828,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima39.png"
     },
@@ -6852,7 +6852,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima40.png"
     },
@@ -6876,7 +6876,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン"
       ],
@@ -6902,7 +6902,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima42.png"
     },
@@ -6926,7 +6926,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima43.png"
     },
@@ -6950,7 +6950,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima44.png"
     },
@@ -6974,9 +6974,9 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [
-        "ダメージ減少"
+        "ダメージ軽減"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima45.png"
     },
@@ -7000,7 +7000,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "進化妨害"
       ],
@@ -7026,7 +7026,7 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "リベンジ"
       ],
@@ -7052,7 +7052,7 @@
         }
       ],
       "maxDamage": 90,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima48.png"
     },
@@ -7076,7 +7076,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "サーチ"
       ],
@@ -7102,7 +7102,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima51.png"
     },
@@ -7126,7 +7126,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン",
         " ワザ封じ"
@@ -7153,7 +7153,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima52.png"
     },
@@ -7177,7 +7177,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima53.png"
     },
@@ -7201,7 +7201,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "どく"
       ],
@@ -7227,9 +7227,9 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
-        "相手がどくならダメージアップ"
+        "敵が毒ならダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima55.png"
     },
@@ -7253,9 +7253,9 @@
         }
       ],
       "maxDamage": 90,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "ダメージ反撃"
+        "さめはだ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima56.png"
     },
@@ -7279,7 +7279,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima57.png"
     },
@@ -7303,7 +7303,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima58.png"
     },
@@ -7327,9 +7327,9 @@
         }
       ],
       "maxDamage": 140,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "相手のベンチの数だけダメアップ"
+        "敵ベンチの数だけダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima59.png"
     },
@@ -7353,9 +7353,9 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "相手がEXならダメージアップ"
+        "敵がEXならダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima60.png"
     },
@@ -7379,7 +7379,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン"
       ],
@@ -7405,7 +7405,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "手札入れ替え"
       ],
@@ -7431,9 +7431,9 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima63.png"
     },
@@ -7457,7 +7457,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "サーチ",
         " ドロー"
@@ -7484,7 +7484,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "味方を手札に戻す"
       ],
@@ -7510,9 +7510,9 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
-        "ダメージ減少"
+        "ダメージ軽減"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/maborosinoirusima66.png"
     },
@@ -7536,7 +7536,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "逃げエネ減少"
       ],
@@ -7562,7 +7562,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "回復"
       ],
@@ -7588,7 +7588,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou2.png"
     },
@@ -7612,7 +7612,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou3.png"
     },
@@ -7636,7 +7636,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou4.png"
     },
@@ -7660,7 +7660,7 @@
         }
       ],
       "maxDamage": 90,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [
         "回復"
       ],
@@ -7686,7 +7686,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou6.png"
     },
@@ -7710,7 +7710,7 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou7.jpg"
     },
@@ -7734,7 +7734,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou8.png"
     },
@@ -7758,7 +7758,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "どく"
       ],
@@ -7784,7 +7784,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou10.png"
     },
@@ -7808,7 +7808,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou11.png"
     },
@@ -7832,7 +7832,7 @@
         }
       ],
       "maxDamage": 150,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou12.png"
     },
@@ -7856,7 +7856,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou13.png"
     },
@@ -7880,7 +7880,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "こんらん"
       ],
@@ -7906,7 +7906,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou15.png"
     },
@@ -7930,7 +7930,7 @@
         }
       ],
       "maxDamage": 90,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "コイン"
       ],
@@ -7956,7 +7956,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "サーチ"
       ],
@@ -7982,7 +7982,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou18.png"
     },
@@ -8006,7 +8006,7 @@
         }
       ],
       "maxDamage": 90,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "コイン"
       ],
@@ -8032,7 +8032,7 @@
         }
       ],
       "maxDamage": 90,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou20.png"
     },
@@ -8056,7 +8056,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "コイン",
         " 敵エネルギートラッシュ"
@@ -8083,7 +8083,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "回復"
       ],
@@ -8109,7 +8109,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "エネルギー加速"
       ],
@@ -8135,7 +8135,7 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [
         "やけど"
       ],
@@ -8161,7 +8161,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou25.png"
     },
@@ -8185,7 +8185,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "やけど"
       ],
@@ -8211,7 +8211,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou27.png"
     },
@@ -8235,7 +8235,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou28.png"
     },
@@ -8259,7 +8259,7 @@
         }
       ],
       "maxDamage": 140,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou29.jpg"
     },
@@ -8283,7 +8283,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "コイン"
       ],
@@ -8309,7 +8309,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou31.png"
     },
@@ -8333,9 +8333,9 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "ダメージ減少"
+        "ダメージ軽減"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou32.png"
     },
@@ -8359,9 +8359,9 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [
-        "ダメージ減少"
+        "ダメージ軽減"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou33.png"
     },
@@ -8385,7 +8385,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "ワザ効果無効化"
       ],
@@ -8411,7 +8411,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "回復"
       ],
@@ -8437,7 +8437,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou36.png"
     },
@@ -8461,9 +8461,9 @@
         }
       ],
       "maxDamage": 110,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou37.png"
     },
@@ -8487,7 +8487,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou38.png"
     },
@@ -8511,7 +8511,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン",
         " ダメージアップ"
@@ -8538,7 +8538,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou40.png"
     },
@@ -8562,9 +8562,9 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou41.png"
     },
@@ -8588,7 +8588,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "ダメージ無効化",
         " ワザ効果無効化"
@@ -8615,7 +8615,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou43.jpg"
     },
@@ -8639,7 +8639,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "ダメージアップ"
       ],
@@ -8665,7 +8665,7 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou45.png"
     },
@@ -8689,7 +8689,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "まひ",
         " コイン"
@@ -8716,7 +8716,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou47.png"
     },
@@ -8740,9 +8740,9 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou48.png"
     },
@@ -8771,9 +8771,9 @@
         }
       ],
       "maxDamage": 210,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou49.jpg"
     },
@@ -8797,7 +8797,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "エネルギー加速"
       ],
@@ -8823,7 +8823,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou51.png"
     },
@@ -8847,7 +8847,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou52.png"
     },
@@ -8871,7 +8871,7 @@
         }
       ],
       "maxDamage": 110,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou53.png"
     },
@@ -8895,7 +8895,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou54.png"
     },
@@ -8919,7 +8919,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou55.png"
     },
@@ -8943,7 +8943,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "エネルギー加速"
       ],
@@ -8969,9 +8969,9 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
-        "自身のエネルギーの数に応じてダメージアップ"
+        "自エネの数でダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou57.png"
     },
@@ -8995,7 +8995,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "ダメージ無効化",
         " ワザ効果無効化"
@@ -9022,7 +9022,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou59.png"
     },
@@ -9046,9 +9046,9 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou60.png"
     },
@@ -9072,9 +9072,9 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
-        "自分にポケモンの道具がついてるならダメアップ"
+        "自分が道具装備でダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou61.png"
     },
@@ -9098,9 +9098,9 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
-        "相手にポケモンの道具がついているならダメアップ"
+        "相手が道具装備でダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou62.png"
     },
@@ -9124,7 +9124,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou63.png"
     },
@@ -9148,7 +9148,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou64.png"
     },
@@ -9172,7 +9172,7 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "ダメージアップ"
       ],
@@ -9198,7 +9198,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou66.png"
     },
@@ -9222,7 +9222,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "こんらん"
       ],
@@ -9248,7 +9248,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "ベンチに逃げる"
       ],
@@ -9274,7 +9274,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou69.png"
     },
@@ -9298,7 +9298,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou70.png"
     },
@@ -9322,7 +9322,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou71.png"
     },
@@ -9346,7 +9346,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "ダメージ付け替え"
       ],
@@ -9372,9 +9372,9 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
-        "ダメージ減少"
+        "ダメージ軽減"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou73.png"
     },
@@ -9398,7 +9398,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou74.png"
     },
@@ -9422,7 +9422,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "エネルギー加速"
       ],
@@ -9448,7 +9448,7 @@
         }
       ],
       "maxDamage": 160,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou76.jpg"
     },
@@ -9472,9 +9472,9 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou77.png"
     },
@@ -9498,7 +9498,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "逃げエネ減少"
       ],
@@ -9524,7 +9524,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "回復"
       ],
@@ -9550,7 +9550,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou80.png"
     },
@@ -9574,7 +9574,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou81.png"
     },
@@ -9598,7 +9598,7 @@
         }
       ],
       "maxDamage": 150,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou82.jpg"
     },
@@ -9622,7 +9622,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou83.png"
     },
@@ -9646,7 +9646,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン",
         " ダメージアップ"
@@ -9673,7 +9673,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou85.png"
     },
@@ -9697,7 +9697,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou86.png"
     },
@@ -9721,9 +9721,9 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [
-        "ダメージ減少"
+        "ダメージ軽減"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou87.jpg"
     },
@@ -9747,7 +9747,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou88.png"
     },
@@ -9771,7 +9771,7 @@
         }
       ],
       "maxDamage": 130,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou89.png"
     },
@@ -9795,7 +9795,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou90.png"
     },
@@ -9819,7 +9819,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou91.png"
     },
@@ -9843,7 +9843,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "ダメージアップ"
       ],
@@ -9869,7 +9869,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou93.png"
     },
@@ -9893,7 +9893,7 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou94.png"
     },
@@ -9917,9 +9917,9 @@
         }
       ],
       "maxDamage": 150,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
-        "相手エネルギーの数だけダメージアップ"
+        "敵エネの数でダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou95.jpg"
     },
@@ -9943,7 +9943,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou96.jpg"
     },
@@ -9967,9 +9967,9 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou97.png"
     },
@@ -9993,7 +9993,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン"
       ],
@@ -10019,9 +10019,9 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
-        "相手がダメージを受けているならダメージアップ"
+        "敵が被弾しているならダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou99.jpg"
     },
@@ -10045,7 +10045,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou100.png"
     },
@@ -10069,7 +10069,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou101.png"
     },
@@ -10093,7 +10093,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou102.png"
     },
@@ -10117,7 +10117,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "どく"
       ],
@@ -10143,9 +10143,9 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou104.png"
     },
@@ -10169,7 +10169,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou105.png"
     },
@@ -10193,7 +10193,7 @@
         }
       ],
       "maxDamage": 160,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [
         "どく",
         " コイン"
@@ -10220,10 +10220,10 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "コイン",
-        " 自分のベンチの数だけダメアップ"
+        " 自ベンチの数だけダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou107.png"
     },
@@ -10247,10 +10247,10 @@
         }
       ],
       "maxDamage": 160,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "コイン",
-        " 自分のベンチの数だけダメアップ"
+        " 自ベンチの数だけダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou108.png"
     },
@@ -10274,7 +10274,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "ねむり"
       ],
@@ -10300,10 +10300,10 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "ダメージアップ",
-        " ベンチ狙撃"
+        " ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou110.jpg"
     },
@@ -10327,9 +10327,9 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
-        "自分にポケモンの道具がついてるならダメアップ"
+        "自分が道具装備でダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou111.png"
     },
@@ -10353,7 +10353,7 @@
         }
       ],
       "maxDamage": 90,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou112.png"
     },
@@ -10377,7 +10377,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou113.png"
     },
@@ -10401,10 +10401,10 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "コイン",
-        " ダメージ減少"
+        " ダメージ軽減"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou114.png"
     },
@@ -10428,7 +10428,7 @@
         }
       ],
       "maxDamage": 170,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "コイン"
       ],
@@ -10454,7 +10454,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou116.png"
     },
@@ -10478,9 +10478,9 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "ダメージ減少"
+        "ダメージ軽減"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou117.png"
     },
@@ -10504,7 +10504,7 @@
         }
       ],
       "maxDamage": 180,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [
         "コイン"
       ],
@@ -10535,7 +10535,7 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [
         "エネルギー加速"
       ],
@@ -10561,7 +10561,7 @@
         }
       ],
       "maxDamage": 110,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou120.png"
     },
@@ -10585,7 +10585,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou121.png"
     },
@@ -10609,7 +10609,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou122.png"
     },
@@ -10633,7 +10633,7 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "手札入れ替え"
       ],
@@ -10659,7 +10659,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou124.png"
     },
@@ -10683,7 +10683,7 @@
         }
       ],
       "maxDamage": 260,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [
         "コイン"
       ],
@@ -10709,7 +10709,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン"
       ],
@@ -10735,7 +10735,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou127.png"
     },
@@ -10759,7 +10759,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou128.png"
     },
@@ -10783,7 +10783,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "敵エネルギートラッシュ"
       ],
@@ -10809,7 +10809,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou130.png"
     },
@@ -10833,7 +10833,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン"
       ],
@@ -10859,9 +10859,9 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
-        "相手のポケモンの道具をトラッシュ。"
+        "敵の道具破壊"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou132.png"
     },
@@ -10885,7 +10885,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou133.png"
     },
@@ -10909,7 +10909,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "かげふみ"
       ],
@@ -10935,7 +10935,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "いかりのまえば"
       ],
@@ -10961,7 +10961,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou136.png"
     },
@@ -10985,7 +10985,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou137.png"
     },
@@ -11009,9 +11009,9 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou138.png"
     },
@@ -11035,7 +11035,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン"
       ],
@@ -11061,7 +11061,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "相手手札干渉"
       ],
@@ -11087,7 +11087,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン"
       ],
@@ -11113,7 +11113,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "敵のバトルポケモン除去"
       ],
@@ -11139,7 +11139,7 @@
         }
       ],
       "maxDamage": 180,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [
         "リベンジ"
       ],
@@ -11165,7 +11165,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou144.png"
     },
@@ -11189,7 +11189,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou145.png"
     },
@@ -11213,7 +11213,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "サーチ",
         " 手札入れ替え"
@@ -11240,7 +11240,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "HP増加"
       ],
@@ -11266,9 +11266,9 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
-        "ダメージ反撃"
+        "さめはだ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou148.png"
     },
@@ -11292,7 +11292,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "状態異常無効化"
       ],
@@ -11318,7 +11318,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "敵ポケ入れ替え"
       ],
@@ -11344,7 +11344,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "サーチ"
       ],
@@ -11370,7 +11370,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "ダメージアップ"
       ],
@@ -11396,7 +11396,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "エネルギー加速"
       ],
@@ -11422,7 +11422,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "エネルギー付け替え"
       ],
@@ -11448,7 +11448,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "相手手札干渉"
       ],
@@ -11474,7 +11474,7 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "コイン"
       ],
@@ -11500,7 +11500,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari2.png"
     },
@@ -11524,7 +11524,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari3.png"
     },
@@ -11548,7 +11548,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari4.png"
     },
@@ -11572,7 +11572,7 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari5.png"
     },
@@ -11596,7 +11596,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari6.png"
     },
@@ -11620,7 +11620,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "こんらん"
       ],
@@ -11646,7 +11646,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "回復"
       ],
@@ -11672,7 +11672,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari9.png"
     },
@@ -11696,7 +11696,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "エネルギー加速"
       ],
@@ -11722,7 +11722,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari11.png"
     },
@@ -11746,7 +11746,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "かげふみ"
       ],
@@ -11772,7 +11772,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "リベンジ",
         " 逃げエネ減少"
@@ -11799,7 +11799,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari14.png"
     },
@@ -11823,7 +11823,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari15.png"
     },
@@ -11847,7 +11847,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari16.png"
     },
@@ -11871,7 +11871,7 @@
         }
       ],
       "maxDamage": 140,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [
         "コイン"
       ],
@@ -11897,7 +11897,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari18.png"
     },
@@ -11921,9 +11921,9 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari19.png"
     },
@@ -11947,7 +11947,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari20.png"
     },
@@ -11971,7 +11971,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "ワザエネルギー減少"
       ],
@@ -11997,7 +11997,7 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "ダメージアップ"
       ],
@@ -12023,7 +12023,7 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "コイン"
       ],
@@ -12049,7 +12049,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "ねむり"
       ],
@@ -12075,9 +12075,9 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari25.png"
     },
@@ -12101,10 +12101,10 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
-        "ダメージ減少",
-        " ベンチ狙撃"
+        "ダメージ軽減",
+        " ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari26.png"
     },
@@ -12128,7 +12128,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari27.png"
     },
@@ -12152,7 +12152,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン",
         " ワザ封じ"
@@ -12179,7 +12179,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari29.png"
     },
@@ -12203,9 +12203,9 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "ダメージ減少"
+        "ダメージ軽減"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari30.png"
     },
@@ -12229,7 +12229,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "相手手札干渉"
       ],
@@ -12255,7 +12255,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari32.png"
     },
@@ -12279,7 +12279,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "ねむり"
       ],
@@ -12305,7 +12305,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "山札チェック"
       ],
@@ -12331,9 +12331,9 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
-        "ベンチ狙撃",
+        "ベンチに攻撃",
         " 逃げエネ減少"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari35.png"
@@ -12358,9 +12358,9 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
-        "相手がEXならダメージアップ"
+        "敵がEXならダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari36.png"
     },
@@ -12384,7 +12384,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari37.png"
     },
@@ -12408,7 +12408,7 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "ダメージアップ"
       ],
@@ -12434,7 +12434,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari39.png"
     },
@@ -12458,7 +12458,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari40.png"
     },
@@ -12482,7 +12482,7 @@
         }
       ],
       "maxDamage": 160,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [
         "ダメージアップ"
       ],
@@ -12508,7 +12508,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari42.png"
     },
@@ -12532,7 +12532,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari43.png"
     },
@@ -12556,7 +12556,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン"
       ],
@@ -12582,7 +12582,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari45.png"
     },
@@ -12606,7 +12606,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari46.png"
     },
@@ -12635,9 +12635,9 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari47.png"
     },
@@ -12661,7 +12661,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari48.png"
     },
@@ -12685,7 +12685,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari49.png"
     },
@@ -12709,7 +12709,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "ダメージアップ"
       ],
@@ -12735,7 +12735,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari51.png"
     },
@@ -12759,7 +12759,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "どく"
       ],
@@ -12785,7 +12785,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari53.png"
     },
@@ -12809,7 +12809,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari54.png"
     },
@@ -12833,9 +12833,9 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "ダメージ減少"
+        "ダメージ軽減"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari55.png"
     },
@@ -12859,7 +12859,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "ダメージアップ"
       ],
@@ -12885,9 +12885,9 @@
         }
       ],
       "maxDamage": 90,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "ダメージ減少"
+        "ダメージ軽減"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari57.png"
     },
@@ -12911,7 +12911,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari58.png"
     },
@@ -12935,9 +12935,9 @@
         }
       ],
       "maxDamage": 130,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "相手エネルギーの数だけダメージアップ"
+        "敵エネの数でダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari59.png"
     },
@@ -12961,7 +12961,7 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari60.png"
     },
@@ -12985,7 +12985,7 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari61.png"
     },
@@ -13009,7 +13009,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari62.png"
     },
@@ -13033,7 +13033,7 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari63.png"
     },
@@ -13057,7 +13057,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari64.png"
     },
@@ -13081,7 +13081,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "相手手札干渉"
       ],
@@ -13107,7 +13107,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari66.png"
     },
@@ -13131,7 +13131,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari67.png"
     },
@@ -13155,7 +13155,7 @@
         }
       ],
       "maxDamage": 130,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari68.png"
     },
@@ -13179,7 +13179,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "逃げエネ減少"
       ],
@@ -13205,7 +13205,7 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari70.png"
     },
@@ -13229,10 +13229,10 @@
         }
       ],
       "maxDamage": 130,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "状態異常無効化",
-        " 自分のベンチの数だけダメアップ"
+        " 自ベンチの数だけダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari71.png"
     },
@@ -13256,7 +13256,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "回復"
       ],
@@ -13282,7 +13282,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari73.png"
     },
@@ -13306,7 +13306,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "ワザエネルギー減少"
       ],
@@ -13332,9 +13332,9 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
-        "ダメージ減少"
+        "ダメージ軽減"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari75.png"
     },
@@ -13358,7 +13358,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "サーチ"
       ],
@@ -13384,7 +13384,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "まひ",
         " コイン"
@@ -13411,7 +13411,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "敵エネルギートラッシュ",
         " 進化妨害"
@@ -13438,7 +13438,7 @@
         }
       ],
       "maxDamage": 210,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "コイン"
       ],
@@ -13464,7 +13464,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "サーチ",
         " ドロー"
@@ -13491,7 +13491,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai6.png"
     },
@@ -13515,9 +13515,9 @@
         }
       ],
       "maxDamage": 130,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
-        "相手がEXならダメージアップ"
+        "敵がEXならダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai7.png"
     },
@@ -13541,7 +13541,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai8.png"
     },
@@ -13565,7 +13565,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai9.png"
     },
@@ -13594,7 +13594,7 @@
         }
       ],
       "maxDamage": 150,
-      "maxEnergyCost": 5,
+      "maxMoveEnergy": 5,
       "tags": [
         "エネルギー加速"
       ],
@@ -13620,7 +13620,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai11.png"
     },
@@ -13644,7 +13644,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "コイン",
         " ワザ封じ"
@@ -13671,7 +13671,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai13.png"
     },
@@ -13695,7 +13695,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai14.png"
     },
@@ -13719,7 +13719,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai15.png"
     },
@@ -13743,7 +13743,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai16.png"
     },
@@ -13767,9 +13767,9 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai17.png"
     },
@@ -13793,7 +13793,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "ランダム攻撃"
       ],
@@ -13819,7 +13819,7 @@
         }
       ],
       "maxDamage": 150,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "ランダム攻撃"
       ],
@@ -13845,9 +13845,9 @@
         }
       ],
       "maxDamage": 110,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai20.png"
     },
@@ -13871,7 +13871,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "逃げエネ減少"
       ],
@@ -13897,7 +13897,7 @@
         }
       ],
       "maxDamage": 150,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai22.png"
     },
@@ -13921,7 +13921,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai23.png"
     },
@@ -13945,7 +13945,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "コイン"
       ],
@@ -13971,7 +13971,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "エネルギー加速"
       ],
@@ -13997,7 +13997,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai26.png"
     },
@@ -14021,7 +14021,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai27.png"
     },
@@ -14045,9 +14045,9 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
-        "ダメージ反撃"
+        "さめはだ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai28.png"
     },
@@ -14071,7 +14071,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai29.png"
     },
@@ -14095,7 +14095,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai30.png"
     },
@@ -14119,9 +14119,9 @@
         }
       ],
       "maxDamage": 140,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai31.png"
     },
@@ -14145,7 +14145,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "コイン"
       ],
@@ -14171,7 +14171,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai33.png"
     },
@@ -14195,7 +14195,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai34.png"
     },
@@ -14219,7 +14219,7 @@
         }
       ],
       "maxDamage": 130,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [
         "エネルギー加速"
       ],
@@ -14245,7 +14245,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン",
         " ダメージ無効化",
@@ -14273,7 +14273,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai37.png"
     },
@@ -14297,7 +14297,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "コイン"
       ],
@@ -14323,9 +14323,9 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
-        "自身のエネルギーの数に応じてダメージアップ"
+        "自エネの数でダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai39.png"
     },
@@ -14349,7 +14349,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai40.png"
     },
@@ -14373,7 +14373,7 @@
         }
       ],
       "maxDamage": 90,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai41.png"
     },
@@ -14397,7 +14397,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai42.png"
     },
@@ -14421,9 +14421,9 @@
         }
       ],
       "maxDamage": 130,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai43.png"
     },
@@ -14447,7 +14447,7 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "コイン"
       ],
@@ -14473,7 +14473,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai45.png"
     },
@@ -14497,7 +14497,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "どく"
       ],
@@ -14523,7 +14523,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "どく"
       ],
@@ -14549,10 +14549,10 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "ダメージアップ",
-        " 相手がどくならダメージアップ"
+        " 敵が毒ならダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai48.png"
     },
@@ -14576,7 +14576,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "こんらん",
         " コイン"
@@ -14603,7 +14603,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai50.png"
     },
@@ -14627,7 +14627,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "どく",
         " コイン"
@@ -14654,7 +14654,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai52.png"
     },
@@ -14678,7 +14678,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "コイン"
       ],
@@ -14704,7 +14704,7 @@
         }
       ],
       "maxDamage": 160,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai54.png"
     },
@@ -14728,7 +14728,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai55.png"
     },
@@ -14752,7 +14752,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai56.png"
     },
@@ -14776,7 +14776,7 @@
         }
       ],
       "maxDamage": 200,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai57.png"
     },
@@ -14800,7 +14800,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai58.png"
     },
@@ -14824,7 +14824,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai59.png"
     },
@@ -14848,7 +14848,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai60.png"
     },
@@ -14872,7 +14872,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai61.png"
     },
@@ -14896,7 +14896,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai62.png"
     },
@@ -14920,7 +14920,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai63.png"
     },
@@ -14944,7 +14944,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai64.png"
     },
@@ -14968,7 +14968,7 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai65.png"
     },
@@ -14992,7 +14992,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai66.png"
     },
@@ -15016,7 +15016,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai67.png"
     },
@@ -15040,7 +15040,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "ダメージアップ"
       ],
@@ -15066,7 +15066,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "手札入れ替え"
       ],
@@ -15092,7 +15092,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "回復"
       ],
@@ -15112,10 +15112,10 @@
       "abilityEffect": "",
       "moves": [],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "ダメージアップ",
-        " 相手がEXならダメージアップ"
+        " 敵がEXならダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/syaininguhai71.png"
     },
@@ -15139,7 +15139,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "コイン",
         " 敵エネルギートラッシュ"
@@ -15166,7 +15166,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya1.png"
     },
@@ -15190,7 +15190,7 @@
         }
       ],
       "maxDamage": 150,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "コイン"
       ],
@@ -15216,7 +15216,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン"
       ],
@@ -15242,7 +15242,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya4.png"
     },
@@ -15266,7 +15266,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya5.png"
     },
@@ -15290,7 +15290,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya6.png"
     },
@@ -15314,7 +15314,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya7.png"
     },
@@ -15338,7 +15338,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya8.png"
     },
@@ -15362,7 +15362,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya9.png"
     },
@@ -15386,9 +15386,9 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya10.png"
     },
@@ -15412,7 +15412,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya11.png"
     },
@@ -15441,10 +15441,10 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
-        "ベンチ狙撃",
-        " 相手がダメージを受けているならダメージアップ"
+        "ベンチに攻撃",
+        " 敵が被弾しているならダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya12.png"
     },
@@ -15468,7 +15468,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya13.png"
     },
@@ -15492,7 +15492,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya14.png"
     },
@@ -15516,9 +15516,9 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya15.png"
     },
@@ -15542,7 +15542,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya16.png"
     },
@@ -15566,7 +15566,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "ワザ封じ"
       ],
@@ -15592,7 +15592,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya18.png"
     },
@@ -15616,7 +15616,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン"
       ],
@@ -15642,7 +15642,7 @@
         }
       ],
       "maxDamage": 150,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン"
       ],
@@ -15668,7 +15668,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "逃げエネ減少"
       ],
@@ -15694,7 +15694,7 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya22.png"
     },
@@ -15718,7 +15718,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "かげふみ"
       ],
@@ -15744,7 +15744,7 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya24.png"
     },
@@ -15768,7 +15768,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya25.png"
     },
@@ -15792,7 +15792,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya26.png"
     },
@@ -15816,7 +15816,7 @@
         }
       ],
       "maxDamage": 160,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya27.png"
     },
@@ -15840,7 +15840,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya28.png"
     },
@@ -15864,7 +15864,7 @@
         }
       ],
       "maxDamage": 90,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya29.png"
     },
@@ -15888,7 +15888,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya30.png"
     },
@@ -15912,7 +15912,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya31.png"
     },
@@ -15936,7 +15936,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya32.png"
     },
@@ -15965,7 +15965,7 @@
         }
       ],
       "maxDamage": 140,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "やけど",
         " リベンジ"
@@ -15978,16 +15978,24 @@
       "cardType": "非EX",
       "evolutionStage": "たね",
       "pack": "双天の守護者",
-      "hp": 0,
+      "hp": 70,
       "type": "炎",
       "weakness": "水",
-      "retreatCost": 0,
+      "retreatCost": 1,
       "abilityName": "",
       "abilityEffect": "",
-      "moves": [],
-      "maxDamage": 0,
-      "maxEnergyCost": 2,
-      "tags": [],
+      "moves": [
+        {
+          "name": "メラメラ",
+          "damage": 40,
+          "effect": "おたがいのバトルポケモンからエネルギーをランダムに1個ずつトラッシュ。"
+        }
+      ],
+      "maxDamage": 40,
+      "maxMoveEnergy": 2,
+      "tags": [
+        "敵エネルギートラッシュ"
+      ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya34.png"
     },
     {
@@ -16010,7 +16018,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya35.png"
     },
@@ -16034,7 +16042,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "どく",
         " やけど"
@@ -16061,7 +16069,7 @@
         }
       ],
       "maxDamage": 90,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya37.png"
     },
@@ -16085,7 +16093,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya38.png"
     },
@@ -16109,9 +16117,9 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
-        "ダメージ反撃"
+        "さめはだ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya39.png"
     },
@@ -16135,7 +16143,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "エネルギー加速"
       ],
@@ -16161,9 +16169,9 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya41.png"
     },
@@ -16187,7 +16195,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya42.png"
     },
@@ -16211,9 +16219,9 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
-        "ダメージ減少"
+        "ダメージ軽減"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya43.png"
     },
@@ -16237,7 +16245,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "ねむり"
       ],
@@ -16263,7 +16271,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya45.png"
     },
@@ -16287,7 +16295,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya46.png"
     },
@@ -16311,7 +16319,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya47.png"
     },
@@ -16335,7 +16343,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "回復"
       ],
@@ -16361,7 +16369,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "ダメージアップ"
       ],
@@ -16387,7 +16395,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "サーチ"
       ],
@@ -16413,7 +16421,7 @@
         }
       ],
       "maxDamage": 150,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "ダメージアップ"
       ],
@@ -16439,7 +16447,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya52.png"
     },
@@ -16463,7 +16471,7 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "ダメージアップ"
       ],
@@ -16489,9 +16497,9 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
-        "ダメージ反撃"
+        "さめはだ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya54.png"
     },
@@ -16515,7 +16523,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya55.png"
     },
@@ -16539,7 +16547,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "回復"
       ],
@@ -16565,7 +16573,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya57.png"
     },
@@ -16589,7 +16597,7 @@
         }
       ],
       "maxDamage": 180,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "ダメージアップ"
       ],
@@ -16615,7 +16623,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya59.png"
     },
@@ -16639,7 +16647,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya60.png"
     },
@@ -16663,7 +16671,7 @@
         }
       ],
       "maxDamage": 150,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya61.png"
     },
@@ -16687,7 +16695,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya62.png"
     },
@@ -16711,7 +16719,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya63.png"
     },
@@ -16735,7 +16743,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya64.png"
     },
@@ -16759,7 +16767,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "グッズ封じ"
       ],
@@ -16785,7 +16793,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "ダメージ無効化"
       ],
@@ -16811,7 +16819,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "ダメージアップ"
       ],
@@ -16837,7 +16845,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "ベンチに逃げる"
       ],
@@ -16863,7 +16871,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "ダメージ無効化"
       ],
@@ -16889,7 +16897,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "かげふみ"
       ],
@@ -16915,7 +16923,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "エネルギー加速"
       ],
@@ -16941,7 +16949,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya72.png"
     },
@@ -16965,7 +16973,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya73.png"
     },
@@ -16989,7 +16997,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya74.png"
     },
@@ -17013,7 +17021,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "エネルギー封じ"
       ],
@@ -17039,7 +17047,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "こんらん"
       ],
@@ -17065,7 +17073,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "リベンジ"
       ],
@@ -17091,7 +17099,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya78.png"
     },
@@ -17115,7 +17123,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya79.png"
     },
@@ -17139,7 +17147,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya80.png"
     },
@@ -17163,7 +17171,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya81.png"
     },
@@ -17187,7 +17195,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya82.png"
     },
@@ -17211,7 +17219,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya83.png"
     },
@@ -17235,7 +17243,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "ダメージアップ"
       ],
@@ -17261,7 +17269,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "ベンチに逃げる"
       ],
@@ -17287,9 +17295,9 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
-        "ダメージ減少"
+        "ダメージ軽減"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya86.png"
     },
@@ -17313,7 +17321,7 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "エネルギー付け替え"
       ],
@@ -17339,7 +17347,7 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya88.png"
     },
@@ -17363,7 +17371,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya89.png"
     },
@@ -17387,7 +17395,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya90.png"
     },
@@ -17411,7 +17419,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "敵ポケ入れ替え"
       ],
@@ -17437,7 +17445,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya92.png"
     },
@@ -17461,7 +17469,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya93.png"
     },
@@ -17485,7 +17493,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya94.png"
     },
@@ -17509,7 +17517,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya95.png"
     },
@@ -17533,7 +17541,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "こんじょう"
       ],
@@ -17559,7 +17567,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya97.png"
     },
@@ -17583,7 +17591,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "サーチ"
       ],
@@ -17609,7 +17617,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya99.png"
     },
@@ -17633,7 +17641,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "コイン",
         " 敵エネルギートラッシュ"
@@ -17660,7 +17668,7 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "リベンジ"
       ],
@@ -17686,7 +17694,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya102.png"
     },
@@ -17710,7 +17718,7 @@
         }
       ],
       "maxDamage": 140,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya103.png"
     },
@@ -17734,7 +17742,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "エネルギー付け替え"
       ],
@@ -17760,9 +17768,9 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya105.png"
     },
@@ -17786,7 +17794,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya106.png"
     },
@@ -17810,7 +17818,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "相手手札干渉"
       ],
@@ -17836,7 +17844,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya108.png"
     },
@@ -17860,9 +17868,9 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
-        "ダメージ減少"
+        "ダメージ軽減"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya109.png"
     },
@@ -17886,7 +17894,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya110.png"
     },
@@ -17910,7 +17918,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "こんらん",
         " どく",
@@ -17940,9 +17948,9 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
-        "特殊状態ならダメアップ"
+        "敵が特殊状態ならダメアップ"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya112.png"
     },
@@ -17966,7 +17974,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya113.png"
     },
@@ -17990,7 +17998,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "どく"
       ],
@@ -18016,7 +18024,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya115.png"
     },
@@ -18040,7 +18048,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "コイン"
       ],
@@ -18066,7 +18074,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya117.png"
     },
@@ -18090,7 +18098,7 @@
         }
       ],
       "maxDamage": 280,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "コイン"
       ],
@@ -18116,7 +18124,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya119.png"
     },
@@ -18140,9 +18148,9 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
-        "ベンチ狙撃"
+        "ベンチに攻撃"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya120.png"
     },
@@ -18166,7 +18174,7 @@
         }
       ],
       "maxDamage": 10,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "ドロー"
       ],
@@ -18192,7 +18200,7 @@
         }
       ],
       "maxDamage": 120,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "ベンチに逃げる"
       ],
@@ -18218,7 +18226,7 @@
         }
       ],
       "maxDamage": 80,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "ダメージアップ"
       ],
@@ -18244,7 +18252,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "リベンジ"
       ],
@@ -18270,7 +18278,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya125.png"
     },
@@ -18294,7 +18302,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya126.png"
     },
@@ -18318,7 +18326,7 @@
         }
       ],
       "maxDamage": 130,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya127.png"
     },
@@ -18342,7 +18350,7 @@
         }
       ],
       "maxDamage": 100,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [
         "コイン"
       ],
@@ -18368,7 +18376,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya129.png"
     },
@@ -18392,7 +18400,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [
         "エネルギー加速"
       ],
@@ -18418,7 +18426,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya131.png"
     },
@@ -18442,7 +18450,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya132.png"
     },
@@ -18466,7 +18474,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya133.png"
     },
@@ -18490,7 +18498,7 @@
         }
       ],
       "maxDamage": 30,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya134.png"
     },
@@ -18514,7 +18522,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya135.png"
     },
@@ -18538,7 +18546,7 @@
         }
       ],
       "maxDamage": 20,
-      "maxEnergyCost": 1,
+      "maxMoveEnergy": 1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya136.png"
     },
@@ -18562,7 +18570,7 @@
         }
       ],
       "maxDamage": 50,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya137.png"
     },
@@ -18586,7 +18594,7 @@
         }
       ],
       "maxDamage": 60,
-      "maxEnergyCost": 3,
+      "maxMoveEnergy": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya138.png"
     },
@@ -18610,7 +18618,7 @@
         }
       ],
       "maxDamage": 130,
-      "maxEnergyCost": 4,
+      "maxMoveEnergy": 4,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya139.png"
     },
@@ -18634,7 +18642,7 @@
         }
       ],
       "maxDamage": 40,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [
         "敵の技エネ増加",
         " 敵の逃げエネ増加"
@@ -18661,7 +18669,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 2,
+      "maxMoveEnergy": 2,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya141.png"
     },
@@ -18685,7 +18693,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "回復",
         " 状態異常無効化"
@@ -18712,7 +18720,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "トラッシュから回収"
       ],
@@ -18738,7 +18746,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "進化サポート"
       ],
@@ -18764,7 +18772,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "山札チェック"
       ],
@@ -18773,7 +18781,7 @@
     {
       "id": "748",
       "name": "どくバリ",
-      "cardType": "グッズ",
+      "cardType": "ポケモンのどうぐ",
       "evolutionStage": "",
       "pack": "双天の守護者",
       "hp": 0,
@@ -18790,7 +18798,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "どく"
       ],
@@ -18816,7 +18824,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "HP増加"
       ],
@@ -18842,7 +18850,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "ダメージ付け替え"
       ],
@@ -18868,7 +18876,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "味方を手札に戻す"
       ],
@@ -18894,7 +18902,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "エネルギー加速"
       ],
@@ -18920,9 +18928,9 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
-        "相手のポケモンの道具をトラッシュ。"
+        "敵の道具破壊"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya151.png"
     },
@@ -18946,7 +18954,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "敵ポケ入れ替え"
       ],
@@ -18972,7 +18980,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "ダメージアップ"
       ],
@@ -18998,7 +19006,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "回復"
       ],
@@ -19024,7 +19032,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxMoveEnergy": 0,
       "tags": [
         "回復"
       ],
