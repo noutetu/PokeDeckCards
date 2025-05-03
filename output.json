@@ -5327,7 +5327,7 @@
       "hp": 40,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -5338,7 +5338,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi214.png"
     },
@@ -5351,7 +5351,7 @@
       "hp": 40,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -5362,7 +5362,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi215.png"
     },
@@ -5375,7 +5375,7 @@
       "hp": 40,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -5386,7 +5386,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/saikyounoidensi216.png"
     },
@@ -5399,7 +5399,7 @@
       "hp": 0,
       "type": "草",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -5410,7 +5410,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "回復"
       ],
@@ -5425,7 +5425,7 @@
       "hp": 0,
       "type": "水",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -5436,7 +5436,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "エネルギー加速"
       ],
@@ -5451,7 +5451,7 @@
       "hp": 0,
       "type": "炎",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -5462,7 +5462,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "ダメージアップ"
       ],
@@ -5477,7 +5477,7 @@
       "hp": 0,
       "type": "悪",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -5488,7 +5488,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "味方を手札に戻す"
       ],
@@ -5503,7 +5503,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -5514,7 +5514,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "ダメージアップ"
       ],
@@ -5529,7 +5529,7 @@
       "hp": 0,
       "type": "闘",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -5540,7 +5540,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "エネルギー加速"
       ],
@@ -5555,7 +5555,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -5566,7 +5566,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "敵ポケ入れ替え"
       ],
@@ -5581,7 +5581,7 @@
       "hp": 0,
       "type": "雷",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -5592,7 +5592,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "エネルギー付け替え"
       ],
@@ -5607,7 +5607,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -5618,7 +5618,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "回復"
       ],
@@ -5633,7 +5633,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -5644,7 +5644,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "逃げエネ減少"
       ],
@@ -5659,7 +5659,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -5670,7 +5670,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "相手手札干渉"
       ],
@@ -5685,7 +5685,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -5696,7 +5696,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "山札チェック"
       ],
@@ -5711,7 +5711,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -5722,7 +5722,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "サーチ"
       ],
@@ -5737,7 +5737,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -5748,7 +5748,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "相手手札干渉"
       ],
@@ -5763,7 +5763,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -5774,7 +5774,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "ドロー"
       ],
@@ -7420,7 +7420,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -7431,7 +7431,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "ベンチに攻撃"
       ],
@@ -7446,7 +7446,7 @@
       "hp": 0,
       "type": "超",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -7457,7 +7457,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "サーチ",
         " ドロー"
@@ -7473,7 +7473,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -7484,7 +7484,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "味方を手札に戻す"
       ],
@@ -7499,7 +7499,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -7510,7 +7510,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "ダメージ軽減"
       ],
@@ -7525,7 +7525,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -7536,7 +7536,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "逃げエネ減少"
       ],
@@ -11154,7 +11154,7 @@
       "hp": 40,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -11165,7 +11165,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou144.png"
     },
@@ -11178,7 +11178,7 @@
       "hp": 40,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -11189,7 +11189,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/Jikunogekitou145.png"
     },
@@ -11202,7 +11202,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -11213,7 +11213,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "サーチ",
         " 手札入れ替え"
@@ -11229,7 +11229,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -11240,7 +11240,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "HP増加"
       ],
@@ -11255,7 +11255,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -11266,7 +11266,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "さめはだ"
       ],
@@ -11281,7 +11281,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -11292,7 +11292,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "状態異常無効化"
       ],
@@ -11307,7 +11307,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -11318,7 +11318,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "敵ポケ入れ替え"
       ],
@@ -11333,7 +11333,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -11344,7 +11344,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "サーチ"
       ],
@@ -11359,7 +11359,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -11370,7 +11370,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "ダメージアップ"
       ],
@@ -11385,7 +11385,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -11396,7 +11396,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "エネルギー加速"
       ],
@@ -11411,7 +11411,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -11422,7 +11422,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "エネルギー付け替え"
       ],
@@ -11437,7 +11437,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -11448,7 +11448,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "相手手札干渉"
       ],
@@ -13245,7 +13245,7 @@
       "hp": 0,
       "type": "水",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -13256,7 +13256,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "回復"
       ],
@@ -13271,7 +13271,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -13282,7 +13282,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/tyoukokunohikari73.png"
     },
@@ -13295,7 +13295,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -13306,7 +13306,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "ワザエネルギー減少"
       ],
@@ -13321,7 +13321,7 @@
       "hp": 0,
       "type": "鋼",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -13332,7 +13332,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "ダメージ軽減"
       ],
@@ -15055,7 +15055,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -15066,7 +15066,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "手札入れ替え"
       ],
@@ -15081,7 +15081,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -15092,7 +15092,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "回復"
       ],
@@ -15107,12 +15107,12 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "ダメージアップ",
         " 敵がEXならダメアップ"
@@ -15128,7 +15128,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -15139,7 +15139,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "コイン",
         " 敵エネルギートラッシュ"
@@ -18682,7 +18682,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -18693,7 +18693,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "回復",
         " 状態異常無効化"
@@ -18709,7 +18709,7 @@
       "hp": 0,
       "type": "水",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -18720,7 +18720,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "トラッシュから回収"
       ],
@@ -18735,7 +18735,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -18746,7 +18746,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "進化サポート"
       ],
@@ -18761,7 +18761,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -18772,7 +18772,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "山札チェック"
       ],
@@ -18787,7 +18787,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -18798,7 +18798,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "どく"
       ],
@@ -18813,7 +18813,7 @@
       "hp": 0,
       "type": "草",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -18824,7 +18824,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "HP増加"
       ],
@@ -18839,7 +18839,7 @@
       "hp": 0,
       "type": "超",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -18850,7 +18850,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "ダメージ付け替え"
       ],
@@ -18865,7 +18865,7 @@
       "hp": 0,
       "type": "無色",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -18876,7 +18876,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "味方を手札に戻す"
       ],
@@ -18891,7 +18891,7 @@
       "hp": 0,
       "type": "炎",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -18902,7 +18902,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "エネルギー加速"
       ],
@@ -18917,7 +18917,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -18928,7 +18928,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "敵の道具破壊"
       ],
@@ -18943,7 +18943,7 @@
       "hp": 0,
       "type": "水",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -18954,7 +18954,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "敵ポケ入れ替え"
       ],
@@ -18969,7 +18969,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -18980,7 +18980,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "ダメージアップ"
       ],
@@ -18995,7 +18995,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -19006,7 +19006,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "回復"
       ],
@@ -19021,7 +19021,7 @@
       "hp": 0,
       "type": "",
       "weakness": "",
-      "retreatCost": 0,
+      "retreatCost": -1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
@@ -19032,7 +19032,7 @@
         }
       ],
       "maxDamage": 0,
-      "maxEnergyCost": 0,
+      "maxEnergyCost": -1,
       "tags": [
         "回復"
       ],
