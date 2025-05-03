@@ -1734,7 +1734,7 @@
       "hp": 60,
       "type": "水",
       "weakness": "雷",
-      "retreatCost": 0,
+      "retreatCost": 1,
       "abilityName": "",
       "abilityEffect": "",
       "moves": [
