@@ -13879,8 +13879,8 @@
     },
     {
       "id": "552",
-      "name": "ピカチュウ",
-      "cardType": "非EX",
+      "name": "ピカチュウEX",
+      "cardType": "EX",
       "evolutionStage": "たね",
       "pack": "シャイニングハイ",
       "hp": 120,
@@ -16556,7 +16556,7 @@
     {
       "id": "659",
       "name": "ピカチュウ",
-      "cardType": "非EX",
+      "cardType": "EX",
       "evolutionStage": "たね",
       "pack": "双天の守護者",
       "hp": 60,
@@ -16579,7 +16579,7 @@
     },
     {
       "id": "660",
-      "name": "アローラライチュウ",
+      "name": "アローラライチュウEX",
       "cardType": "EX",
       "evolutionStage": "1進化",
       "pack": "双天の守護者",
