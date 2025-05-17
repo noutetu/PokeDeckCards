@@ -3059,7 +3059,7 @@
     {
       "id": "123",
       "name": "ゲンガーEX",
-      "cardType": "非EX",
+      "cardType": "EX",
       "evolutionStage": "2進化",
       "pack": "最強の遺伝子",
       "hp": 170,
@@ -11195,7 +11195,7 @@
     },
     {
       "id": "446",
-      "name": "ポケモン図鑑",
+      "name": "ポケモン通信",
       "cardType": "グッズ",
       "evolutionStage": "",
       "pack": "時空の激闘",
@@ -13572,7 +13572,7 @@
     {
       "id": "540",
       "name": "リザードンEX",
-      "cardType": "非EX",
+      "cardType": "EX",
       "evolutionStage": "2進化",
       "pack": "シャイニングハイ",
       "hp": 180,
@@ -14404,7 +14404,7 @@
     {
       "id": "573",
       "name": "ルカリオEX",
-      "cardType": "非EX",
+      "cardType": "EX",
       "evolutionStage": "たね",
       "pack": "シャイニングハイ",
       "hp": 0,
@@ -15419,7 +15419,7 @@
     {
       "id": "614",
       "name": "ジュナイパーEX",
-      "cardType": "非EX",
+      "cardType": "EX",
       "evolutionStage": "2進化",
       "pack": "双天の守護者",
       "hp": 170,
@@ -18807,7 +18807,7 @@
     {
       "id": "749",
       "name": "リーフマント",
-      "cardType": "グッズ",
+      "cardType": "ポケモンのどうぐ",
       "evolutionStage": "",
       "pack": "双天の守護者",
       "hp": 0,
