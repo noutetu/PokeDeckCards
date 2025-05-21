@@ -16226,30 +16226,6 @@
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya43.png"
     },
     {
-      "id": "646",
-      "name": "ラプラス",
-      "cardType": "非EX",
-      "evolutionStage": "たね",
-      "pack": "双天の守護者",
-      "hp": 110,
-      "type": "水",
-      "weakness": "雷",
-      "retreatCost": 1,
-      "abilityName": "",
-      "abilityEffect": "",
-      "moves": [
-        {
-          "name": "なみのり",
-          "damage": 70,
-          "effect": ""
-        }
-      ],
-      "maxDamage": 70,
-      "maxEnergyCost": 1,
-      "tags": [],
-      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya45.png"
-    },
-    {
       "id": "647",
       "name": "アシマリ",
       "cardType": "非EX",
@@ -16273,6 +16249,30 @@
       "tags": [
         "ねむり"
       ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya45.png"
+    },
+    {
+      "id": "646",
+      "name": "ラプラス",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "双天の守護者",
+      "hp": 110,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "なみのり",
+          "damage": 70,
+          "effect": ""
+        }
+      ],
+      "maxDamage": 70,
+      "maxEnergyCost": 1,
+      "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya44.png"
     },
     {
