@@ -1,15 +1,15 @@
 ﻿{
     "version": "1.0.0",
-    "totalDecks": 2,
-    "lastUpdated": "2025-05-28T23:13:13Z",
+    "totalDecks": 3,
+    "lastUpdated": "2025-05-28T23:22:24Z",
     "sampleDecks": [
         {
-            "id": "0c4f4f79-3458-41be-b758-311f2a0e6ff1",
+            "id": "425d18fd-4d4d-49e9-a1b4-29a386e6d532",
             "name": "マスカジュナ",
             "description": "入れ替え候補\n・サカキ\n・レッド\n・リーリエ\n・レッドカード",
             "version": "1.0.0",
-            "createdAt": "2025-05-28T23:13:13Z",
-            "updatedAt": "2025-05-28T23:13:13Z",
+            "createdAt": "2025-05-28T23:22:24Z",
+            "updatedAt": "2025-05-28T23:22:24Z",
             "cardIds": [
                 "535",
                 "535",
@@ -45,12 +45,12 @@
             "downloadCount": 0
         },
         {
-            "id": "75ccd714-eee0-40fd-93cf-b95f33327986",
+            "id": "195a7150-7acb-47a6-a5ae-789bee2a5c3e",
             "name": "ダクギラコアラ",
             "description": "入れ替え候補\n・レッドカード\n・ナツメ\n・どくバリ\n・ネッコアラ",
             "version": "1.0.0",
-            "createdAt": "2025-05-28T23:13:13Z",
-            "updatedAt": "2025-05-28T23:13:13Z",
+            "createdAt": "2025-05-28T23:22:24Z",
+            "updatedAt": "2025-05-28T23:22:24Z",
             "cardIds": [
                 "410",
                 "410",
@@ -77,6 +77,47 @@
                 6
             ],
             "maxCards": 20,
+            "author": "Unity Editor",
+            "tags": [
+                "sample"
+            ],
+            "isPublic": true,
+            "rating": 0,
+            "downloadCount": 0
+        },
+        {
+            "id": "66c4e188-2dbb-42a7-8c8d-345323151b57",
+            "name": "ラムルカ",
+            "description": "特になし",
+            "version": "1.0.0",
+            "createdAt": "2025-05-28T23:22:24Z",
+            "updatedAt": "2025-05-28T23:22:24Z",
+            "cardIds": [
+                "1",
+                "1",
+                "11",
+                "11",
+                "111",
+                "111",
+                "2",
+                "2",
+                "22",
+                "22",
+                "222",
+                "222",
+                "3",
+                "3",
+                "33",
+                "33",
+                "333",
+                "4",
+                "4",
+                "44"
+            ],
+            "energyTypes": [
+                5
+            ],
+            "maxCards": 34,
             "author": "Unity Editor",
             "tags": [
                 "sample"
