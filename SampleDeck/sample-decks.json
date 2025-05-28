@@ -1,0 +1,89 @@
+﻿{
+    "version": "1.0.0",
+    "totalDecks": 2,
+    "lastUpdated": "2025-05-28T22:16:50Z",
+    "sampleDecks": [
+        {
+            "id": "97482b06-41fe-4df4-bb8b-3426dcd6c923",
+            "name": "テスト",
+            "description": "テスト",
+            "version": "1.0.0",
+            "createdAt": "2025-05-28T22:16:50Z",
+            "updatedAt": "2025-05-28T22:16:50Z",
+            "cardIds": [
+                "11",
+                "11",
+                "22",
+                "22",
+                "1",
+                "1",
+                "2",
+                "2",
+                "3",
+                "3",
+                "33",
+                "33",
+                "4",
+                "4",
+                "44",
+                "44",
+                "5",
+                "5",
+                "55",
+                "55"
+            ],
+            "energyTypes": [
+                0
+            ],
+            "maxCards": 20,
+            "author": "Unity Editor",
+            "tags": [
+                "sample"
+            ],
+            "isPublic": true,
+            "rating": 0,
+            "downloadCount": 0
+        },
+        {
+            "id": "94fde950-2c39-426a-acf8-32e6cbf59cb3",
+            "name": "tsuto",
+            "description": "tesuto",
+            "version": "1.0.0",
+            "createdAt": "2025-05-28T22:16:50Z",
+            "updatedAt": "2025-05-28T22:16:50Z",
+            "cardIds": [
+                "1",
+                "1",
+                "11",
+                "11",
+                "111",
+                "111",
+                "2",
+                "2",
+                "22",
+                "22",
+                "222",
+                "222",
+                "3",
+                "3",
+                "33",
+                "33",
+                "333",
+                "333",
+                "4",
+                "4"
+            ],
+            "energyTypes": [
+                1
+            ],
+            "maxCards": 20,
+            "author": "Unity Editor",
+            "tags": [
+                "sample"
+            ],
+            "isPublic": true,
+            "rating": 0,
+            "downloadCount": 0
+        }
+    ]
+}
