@@ -1,49 +1,8 @@
-﻿{
+{
     "version": "1.0.0",
     "totalDecks": 3,
     "lastUpdated": "2025-05-28T23:22:24Z",
     "sampleDecks": [
-        {
-            "id": "425d18fd-4d4d-49e9-a1b4-29a386e6d532",
-            "name": "マスカジュナ",
-            "description": "入れ替え候補\n・サカキ\n・レッド\n・リーリエ\n・レッドカード",
-            "version": "1.0.0",
-            "createdAt": "2025-05-28T23:22:24Z",
-            "updatedAt": "2025-05-28T23:22:24Z",
-            "cardIds": [
-                "535",
-                "535",
-                "536",
-                "537",
-                "537",
-                "612",
-                "613",
-                "614",
-                "229",
-                "229",
-                "746",
-                "746",
-                "749",
-                "749",
-                "217",
-                "217",
-                "223",
-                "231",
-                "231",
-                "450"
-            ],
-            "energyTypes": [
-                0
-            ],
-            "maxCards": 20,
-            "author": "Unity Editor",
-            "tags": [
-                "sample"
-            ],
-            "isPublic": true,
-            "rating": 0,
-            "downloadCount": 0
-        },
         {
             "id": "195a7150-7acb-47a6-a5ae-789bee2a5c3e",
             "name": "ダクギラコアラ",
