@@ -16271,7 +16271,7 @@
         }
       ],
       "maxDamage": 70,
-      "maxEnergyCost": 1,
+      "maxEnergyCost": 3,
       "tags": [],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya44.png"
     },
