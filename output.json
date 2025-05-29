@@ -19037,6 +19037,1542 @@
         "回復"
       ],
       "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/soutennosyugosya155.png"
+    },
+    {
+      "id": "758",
+      "name": "チュリネ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 60,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 20,
+      "maxEnergyCost": 1,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn1.png"
+    },
+    {
+      "id": "759",
+      "name": "ドレディア",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "異次元クライシス",
+      "hp": 110,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 60,
+      "maxEnergyCost": 2,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn2.png"
+    },
+    {
+      "id": "760",
+      "name": "モクロー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 60,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 30,
+          "effect": "コインを3回投げ、オモテの数×10ダメージ。"
+        }
+      ],
+      "maxDamage": 30,
+      "maxEnergyCost": 1,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn3.png"
+    },
+    {
+      "id": "761",
+      "name": "フクスロー",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "異次元クライシス",
+      "hp": 80,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 20,
+          "effect": "相手のポケモン1匹に20ダメージ。"
+        }
+      ],
+      "maxDamage": 20,
+      "maxEnergyCost": 1,
+      "tags": [
+        "ベンチに攻撃"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn4.png"
+    },
+    {
+      "id": "762",
+      "name": "ジュナイパー",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "異次元クライシス",
+      "hp": 130,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 70,
+          "effect": "相手のポケモン1匹に70ダメージ。"
+        }
+      ],
+      "maxDamage": 70,
+      "maxEnergyCost": 2,
+      "tags": [
+        "ベンチに攻撃"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn5.png"
+    },
+    {
+      "id": "763",
+      "name": "マッシブーンEX",
+      "cardType": "EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 140,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 120,
+          "effect": "次の自分の番、このポケモンは「ビッグビート」が使えない。"
+        }
+      ],
+      "maxDamage": 120,
+      "maxEnergyCost": 3,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn6.png"
+    },
+    {
+      "id": "764",
+      "name": "フェローチェ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 70,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 20,
+          "effect": "相手のベンチポケモン1匹にも20ダメージ。"
+        }
+      ],
+      "maxDamage": 20,
+      "maxEnergyCost": 1,
+      "tags": [
+        "ベンチに攻撃"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn7.png"
+    },
+    {
+      "id": "765",
+      "name": "カミツルギ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 60,
+      "type": "草",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 40,
+      "maxEnergyCost": 1,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn8.png"
+    },
+    {
+      "id": "766",
+      "name": "ズガドーン",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 100,
+      "type": "炎",
+      "weakness": "水",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 130,
+          "effect": "このポケモンにも70ダメージ。"
+        }
+      ],
+      "maxDamage": 130,
+      "maxEnergyCost": 3,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn9.png"
+    },
+    {
+      "id": "767",
+      "name": "マンタイン",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 90,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 50,
+      "maxEnergyCost": 2,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn10.png"
+    },
+    {
+      "id": "768",
+      "name": "キバニア",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 60,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 20,
+      "maxEnergyCost": 1,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn11.png"
+    },
+    {
+      "id": "769",
+      "name": "サメハダー",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "異次元クライシス",
+      "hp": 90,
+      "type": "水",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 50,
+          "effect": "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。"
+        }
+      ],
+      "maxDamage": 50,
+      "maxEnergyCost": 2,
+      "tags": [
+        "コイン",
+        " 敵エネルギートラッシュ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn12.png"
+    },
+    {
+      "id": "770",
+      "name": "コリンク",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 60,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 20,
+      "maxEnergyCost": 1,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn13.png"
+    },
+    {
+      "id": "771",
+      "name": "ルクシオ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "異次元クライシス",
+      "hp": 80,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 50,
+      "maxEnergyCost": 2,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn14.png"
+    },
+    {
+      "id": "772",
+      "name": "レントラー",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "異次元クライシス",
+      "hp": 130,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "このポケモンがバトル場にいるかぎり、相手のバトルポケモンが使うワザのダメージを-20する。",
+      "moves": [],
+      "maxDamage": 90,
+      "maxEnergyCost": 3,
+      "tags": [
+        "ダメージ軽減"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn15.png"
+    },
+    {
+      "id": "773",
+      "name": "シママ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 60,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 40,
+      "maxEnergyCost": 2,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn16.png"
+    },
+    {
+      "id": "774",
+      "name": "ゼブライカ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "異次元クライシス",
+      "hp": 90,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 70,
+      "maxEnergyCost": 2,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn17.png"
+    },
+    {
+      "id": "775",
+      "name": "エモンガ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 70,
+      "type": "雷",
+      "weakness": "雷",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 30,
+      "maxEnergyCost": 1,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn18.png"
+    },
+    {
+      "id": "776",
+      "name": "カプ・コケコEX",
+      "cardType": "EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 130,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 20,
+          "effect": "自分のエネルギーゾーンから雷エネルギーを1個出し、このポケモンにつける。"
+        }
+      ],
+      "maxDamage": 90,
+      "maxEnergyCost": 3,
+      "tags": [
+        "エネルギー加速"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn19.png"
+    },
+    {
+      "id": "777",
+      "name": "デンジュモク",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 100,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 60,
+          "effect": "相手のバトルポケモンをこんらんにする。"
+        }
+      ],
+      "maxDamage": 60,
+      "maxEnergyCost": 3,
+      "tags": [
+        "こんらん"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn20.png"
+    },
+    {
+      "id": "778",
+      "name": "ゼラオラ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 90,
+      "type": "雷",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "最初の自分の番の終わりに、自分おエネルギーゾーンから雷エネルギーを1個出し、、このポケモンにつける。",
+      "moves": [],
+      "maxDamage": 50,
+      "maxEnergyCost": 2,
+      "tags": [
+        "エネルギー加速"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn21.png"
+    },
+    {
+      "id": "779",
+      "name": "ピッピ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 60,
+      "type": "超",
+      "weakness": "鋼",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 10,
+      "maxEnergyCost": 1,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn22.png"
+    },
+    {
+      "id": "780",
+      "name": "ピクシー",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "異次元クライシス",
+      "hp": 100,
+      "type": "超",
+      "weakness": "鋼",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 60,
+      "maxEnergyCost": 2,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn23.png"
+    },
+    {
+      "id": "781",
+      "name": "ボクレー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 70,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 30,
+      "maxEnergyCost": 2,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn24.png"
+    },
+    {
+      "id": "782",
+      "name": "オーロット",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "異次元クライシス",
+      "hp": 120,
+      "type": "超",
+      "weakness": "悪",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 70,
+      "maxEnergyCost": 3,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn25.png"
+    },
+    {
+      "id": "783",
+      "name": "ネマシュ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 50,
+      "type": "超",
+      "weakness": "鋼",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 20,
+      "maxEnergyCost": 1,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn26.png"
+    },
+    {
+      "id": "784",
+      "name": "マシェード",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "異次元クライシス",
+      "hp": 90,
+      "type": "超",
+      "weakness": "鋼",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "自分の番に1回使える。自分の山札からポケモンをランダムに1枚、手札に加える。",
+      "moves": [],
+      "maxDamage": 40,
+      "maxEnergyCost": 2,
+      "tags": [
+        "サーチ",
+        " ドロー"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn27.png"
+    },
+    {
+      "id": "785",
+      "name": "アナサン",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 60,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 30,
+          "effect": "コインを1回投げオモテなら、20ダメージ追加。"
+        }
+      ],
+      "maxDamage": 30,
+      "maxEnergyCost": 1,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn28.png"
+    },
+    {
+      "id": "786",
+      "name": "チャーレム",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "異次元クライシス",
+      "hp": 90,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 50,
+      "maxEnergyCost": 1,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn29.png"
+    },
+    {
+      "id": "787",
+      "name": "ヤジロン",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 60,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 30,
+      "maxEnergyCost": 2,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn30.png"
+    },
+    {
+      "id": "788",
+      "name": "ネンドール",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "異次元クライシス",
+      "hp": 100,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 50,
+      "maxEnergyCost": 3,
+      "tags": [
+        "回復禁止"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn31.png"
+    },
+    {
+      "id": "789",
+      "name": "イワンコ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 60,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 40,
+      "maxEnergyCost": 2,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn32.png"
+    },
+    {
+      "id": "790",
+      "name": "ガルファング",
+      "cardType": "EX",
+      "evolutionStage": "1進化",
+      "pack": "異次元クライシス",
+      "hp": 150,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 130,
+          "effect": "このポケモンから闘エネルギーを1個トラッシュ。"
+        }
+      ],
+      "maxDamage": 130,
+      "maxEnergyCost": 3,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn33.png"
+    },
+    {
+      "id": "791",
+      "name": "ナゲツケザル",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 100,
+      "type": "闘",
+      "weakness": "超",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 80,
+          "effect": "自分のベンチに「ナゲツケザル」がいるなら、40ダメージ追加。"
+        }
+      ],
+      "maxDamage": 80,
+      "maxEnergyCost": 2,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn34.png"
+    },
+    {
+      "id": "792",
+      "name": "スナバァ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 80,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 30,
+      "maxEnergyCost": 2,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn35.png"
+    },
+    {
+      "id": "793",
+      "name": "シロデスナ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "異次元クライシス",
+      "hp": 130,
+      "type": "闘",
+      "weakness": "草",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 90,
+          "effect": "次の相手の番、このワザを受けたポケモンはにげるができない。"
+        }
+      ],
+      "maxDamage": 90,
+      "maxEnergyCost": 4,
+      "tags": [
+        "かげふみ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn36.png"
+    },
+    {
+      "id": "794",
+      "name": "アローラニャース",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 60,
+      "type": "悪",
+      "weakness": "草",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "相手の手札から、「ポケモンのどうぐ」をランダムに1枚トラッシュ。"
+        }
+      ],
+      "maxDamage": 0,
+      "maxEnergyCost": 1,
+      "tags": [
+        "敵の道具破壊",
+        " 相手手札干渉"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn37.png"
+    },
+    {
+      "id": "795",
+      "name": "アローラペルシアン",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "異次元クライシス",
+      "hp": 100,
+      "type": "悪",
+      "weakness": "草",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 50,
+          "effect": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+        }
+      ],
+      "maxDamage": 50,
+      "maxEnergyCost": 2,
+      "tags": [
+        "まひ",
+        " コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn38.png"
+    },
+    {
+      "id": "796",
+      "name": "メグロコ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 70,
+      "type": "悪",
+      "weakness": "草",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 20,
+      "maxEnergyCost": 1,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn39.png"
+    },
+    {
+      "id": "797",
+      "name": "ワルビル",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "異次元クライシス",
+      "hp": 90,
+      "type": "悪",
+      "weakness": "草",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 40,
+      "maxEnergyCost": 2,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn40.png"
+    },
+    {
+      "id": "798",
+      "name": "ワルビアル",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "異次元クライシス",
+      "hp": 140,
+      "type": "悪",
+      "weakness": "草",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 90,
+          "effect": "コインを3回投げ、オモテの数ぶん、相手の手札がランダムに選ばれ、そのカードのオモテを見て、相手の山札に戻す。"
+        }
+      ],
+      "maxDamage": 90,
+      "maxEnergyCost": 3,
+      "tags": [
+        "コイン",
+        " 相手手札干渉"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn41.png"
+    },
+    {
+      "id": "799",
+      "name": "ウツロイド",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 70,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "このポケモンがいるかぎり、相手のバトルポケモンが受けるどくのダメージを+10する。",
+      "moves": [
+        {
+          "name": "",
+          "damage": 30,
+          "effect": "相手のバトルポケモンをどくにする。"
+        }
+      ],
+      "maxDamage": 50,
+      "maxEnergyCost": 2,
+      "tags": [
+        "どく",
+        " 敵が毒ならダメアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn42.png"
+    },
+    {
+      "id": "800",
+      "name": "アクジキング",
+      "cardType": "EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 170,
+      "type": "悪",
+      "weakness": "草",
+      "retreatCost": 4,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 30,
+          "effect": "ウラが出るまでコインを投げ、オモテの数ぶん、相手のバトルポケモンからエネルギーをランダムにトラッシュ。"
+        }
+      ],
+      "maxDamage": 120,
+      "maxEnergyCost": 4,
+      "tags": [
+        "コイン",
+        " 敵エネルギートラッシュ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn43.png"
+    },
+    {
+      "id": "801",
+      "name": "ベベノム",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 60,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 40,
+          "effect": "コインを2回投げ、オモテの数×20ダメージ。"
+        }
+      ],
+      "maxDamage": 40,
+      "maxEnergyCost": 1,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn44.png"
+    },
+    {
+      "id": "802",
+      "name": "アーゴヨン",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "異次元クライシス",
+      "hp": 100,
+      "type": "悪",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 40,
+          "effect": "相手のバトルポケモンをどくにする。"
+        }
+      ],
+      "maxDamage": 50,
+      "maxEnergyCost": 1,
+      "tags": [
+        "どく"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn45.png"
+    },
+    {
+      "id": "803",
+      "name": "アローラディグダ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 60,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 40,
+          "effect": "コインを1回投げウラなら、このワザは失敗。"
+        }
+      ],
+      "maxDamage": 40,
+      "maxEnergyCost": 1,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn46.png"
+    },
+    {
+      "id": "804",
+      "name": "アローラダグトリオEX",
+      "cardType": "EX",
+      "evolutionStage": "1進化",
+      "pack": "異次元クライシス",
+      "hp": 130,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 180,
+          "effect": "コインを3回投げ、オモテの数×60ダメージ。"
+        }
+      ],
+      "maxDamage": 180,
+      "maxEnergyCost": 2,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn47.png"
+    },
+    {
+      "id": "805",
+      "name": "ココドラ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 70,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 40,
+      "maxEnergyCost": 2,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn48.png"
+    },
+    {
+      "id": "806",
+      "name": "コドラ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "異次元クライシス",
+      "hp": 100,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 60,
+      "maxEnergyCost": 3,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn49.png"
+    },
+    {
+      "id": "807",
+      "name": "ボスゴドラ",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "異次元クライシス",
+      "hp": 160,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 4,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 150,
+          "effect": "次の自分の番、このポケモンはワザが使えない。"
+        }
+      ],
+      "maxDamage": 150,
+      "maxEnergyCost": 4,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn50.png"
+    },
+    {
+      "id": "808",
+      "name": "テッシード",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 60,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 40,
+      "maxEnergyCost": 2,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn51.png"
+    },
+    {
+      "id": "809",
+      "name": "ナットレイ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "異次元クライシス",
+      "hp": 110,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンに20ダメージ。",
+      "moves": [],
+      "maxDamage": 70,
+      "maxEnergyCost": 3,
+      "tags": [
+        "さめはだ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn52.png"
+    },
+    {
+      "id": "810",
+      "name": "ツンデツンデ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 110,
+      "type": "鋼",
+      "weakness": "炎",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 40,
+          "effect": "次の相手の番、このポケモンが受けるワザのダメージを-20する。"
+        }
+      ],
+      "maxDamage": 40,
+      "maxEnergyCost": 2,
+      "tags": [
+        "ダメージ軽減"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn53.png"
+    },
+    {
+      "id": "811",
+      "name": "ヨーテリー",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 60,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 20,
+      "maxEnergyCost": 1,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn54.png"
+    },
+    {
+      "id": "812",
+      "name": "ハーデリア",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "異次元クライシス",
+      "hp": 80,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 30,
+      "maxEnergyCost": 1,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn55.png"
+    },
+    {
+      "id": "813",
+      "name": "ムーランド",
+      "cardType": "非EX",
+      "evolutionStage": "2進化",
+      "pack": "異次元クライシス",
+      "hp": 140,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "このポケモンがバトル場にいるかぎり、相手のバトルポケモンの、ワザを使うためのエネルギーを、無色エネルギー1個ぶん多くする。",
+      "moves": [],
+      "maxDamage": 70,
+      "maxEnergyCost": 2,
+      "tags": [
+        "敵の技エネ増加"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn56.png"
+    },
+    {
+      "id": "814",
+      "name": "ヌイコグマ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 70,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 40,
+      "maxEnergyCost": 2,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn57.png"
+    },
+    {
+      "id": "815",
+      "name": "キテルグマ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "異次元クライシス",
+      "hp": 120,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 3,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 200,
+          "effect": "コインを2回投げ、すべてオモテなら、相手のバトルポケモンをきぜつさせる。"
+        }
+      ],
+      "maxDamage": 200,
+      "maxEnergyCost": 3,
+      "tags": [
+        "コイン",
+        " 敵のバトルポケモン除去"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn58.png"
+    },
+    {
+      "id": "816",
+      "name": "ヤレユータン",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 100,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [],
+      "maxDamage": 70,
+      "maxEnergyCost": 3,
+      "tags": [],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn59.png"
+    },
+    {
+      "id": "817",
+      "name": "タイプ・ヌル",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 80,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 2,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 40,
+          "effect": "コインを1回投げオモテなら、２０ダメージ追加。"
+        }
+      ],
+      "maxDamage": 40,
+      "maxEnergyCost": 1,
+      "tags": [
+        "コイン"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn60.png"
+    },
+    {
+      "id": "818",
+      "name": "シルヴァディ",
+      "cardType": "非EX",
+      "evolutionStage": "1進化",
+      "pack": "異次元クライシス",
+      "hp": 110,
+      "type": "無色",
+      "weakness": "闘",
+      "retreatCost": 1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 100,
+          "effect": "この番、手札からサポートを出して使っていたなら、50ダメージ追加。"
+        }
+      ],
+      "maxDamage": 100,
+      "maxEnergyCost": 2,
+      "tags": [
+        "サポートを使ったらダメージ追加。"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn61.png"
+    },
+    {
+      "id": "819",
+      "name": "テッカグヤ",
+      "cardType": "非EX",
+      "evolutionStage": "たね",
+      "pack": "異次元クライシス",
+      "hp": 120,
+      "type": "無色",
+      "weakness": "雷",
+      "retreatCost": 0,
+      "abilityName": "",
+      "abilityEffect": "自分の番に1回使える。自分のバトル場の「ウルトラビースト」を、ベンチの「ウルトラビースト」と入れ替える。",
+      "moves": [
+        {
+          "name": "",
+          "damage": 100,
+          "effect": "コインを1回投げウラなら、このワザは失敗。"
+        }
+      ],
+      "maxDamage": 100,
+      "maxEnergyCost": 3,
+      "tags": [
+        "ベンチに逃げる",
+        " 逃げエネ減少"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn62.png"
+    },
+    {
+      "id": "820",
+      "name": "ビーストウォール",
+      "cardType": "グッズ",
+      "evolutionStage": "",
+      "pack": "異次元クライシス",
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": -1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "このカードは、相手がポイントをとっていない時にしか使えない。次の相手の番、自分の「ウルトラビースト」全員が、相手のポケモンから受けるワザのダメージを-20する。"
+        }
+      ],
+      "maxDamage": 0,
+      "maxEnergyCost": 0,
+      "tags": [
+        "ダメージ軽減"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn63.png"
+    },
+    {
+      "id": "821",
+      "name": "むしよけスプレー",
+      "cardType": "グッズ",
+      "evolutionStage": "",
+      "pack": "異次元クライシス",
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": -1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "相手のバトル場のたねポケモンをベンチポケモンと入れ替える[バトル場に出すポケモンは相手が選ぶ。]"
+        }
+      ],
+      "maxDamage": 0,
+      "maxEnergyCost": 0,
+      "tags": [
+        "敵ポケ入れ替え"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn64.png"
+    },
+    {
+      "id": "822",
+      "name": "エレキコード",
+      "cardType": "ポケモンのどうぐ",
+      "evolutionStage": "",
+      "pack": "異次元クライシス",
+      "hp": 0,
+      "type": "雷",
+      "weakness": "",
+      "retreatCost": -1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "このカードをつけている雷ポケモンが、バトル場で相手のポケモンからワザのダメージを受けてきぜつしたとき、そのポケモンから雷エネルギーを2個、ベンチポケモン2匹に1個ずつつけ替える。"
+        }
+      ],
+      "maxDamage": 0,
+      "maxEnergyCost": 0,
+      "tags": [
+        "エネルギー付け替え",
+        " エネルギー加速"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn65.png"
+    },
+    {
+      "id": "823",
+      "name": "ビーストナイト",
+      "cardType": "ポケモンのどうぐ",
+      "evolutionStage": "",
+      "pack": "異次元クライシス",
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": -1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "このカードをつけている「ウルトラビースト」が使うワザの、相手のバトルポケモンへのダメージを、じぶんのすでにとったポイント数につき+10する。"
+        }
+      ],
+      "maxDamage": 0,
+      "maxEnergyCost": 0,
+      "tags": [
+        "ダメージアップ"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn66.png"
+    },
+    {
+      "id": "824",
+      "name": "グラジオ",
+      "cardType": "サポート",
+      "evolutionStage": "",
+      "pack": "異次元クライシス",
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": -1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "自分の山札から「タイプ:ヌル」「シルヴァディ」をランダムに1枚、手札に加える。"
+        }
+      ],
+      "maxDamage": 0,
+      "maxEnergyCost": 0,
+      "tags": [
+        "サーチ",
+        " ドロー"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn67.png"
+    },
+    {
+      "id": "825",
+      "name": "ハンサム",
+      "cardType": "サポート",
+      "evolutionStage": "",
+      "pack": "異次元クライシス",
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": -1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "相手の山札にあるサポートをすべて見る。"
+        }
+      ],
+      "maxDamage": 0,
+      "maxEnergyCost": 0,
+      "tags": [
+        "山札チェック"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn68.png"
+    },
+    {
+      "id": "826",
+      "name": "ルザミーネ",
+      "cardType": "サポート",
+      "evolutionStage": "",
+      "pack": "異次元クライシス",
+      "hp": 0,
+      "type": "",
+      "weakness": "",
+      "retreatCost": -1,
+      "abilityName": "",
+      "abilityEffect": "",
+      "moves": [
+        {
+          "name": "",
+          "damage": 0,
+          "effect": "このカードは、相手がポイントをとっているときにしか使えない。自分の「ウルトラビースト」を1匹選ぶ。自分のトラッシュからエネルギーをランダムに2個、そのポケモンにつける。"
+        }
+      ],
+      "maxDamage": 0,
+      "maxEnergyCost": 0,
+      "tags": [
+        "エネルギー付け替え",
+        " エネルギー加速"
+      ],
+      "imageKey": "https://noutetu.github.io/PokeDeckCards/CardImage/IjigenKuraisisu/Ijigenn69.png"
     }
   ]
 }
