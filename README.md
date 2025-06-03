@@ -1,2 +1,2 @@
 # PokeDeckCards
-ポケデキのカードデータ
+P-Deckのカードデータ
